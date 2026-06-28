@@ -61,7 +61,7 @@ streamlit run app.py
 
 ## 🌐 Live Dashboard
 
-🔗 *[Add Streamlit Cloud link here after deployment]*
+🔗 [https://teyzix-internship-data-analytics-muhammadtayyab.streamlit.app/](https://teyzix-internship-data-analytics-6biytpxgmsf56c8s9bbzsy.streamlit.app/)
 
 ## 👤 Author
 
