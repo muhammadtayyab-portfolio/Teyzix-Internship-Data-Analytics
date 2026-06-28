@@ -1,0 +1,1216 @@
+Transaction_ID,Customer_ID,Customer_Age,Customer_Gender,Product_Category,Product_Name,Quantity,Unit_Price,Discount_Percent,Total_Amount,Purchase_Date,Customer_City,Payment_Method,Store_Branch,Rating
+TXN00753,CUST0276,33,Female,Accessories,Wireless Charger Pad,4,76.3,10,274.68,2025-06-15,Ras Al Khaimah,Debit Card,Online Store,3.0
+TXN00888,CUST0268,34,Female,Wearables,Samsung Galaxy Watch 6,2,1744.71,20,2791.54,2025-04-24,Abu Dhabi,Apple Pay,Downtown Branch,3.0
+TXN01079,CUST0236,32,Male,Cameras,Canon EOS R50,3,5619.87,10,15173.65,2025-07-08,Fujairah,Debit Card,Online Store,5.0
+TXN00860,CUST0059,51,Male,Audio,Bose QuietComfort,1,1718.41,10,1546.57,2025-06-27,Al Ain,Apple Pay,Mall Branch,5.0
+TXN00399,CUST0221,65,Male,Gaming,Xbox Series X,1,1538.92,10,1385.03,2025-12-09,Ajman,Cash,Outlet Branch,4.0
+TXN01160,CUST0092,45,Male,Tablets,iPad Air,1,2518.34,0,2518.34,2025-01-13,Abu Dhabi,Tabby (BNPL),Outlet Branch,5.0
+TXN01002,CUST0253,52,Female,TVs,Hisense 43in 4K,1,3317.89,0,3317.89,2025-04-19,Ras Al Khaimah,Tabby (BNPL),Outlet Branch,
+TXN00048,CUST0117,60,Female,Smart Home,Philips Hue Starter Kit,1,1018.79,5,967.85,2025-04-11,Ajman,Cash,Online Store,
+TXN00674,CUST0211,27,Male,Audio,Sony WH-1000XM5,1,898.13,0,898.13,2025-09-04,Ajman,Cash,Mall Branch,4.0
+TXN00957,CUST0005,45,Male,Accessories,Anker Power Bank,1,339.08,10,305.17,2025-03-02,Dubai,Tabby (BNPL),Mall Branch,4.0
+TXN00929,CUST0055,29,Male,Accessories,Laptop Sleeve,1,133.57,10,120.21,2025-12-26,Fujairah,Debit Card,Mall Branch,5.0
+TXN00980,CUST0233,44,Female,TVs,Samsung 55in QLED,4,6070.51,0,24282.04,2025-12-16,Fujairah,Cash,Mall Branch,5.0
+TXN00487,CUST0103,30,Female,Cameras,DJI Osmo Pocket 3,1,1981.43,0,1981.43,2025-11-07,Sharjah,Tabby (BNPL),Mall Branch,5.0
+TXN00708,CUST0035,54,Female,Audio,Bose QuietComfort,2,828.61,0,1657.22,2025-05-25,Sharjah,Credit Card,Online Store,4.0
+TXN00849,CUST0195,59,Male,Mobiles,Xiaomi Redmi Note 13,5,3721.37,0,18606.85,2025-03-01,Fujairah,Apple Pay,Online Store,4.0
+TXN00927,CUST0156,30,Female,Smart Home,Amazon Echo Dot,2,1111.97,0,2223.94,2025-06-22,Abu Dhabi,Debit Card,Online Store,3.0
+TXN00898,CUST0148,53,Female,Cameras,GoPro Hero 12,1,5036.35,0,5036.35,2025-11-16,Al Ain,Cash,Downtown Branch,3.0
+TXN00930,CUST0090,24,Male,Smart Home,Ring Video Doorbell,1,1118.49,0,1118.49,2025-01-24,Sharjah,Credit Card,Outlet Branch,5.0
+TXN01039,CUST0238,19,Male,Audio,Sony WH-1000XM5,1,789.5,15,671.07,2025-05-11,Sharjah,Cash,Outlet Branch,4.0
+TXN00787,CUST0052,36,Female,Smart Home,Ring Video Doorbell,1,357.42,10,321.68,2025-06-16,Sharjah,Credit Card,Downtown Branch,5.0
+TXN00437,CUST0185,65,Male,Mobiles,iPhone 15,1,3643.49,10,3279.14,2025-11-25,Ras Al Khaimah,Apple Pay,Mall Branch,4.0
+TXN00138,CUST0009,46,Female,Audio,AirPods Pro 2,1,261.03,0,261.03,2025-10-28,Fujairah,Credit Card,Downtown Branch,5.0
+TXN00641,CUST0235,65,Male,Tablets,iPad Air,1,2644.52,0,2644.52,2025-02-18,Abu Dhabi,Cash,Mall Branch,5.0
+TXN00825,CUST0118,38,Male,Smart Home,Amazon Echo Dot,1,760.01,0,760.01,2025-10-24,Dubai,Debit Card,Mall Branch,4.0
+TXN00274,CUST0272,53,Male,Audio,Sony WH-1000XM5,2,1266.63,0,2533.26,2025-10-12,Ras Al Khaimah,Cash,Downtown Branch,3.0
+TXN00415,CUST0273,48,Female,Laptops,Dell XPS 13,5,2991.56,0,14957.8,2025-11-02,Ajman,Debit Card,Online Store,4.0
+TXN00103,CUST0208,22,Female,TVs,Hisense 43in 4K,1,1696.22,0,1696.22,2025-06-07,sharjah,Cash,Downtown Branch,4.0
+TXN00392,CUST0079,39,Male,Cameras,GoPro Hero 12,2,2774.3,0,5548.6,2025-07-03,Al Ain,Credit Card,Downtown Branch,3.0
+TXN01134,CUST0078,22,Male,Audio,Bose QuietComfort,1,384.97,0,384.97,2025-09-17,Fujairah,Cash,Mall Branch,5.0
+TXN00609,CUST0152,39,Female,Cameras,Canon EOS R50,4,4030.47,0,16121.88,2025-07-14,Fujairah,Credit Card,Outlet Branch,5.0
+TXN00021,CUST0165,24,Female,Audio,AirPods Pro 2,1,1093.47,10,984.12,2025-01-24,Abu Dhabi,Apple Pay,Outlet Branch,4.0
+TXN00200,CUST0110,22,Male,Tablets,Xiaomi Pad 6,1,2425.01,0,2425.01,2025-12-05,Ajman,Credit Card,Outlet Branch,4.0
+TXN00100,CUST0266,38,Male,TVs,Samsung 55in QLED,2,2904.12,0,5808.24,2025-01-10,Ajman,Tabby (BNPL),Mall Branch,4.0
+TXN00271,CUST0176,26,Male,Smart Home,Ring Video Doorbell,3,300.39,0,901.17,2025-01-11,Ajman,Debit Card,Online Store,5.0
+TXN00780,CUST0209,35,Female,Gaming,PlayStation 5,1,,0,1696.29,2025-01-19,Abu Dhabi,Credit Card,Mall Branch,5.0
+TXN00843,CUST0132,58,Female,Accessories,USB-C Cable Pack,5,330.75,0,1653.75,2025-05-10,Al Ain,Apple Pay,Outlet Branch,5.0
+TXN00769,CUST0266,38,Male,TVs,Hisense 43in 4K,1,2151.01,0,2151.01,2025-12-12,Ajman,Tabby (BNPL),Downtown Branch,
+TXN00910,CUST0001,58,Male,Mobiles,Xiaomi Redmi Note 13,3,1309.56,10,3535.81,2025-07-25,Dubai,Tabby (BNPL),Downtown Branch,5.0
+TXN00469,CUST0004,24,Male,Cameras,DJI Osmo Pocket 3,1,5657.42,0,5657.42,2025-06-18,Al Ain,Tabby (BNPL),Online Store,2.0
+TXN00670,CUST0217,55,Male,Laptops,Dell XPS 13,1,2976.58,0,2976.58,2025-09-01,Fujairah,Apple Pay,Outlet Branch,5.0
+TXN00693,CUST0136,18,Female,Laptops,HP Pavilion 15,1,8261.07,0,8261.07,2025-07-03,Fujairah,Cash,Downtown Branch,3.0
+TXN00489,CUST0200,47,Female,TVs,LG 65in OLED,4,5960.38,0,23841.52,2025-07-25,Fujairah,Apple Pay,Outlet Branch,4.0
+TXN00438,CUST0069,52,Male,Laptops,HP Pavilion 15,1,3969.06,0,3969.06,2025-03-02,Ras Al Khaimah,Credit Card,Mall Branch,4.0
+TXN00996,CUST0068,56,Female,TVs,Samsung 55in QLED,1,1720.38,5,1634.36,2025-11-01,Sharjah,Credit Card,Downtown Branch,3.0
+TXN00491,CUST0156,30,Female,Smart Home,Amazon Echo Dot,5,813.89,0,4069.45,2025-07-11,Abu Dhabi,Credit Card,Outlet Branch,5.0
+TXN00998,CUST0242,62,Female,Smart Home,Philips Hue Starter Kit,1,601.01,0,601.01,2025-03-10,Fujairah,Tabby (BNPL),Downtown Branch,4.0
+TXN00915,CUST0216,31,Female,Smart Home,Ring Video Doorbell,1,179.06,20,143.25,2025-06-25,Ajman,Debit Card,Online Store,5.0
+TXN00412,CUST0268,34,Female,TVs,Hisense 43in 4K,5,5436.69,5,25824.28,2025-10-13,Abu Dhabi,Tabby (BNPL),Mall Branch,4.0
+TXN00506,CUST0167,56,Male,Audio,Sony WH-1000XM5,1,688.12,5,653.71,2025-12-13,Ajman,Debit Card,Mall Branch,4.0
+TXN00269,CUST0158,19,Male,Smart Home,Philips Hue Starter Kit,1,540.27,0,540.27,2025-01-02,Ajman,Tabby (BNPL),Mall Branch,4.0
+TXN01106,CUST0079,39,Male,Audio,AirPods Pro 2,1,490.14,0,490.14,2025-09-28,Al Ain,Credit Card,Downtown Branch,4.0
+TXN00857,CUST0172,39,Female,Laptops,Dell XPS 13,1,4941.18,0,4941.18,2025-02-14,Ras Al Khaimah,Apple Pay,Online Store,5.0
+TXN01181,CUST0118,38,Male,Mobiles,Google Pixel 8,2,1482.57,10,2668.63,2025-03-20,Dubai,Cash,Outlet Branch,5.0
+TXN00362,CUST0242,62,Female,Cameras,GoPro Hero 12,1,3012.58,0,3012.58,2025-11-12,Fujairah,Cash,Outlet Branch,4.0
+TXN00315,CUST0079,39,Male,Mobiles,Google Pixel 8,1,3452.41,0,3452.41,2025-02-09,Al Ain,Tabby (BNPL),Mall Branch,4.0
+TXN00062,CUST0100,42,Male,Gaming,Nintendo Switch OLED,3,1900.23,10,5130.62,2025-03-05,Ajman,Cash,Downtown Branch,3.0
+TXN00231,CUST0199,25,Female,Gaming,Xbox Series X,1,687.42,10,618.68,2025-10-19,Sharjah,Credit Card,Online Store,5.0
+TXN00660,CUST0169,20,Female,Mobiles,Samsung Galaxy S24,1,3191.84,0,3191.84,2025-12-22,Dubai,Debit Card,Outlet Branch,4.0
+TXN00356,CUST0092,45,Male,Accessories,Wireless Charger Pad,3,143.13,0,429.39,2025-12-22,Abu Dhabi,Debit Card,Outlet Branch,5.0
+TXN00328,CUST0149,65,Male,Tablets,Xiaomi Pad 6,1,2103.14,0,2103.14,2025-01-08,Sharjah,Tabby (BNPL),Downtown Branch,5.0
+TXN00183,CUST0096,59,Male,Gaming,Logitech G502 Mouse,3,1662.7,20,3990.48,2025-06-07,Dubai,Apple Pay,Outlet Branch,4.0
+TXN00513,CUST0152,39,Female,Audio,Sony WH-1000XM5,2,176.28,0,352.56,2025-06-19,Fujairah,Tabby (BNPL),Mall Branch,5.0
+TXN00526,CUST0018,53,Female,Gaming,Nintendo Switch OLED,1,625.48,20,500.38,2025-07-04,Fujairah,Credit Card,Outlet Branch,5.0
+TXN00985,CUST0252,54,Male,Wearables,Samsung Galaxy Watch 6,1,2074.98,5,1971.23,2025-09-21,Abu Dhabi,Tabby (BNPL),Downtown Branch,5.0
+TXN00914,CUST0224,39,Female,Laptops,Dell XPS 13,2,5449.29,0,10898.58,2025-10-12,Ras Al Khaimah,Apple Pay,Online Store,4.0
+TXN00474,CUST0150,28,Male,Cameras,Canon EOS R50,1,2577.49,0,2577.49,2025-12-09,Ajman,Cash,Downtown Branch,5.0
+TXN00695,CUST0071,59,Female,Wearables,Fitbit Charge 6,1,321.33,10,289.2,2025-11-13,Ajman,Apple Pay,Mall Branch,4.0
+TXN01089,CUST0119,47,Male,Audio,JBL Flip 6,1,977.94,0,977.94,2025-01-10,Dubai,Tabby (BNPL),Downtown Branch,4.0
+TXN00227,CUST0256,44,Female,Smart Home,Ring Video Doorbell,1,214.03,0,214.03,2025-02-26,Dubai,Tabby (BNPL),Downtown Branch,5.0
+TXN01065,CUST0115,31,Female,Tablets,iPad Air,2,2378.79,15,4043.94,2025-04-08,Sharjah,Debit Card,Outlet Branch,5.0
+TXN00621,CUST0200,47,Female,Smart Home,Philips Hue Starter Kit,2,985.77,10,1774.39,2025-09-10,Fujairah,Credit Card,Outlet Branch,3.0
+TXN00364,CUST0101,34,Female,Tablets,Samsung Galaxy Tab S9,1,2024.36,0,2024.36,2025-01-28,Abu Dhabi,Tabby (BNPL),Online Store,5.0
+TXN00069,CUST0077,63,Male,Gaming,PlayStation 5,1,1582.03,0,1582.03,2025-12-23,Sharjah,Apple Pay,Downtown Branch,4.0
+TXN00525,CUST0090,24,Male,Tablets,Samsung Galaxy Tab S9,1,1366.13,0,1366.13,2025-01-09,Sharjah,Cash,Downtown Branch,3.0
+TXN00884,CUST0233,44,Female,Accessories,Anker Power Bank,4,299.78,0,1199.12,2025-03-27,Fujairah,Credit Card,Downtown Branch,3.0
+TXN00452,CUST0141,62,Male,Laptops,MacBook Air M3,1,8687.24,0,8687.24,2025-07-18,Al Ain,Cash,Online Store,3.0
+TXN00466,CUST0196,24,Female,Smart Home,Ring Video Doorbell,1,606.95,0,606.95,2025-01-18,Sharjah,Apple Pay,Online Store,5.0
+TXN00350,CUST0001,58,Male,Tablets,iPad Air,2,3491.09,0,6982.18,2025-05-19,Dubai,Debit Card,Mall Branch,5.0
+TXN00240,CUST0253,52,Female,Smart Home,Philips Hue Starter Kit,1,723.33,0,723.33,2025-12-21,Ras Al Khaimah,Debit Card,Downtown Branch,4.0
+TXN00716,CUST0023,32,Male,Smart Home,Amazon Echo Dot,1,1006.41,5,956.09,2025-09-18,Ajman,Apple Pay,Outlet Branch,3.0
+TXN00530,CUST0143,53,Male,Audio,Sony WH-1000XM5,3,287.92,5,820.57,2025-12-17,Ajman,Apple Pay,Downtown Branch,4.0
+TXN00236,CUST0183,46,Female,Audio,AirPods Pro 2,2,774.33,0,1548.66,2025-02-01,Ras Al Khaimah,Tabby (BNPL),Outlet Branch,5.0
+TXN00249,CUST0041,43,Female,Smart Home,Amazon Echo Dot,4,677.21,10,2437.96,2025-10-20,Sharjah,Debit Card,Mall Branch,5.0
+TXN00917,CUST0004,24,Male,Accessories,Laptop Sleeve,1,298.54,0,298.54,2025-12-04,,Cash,Mall Branch,5.0
+TXN00320,CUST0044,58,Male,TVs,LG 65in OLED,4,6288.42,0,25153.68,2025-06-21,Fujairah,Tabby (BNPL),Downtown Branch,
+TXN00016,CUST0068,56,Female,TVs,Hisense 43in 4K,1,7189.76,0,7189.76,2025-09-26,Sharjah,Debit Card,Downtown Branch,4.0
+TXN00788,CUST0129,53,Male,Audio,Bose QuietComfort,1,802.34,0,802.34,2025-02-26,Abu Dhabi,Cash,Mall Branch,5.0
+TXN01066,CUST0190,20,Male,Mobiles,OnePlus 12,2,4069.0,0,8138.0,2025-12-28,,Debit Card,Outlet Branch,4.0
+TXN00497,CUST0055,29,Male,Laptops,Lenovo ThinkPad E14,2,5962.33,0,11924.66,2025-03-11,Fujairah,Apple Pay,Online Store,3.0
+TXN01175,CUST0008,30,Female,Mobiles,Google Pixel 8,2,,15,2655.93,2025-01-08,Sharjah,Cash,Downtown Branch,5.0
+TXN00953,CUST0175,43,Female,Cameras,DJI Osmo Pocket 3,2,5761.58,15,9794.69,2025-11-26,Al Ain,Credit Card,Outlet Branch,5.0
+TXN00472,CUST0176,26,Male,Wearables,Apple Watch Series 9,1,1472.17,0,1472.17,2025-11-14,Ajman,Cash,Online Store,4.0
+TXN00068,CUST0174,37,Female,Cameras,Canon EOS R50,2,5340.75,0,10681.5,2025-01-22,Abu Dhabi,Apple Pay,Online Store,4.0
+TXN00072,CUST0071,59,Female,Tablets,iPad Air,2,1528.22,0,3056.44,2025-07-24,Ajman,Tabby (BNPL),Mall Branch,5.0
+TXN00371,CUST0049,64,Male,Laptops,Lenovo ThinkPad E14,1,5613.25,0,5613.25,2025-11-03,Ras Al Khaimah,Credit Card,Online Store,5.0
+TXN01074,CUST0019,58,Female,Tablets,Samsung Galaxy Tab S9,1,2160.98,10,1944.88,2025-08-23,Al Ain,Cash,Online Store,5.0
+TXN00764,CUST0049,64,Male,Cameras,Sony Alpha A6400,5,3111.78,5,14780.95,2025-03-05,Ras Al Khaimah,Credit Card,Online Store,2.0
+TXN00336,CUST0021,60,Male,Cameras,Sony Alpha A6400,1,1307.52,0,1307.52,2025-12-20,Fujairah,Tabby (BNPL),Mall Branch,5.0
+TXN00807,CUST0113,23,Female,TVs,Sony 50in Bravia,1,4954.63,0,4954.63,2025-03-02,,Debit Card,Online Store,5.0
+TXN00084,CUST0171,45,Male,Tablets,iPad Air,1,1686.44,5,1602.12,2025-11-22,Ras Al Khaimah,Apple Pay,Outlet Branch,5.0
+TXN00400,CUST0204,34,Male,Mobiles,iPhone 15,1,4436.94,0,4436.94,2025-12-10,Fujairah,Credit Card,Online Store,5.0
+TXN01168,CUST0060,38,Female,Wearables,Apple Watch Series 9,1,1145.86,0,1145.86,2025-11-07,Dubai,Apple Pay,Mall Branch,4.0
+TXN00306,CUST0100,42,Male,TVs,Hisense 43in 4K,0,2406.5,0,4813.0,2025-02-17,Ajman,Credit Card,Outlet Branch,2.0
+TXN01040,CUST0274,19,Male,Laptops,HP Pavilion 15,2,5162.32,0,10324.64,2025-03-20,abu dhabi,Debit Card,Downtown Branch,4.0
+TXN00059,CUST0022,36,Male,Smart Home,Amazon Echo Dot,1,632.74,0,632.74,2025-06-13,Fujairah,Apple Pay,Online Store,3.0
+TXN00758,CUST0166,64,Female,Cameras,Canon EOS R50,2,5673.95,0,11347.9,2025-02-05,,Apple Pay,Outlet Branch,4.0
+TXN00406,CUST0202,53,Female,Accessories,Anker Power Bank,1,101.07,0,101.07,2025-01-03,Sharjah,Apple Pay,Mall Branch,4.0
+TXN00616,CUST0012,27,Male,Laptops,Dell XPS 13,2,8268.12,0,16536.24,2025-06-01,Fujairah,Apple Pay,Downtown Branch,3.0
+TXN00634,CUST0172,39,Female,Smart Home,Google Nest Hub,1,696.49,0,696.49,2025-07-10,Ras Al Khaimah,Tabby (BNPL),Online Store,5.0
+TXN00942,CUST0014,42,Male,Audio,Bose QuietComfort,2,1275.2,0,2550.4,2025-01-25,Abu Dhabi,Apple Pay,Downtown Branch,4.0
+TXN00883,CUST0213,31,Male,TVs,Sony 50in Bravia,1,3356.89,0,3356.89,2025-11-16,Ajman,Tabby (BNPL),Mall Branch,4.0
+TXN00673,CUST0227,55,Male,Mobiles,Xiaomi Redmi Note 13,1,3059.73,0,3059.73,2025-01-02,Dubai,Cash,Outlet Branch,4.0
+TXN00233,CUST0120,52,Male,Cameras,Sony Alpha A6400,1,1109.6,0,1109.6,2025-09-26,Al Ain,Debit Card,Online Store,
+TXN00287,CUST0248,63,Male,Cameras,DJI Osmo Pocket 3,1,1996.93,0,1996.93,2025-01-22,Dubai,Debit Card,Outlet Branch,5.0
+TXN00553,CUST0252,54,Male,Laptops,Lenovo ThinkPad E14,2,4785.44,0,9570.88,2025-01-13,Abu Dhabi,Tabby (BNPL),Mall Branch,5.0
+TXN00319,CUST0074,39,Male,TVs,Sony 50in Bravia,1,7710.26,10,6939.23,2025-01-02,Al Ain,Credit Card,Outlet Branch,4.0
+TXN00071,CUST0217,55,Male,Wearables,Fitbit Charge 6,1,345.58,20,276.46,2025-04-25,Fujairah,Apple Pay,Downtown Branch,3.0
+TXN00008,CUST0241,25,Male,TVs,Samsung 55in QLED,2,2774.04,5,5270.68,2025-06-22,Ajman,Debit Card,Online Store,5.0
+TXN00828,CUST0218,54,Female,Gaming,PlayStation 5,2,1843.08,0,3686.16,2025-11-28,Ajman,Debit Card,Mall Branch,3.0
+TXN00791,CUST0254,41,Male,Tablets,Lenovo Tab P11,2,2803.05,0,5606.1,2025-11-24,Al Ain,Apple Pay,Downtown Branch,3.0
+TXN00544,CUST0156,30,Female,Mobiles,iPhone 15,3,1622.72,0,4868.16,2025-03-05,Abu Dhabi,Debit Card,Downtown Branch,5.0
+TXN00580,CUST0123,36,Male,TVs,Hisense 43in 4K,5,3303.03,0,16515.15,2025-11-04,Ajman,Tabby (BNPL),Downtown Branch,5.0
+TXN00488,CUST0133,49,Female,Laptops,MacBook Air M3,1,2046.9,0,2046.9,2025-06-16,Fujairah,Debit Card,Mall Branch,5.0
+TXN00456,CUST0239,19,Male,Accessories,USB-C Cable Pack,1,333.18,10,299.86,2025-03-12,Sharjah,Apple Pay,Downtown Branch,5.0
+TXN01200,CUST0128,25,Male,Laptops,Dell XPS 13,1,8318.89,0,8318.89,2025-12-16,Ras Al Khaimah,Apple Pay,Outlet Branch,3.0
+TXN00946,CUST0067,28,Female,Cameras,DJI Osmo Pocket 3,1,3632.86,0,3632.86,2025-03-18,Al Ain,Debit Card,Outlet Branch,5.0
+TXN01194,CUST0112,56,Male,Gaming,Xbox Series X,4,1751.23,0,7004.92,2025-12-01,Al Ain,Debit Card,Outlet Branch,
+TXN01000,CUST0245,28,Female,Cameras,Canon EOS R50,1,4535.5,10,4081.95,2025-12-04,Dubai,Tabby (BNPL),Downtown Branch,3.0
+TXN00147,CUST0255,59,Female,Accessories,Anker Power Bank,2,286.9,10,516.42,2025-04-07,Dubai,Cash,Online Store,4.0
+TXN00102,CUST0136,18,Female,Audio,Bose QuietComfort,1,1169.88,10,1052.89,2025-07-21,Fujairah,Cash,Outlet Branch,4.0
+TXN00477,CUST0212,62,Male,Smart Home,Google Nest Hub,2,843.7,0,1687.4,2025-08-27,Ras Al Khaimah,Cash,Mall Branch,5.0
+TXN00921,CUST0259,29,Female,Accessories,Laptop Sleeve,1,47.81,0,47.81,2025-12-27,Al Ain,Debit Card,Online Store,5.0
+TXN00380,CUST0053,47,Male,TVs,Sony 50in Bravia,1,2050.27,0,2050.27,2025-01-01,Ras Al Khaimah,Apple Pay,Downtown Branch,4.0
+TXN00288,CUST0058,41,Male,Smart Home,Ring Video Doorbell,1,198.27,0,198.27,2025-11-22,Al Ain,Tabby (BNPL),Downtown Branch,5.0
+TXN00334,CUST0096,59,Male,Tablets,Lenovo Tab P11,3,2385.66,5,6799.13,2025-06-11,Dubai,Credit Card,Outlet Branch,5.0
+TXN00969,CUST0147,24,Female,Gaming,Nintendo Switch OLED,1,559.52,0,559.52,2025-01-16,Fujairah,Debit Card,Downtown Branch,5.0
+TXN00376,CUST0005,45,Male,Accessories,Laptop Sleeve,2,125.88,10,226.58,2025-08-26,Dubai,Credit Card,Online Store,3.0
+TXN00432,CUST0027,35,Male,Smart Home,Philips Hue Starter Kit,2,474.99,0,949.98,2025-09-04,Al Ain,Debit Card,Downtown Branch,1.0
+TXN00120,CUST0276,33,Female,TVs,Sony 50in Bravia,2,2133.46,0,4266.92,2025-03-22,Ras Al Khaimah,Tabby (BNPL),Downtown Branch,5.0
+TXN00280,CUST0071,59,Female,Smart Home,Amazon Echo Dot,2,687.16,0,1374.32,2025-11-16,Ajman,Debit Card,Downtown Branch,5.0
+TXN00408,CUST0101,34,Female,Wearables,Samsung Galaxy Watch 6,1,905.79,0,905.79,2025-10-19,Abu Dhabi,Credit Card,Mall Branch,5.0
+TXN00951,CUST0197,29,Female,Accessories,Anker Power Bank,1,306.09,0,306.09,2025-03-06,Dubai,Apple Pay,Mall Branch,5.0
+TXN00824,CUST0212,62,Male,Cameras,GoPro Hero 12,4,1760.22,15,5984.75,2025-05-18,Ras Al Khaimah,Apple Pay,Outlet Branch,4.0
+TXN01050,CUST0274,19,Male,Laptops,Dell XPS 13,2,6950.91,0,13901.82,2025-03-15,Abu Dhabi,Tabby (BNPL),Downtown Branch,
+TXN00794,CUST0059,51,Male,TVs,LG 65in OLED,1,5731.05,0,5731.05,2025-11-04,Al Ain,Tabby (BNPL),Downtown Branch,3.0
+TXN01115,CUST0057,58,Male,Tablets,iPad Air,1,2093.16,5,1988.5,2025-12-09,Sharjah,Tabby (BNPL),Online Store,1.0
+TXN00968,CUST0118,38,Male,Accessories,Laptop Sleeve,3,103.52,20,248.45,2025-12-08,Dubai,Apple Pay,Downtown Branch,5.0
+TXN00224,CUST0044,58,Male,Cameras,GoPro Hero 12,1,6045.86,20,4836.69,2025-02-21,Fujairah,Apple Pay,Downtown Branch,3.0
+TXN00388,CUST0178,65,Male,Accessories,USB-C Cable Pack,1,36.83,5,34.99,2025-03-02,Al Ain,Apple Pay,Outlet Branch,4.0
+TXN00663,CUST0228,59,Female,Mobiles,Samsung Galaxy S24,2,3549.63,5,6744.3,2025-11-07,Sharjah,Credit Card,Online Store,5.0
+TXN00264,CUST0192,44,Male,Wearables,Fitbit Charge 6,1,1046.19,0,1046.19,2025-12-21,Ras Al Khaimah,Cash,Online Store,
+TXN00285,CUST0225,28,Female,Cameras,GoPro Hero 12,1,5831.62,10,5248.46,2025-02-13,Sharjah,Apple Pay,Outlet Branch,
+TXN00585,CUST0157,37,Male,Gaming,PlayStation 5,1,543.82,5,516.63,2025-11-21,Sharjah,Debit Card,Outlet Branch,5.0
+TXN00357,CUST0121,34,Male,Audio,JBL Flip 6,1,491.18,0,491.18,2025-09-05,Abu Dhabi,Credit Card,Mall Branch,5.0
+TXN00046,CUST0228,59,Female,Laptops,MacBook Air M3,1,3915.84,0,3915.84,2025-09-19,Sharjah,Tabby (BNPL),Online Store,4.0
+TXN00182,CUST0217,55,Male,Tablets,Xiaomi Pad 6,2,2479.4,5,4710.86,2025-12-18,Fujairah,Debit Card,Outlet Branch,4.0
+TXN00273,CUST0220,42,Female,Smart Home,Ring Video Doorbell,1,1163.59,0,1163.59,2025-02-12,Al Ain,Credit Card,Online Store,5.0
+TXN00130,CUST0242,62,Female,Wearables,Samsung Galaxy Watch 6,2,2204.65,0,4409.3,2025-11-17,Fujairah,Apple Pay,Online Store,2.0
+TXN00159,CUST0224,39,Female,Audio,Sony WH-1000XM5,2,711.98,20,1139.17,2025-05-25,Ras Al Khaimah,Cash,Mall Branch,5.0
+TXN00559,CUST0017,25,Female,Smart Home,Amazon Echo Dot,1,,0,552.81,2025-06-02,Dubai,Debit Card,Online Store,5.0
+TXN00602,CUST0236,32,Male,Accessories,Laptop Sleeve,1,231.07,5,219.52,2025-04-02,Fujairah,Tabby (BNPL),Outlet Branch,4.0
+TXN00577,CUST0161,59,Female,Gaming,Logitech G502 Mouse,2,2072.85,15,3523.84,2025-03-04,Ras Al Khaimah,debit card,Downtown Branch,
+TXN00665,CUST0203,65,Female,Laptops,HP Pavilion 15,1,5768.27,0,5768.27,2025-10-19,Ajman,Tabby (BNPL),Downtown Branch,2.0
+TXN01187,CUST0062,37,Male,Audio,Sony WH-1000XM5,1,1080.0,5,1026.0,2025-12-19,Dubai,Apple Pay,Online Store,5.0
+TXN00615,CUST0075,53,Male,Audio,Bose QuietComfort,3,1539.45,0,4618.35,2025-01-25,,Apple Pay,Downtown Branch,4.0
+TXN00574,CUST0143,53,Male,Wearables,Samsung Galaxy Watch 6,1,1910.73,5,1815.19,2025-11-02,,Credit Card,Online Store,5.0
+TXN00127,CUST0049,64,Male,Tablets,Samsung Galaxy Tab S9,4,2036.87,0,8147.48,2025-05-15,Ras Al Khaimah,cash,Online Store,4.0
+TXN00266,CUST0072,51,Female,Mobiles,Google Pixel 8,1,4490.64,0,4490.64,2025-05-02,Dubai,Tabby (BNPL),Downtown Branch,4.0
+TXN00684,CUST0012,27,Male,Tablets,Lenovo Tab P11,1,3249.82,5,3087.33,2025-05-26,Fujairah,Credit Card,Online Store,5.0
+TXN00894,CUST0044,58,Male,Gaming,Logitech G502 Mouse,1,766.55,0,766.55,2025-04-15,Fujairah,Cash,Online Store,3.0
+TXN00655,CUST0229,47,Male,Laptops,Asus ZenBook 14,5,3025.93,0,15129.65,2025-12-26,Dubai,Debit Card,Outlet Branch,5.0
+TXN01151,CUST0226,57,Male,Audio,AirPods Pro 2,1,170.49,0,170.49,2025-09-27,Ajman,Apple Pay,Outlet Branch,4.0
+TXN00386,CUST0005,45,Male,Mobiles,OnePlus 12,1,3698.86,0,3698.86,2025-05-03,Dubai,Debit Card,Downtown Branch,4.0
+TXN00503,CUST0277,55,Female,Wearables,Samsung Galaxy Watch 6,2,1460.54,0,2921.08,2025-01-04,Ajman,Debit Card,Outlet Branch,4.0
+TXN00336,CUST0021,60,Male,Cameras,Sony Alpha A6400,1,1307.52,0,1307.52,2025-12-20,Fujairah,Tabby (BNPL),Mall Branch,5.0
+TXN00105,CUST0073,33,Male,Laptops,MacBook Air M3,1,3676.59,5,3492.76,2025-03-28,Dubai,Debit Card,Online Store,5.0
+TXN00158,CUST0200,47,Female,Wearables,Fitbit Charge 6,2,1259.62,10,2267.32,2025-10-03,Fujairah,Tabby (BNPL),Online Store,2.0
+TXN01147,CUST0058,41,Male,Audio,JBL Flip 6,2,1649.57,0,3299.14,2025-11-18,Al Ain,Debit Card,Outlet Branch,5.0
+TXN00659,CUST0259,29,Female,Gaming,Nintendo Switch OLED,5,1697.37,5,8062.51,2025-03-22,Al Ain,Cash,Online Store,3.0
+TXN00213,CUST0024,35,Female,Smart Home,Amazon Echo Dot,3,1070.84,10,2891.27,2025-04-03,Ras Al Khaimah,Tabby (BNPL),Outlet Branch,1.0
+TXN00702,CUST0269,56,Female,Laptops,Lenovo ThinkPad E14,1,1930.9,0,1930.9,2025-12-14,Al Ain,Apple Pay,Downtown Branch,5.0
+TXN00654,CUST0120,52,Male,Mobiles,Xiaomi Redmi Note 13,1,2850.08,0,2850.08,2025-11-21,Al Ain,debit card,Online Store,4.0
+TXN01021,CUST0079,39,Male,Tablets,Samsung Galaxy Tab S9,3,931.91,0,2795.73,2025-06-23,Al Ain,Credit Card,Online Store,3.0
+TXN00038,CUST0190,20,Male,Wearables,Garmin Venu 3,2,1768.35,10,3183.03,2025-10-27,Ajman,Apple Pay,Outlet Branch,5.0
+TXN01155,CUST0117,60,Female,Gaming,Xbox Series X,1,1323.63,0,1323.63,2025-09-16,Ajman,Tabby (BNPL),Outlet Branch,2.0
+TXN00551,CUST0021,60,Male,Laptops,HP Pavilion 15,1,5202.85,0,5202.85,2025-11-22,Fujairah,Apple Pay,Downtown Branch,4.0
+TXN00190,CUST0211,27,Male,Mobiles,Xiaomi Redmi Note 13,1,4008.08,10,3607.27,2025-03-23,Ajman,Cash,Downtown Branch,5.0
+TXN00282,CUST0007,50,Male,Laptops,MacBook Air M3,2,7764.24,0,15528.48,2025-01-17,Al Ain,Credit Card,Mall Branch,5.0
+TXN00117,CUST0136,18,Female,Cameras,DJI Osmo Pocket 3,1,2057.45,0,2057.45,2025-03-10,Fujairah,Cash,Downtown Branch,5.0
+TXN00092,CUST0190,20,Male,Gaming,Logitech G502 Mouse,1,1978.79,0,1978.79,2025-05-21,Ajman,Cash,Downtown Branch,5.0
+TXN00864,CUST0200,47,Female,Tablets,Xiaomi Pad 6,1,3231.68,0,3231.68,2025-01-26,Fujairah,Debit Card,Mall Branch,5.0
+TXN00366,CUST0134,21,Male,Gaming,Nintendo Switch OLED,4,1532.77,0,6131.08,2025-01-04,Ras Al Khaimah,Cash,Downtown Branch,4.0
+TXN00933,CUST0050,52,Female,Audio,Sony WH-1000XM5,3,1486.51,0,4459.53,2025-06-18,Fujairah,Credit Card,Online Store,3.0
+TXN00471,CUST0041,43,Female,Wearables,Apple Watch Series 9,2,913.08,5,1734.85,2025-10-22,Sharjah,Tabby (BNPL),Online Store,5.0
+TXN00812,CUST0223,49,Male,Gaming,Xbox Series X,1,2284.77,0,2284.77,2025-02-28,Ajman,Debit Card,Downtown Branch,4.0
+TXN00091,CUST0225,28,Female,Mobiles,Samsung Galaxy S24,2,1048.76,0,2097.52,2025-05-19,Sharjah,Credit Card,Downtown Branch,5.0
+TXN00892,CUST0097,33,Male,Laptops,HP Pavilion 15,2,4673.2,20,7477.12,2025-08-04,Ajman,Debit Card,Outlet Branch,5.0
+TXN01133,CUST0201,46,Female,Cameras,Sony Alpha A6400,1,2367.15,0,2367.15,2025-12-05,Fujairah,Apple Pay,Mall Branch,5.0
+TXN00645,CUST0194,43,Male,Accessories,USB-C Cable Pack,1,273.82,0,273.82,2025-06-15,Sharjah,Debit Card,Online Store,3.0
+TXN01164,CUST0015,40,Female,Cameras,GoPro Hero 12,5,5726.47,0,28632.35,2025-09-06,Fujairah,Tabby (BNPL),Downtown Branch,5.0
+TXN00778,CUST0137,26,Female,Mobiles,Xiaomi Redmi Note 13,1,3417.76,5,3246.87,2025-11-06,Sharjah,Apple Pay,Online Store,5.0
+TXN00422,CUST0095,53,Male,Mobiles,OnePlus 12,2,3082.7,5,5857.13,2025-08-08,Dubai,Credit Card,Online Store,2.0
+TXN00170,CUST0156,30,Female,Audio,JBL Flip 6,2,1236.79,10,2226.22,2025-01-20,Abu Dhabi,Apple Pay,Outlet Branch,4.0
+TXN00923,CUST0280,62,Female,Audio,Bose QuietComfort,1,942.77,0,942.77,2025-08-12,Abu Dhabi,Cash,Outlet Branch,4.0
+TXN00294,CUST0243,41,Male,Gaming,Logitech G502 Mouse,2,550.85,0,1101.7,2025-04-27,Al Ain,Cash,Online Store,5.0
+TXN01125,CUST0250,62,Female,Wearables,Garmin Venu 3,2,1958.12,0,3916.24,2025-07-03,Fujairah,Cash,Outlet Branch,5.0
+TXN00771,CUST0143,53,Male,Tablets,Xiaomi Pad 6,1,908.21,0,908.21,2025-12-13,Ajman,Apple Pay,Mall Branch,5.0
+TXN00505,CUST0027,35,Male,Wearables,Samsung Galaxy Watch 6,1,695.11,0,695.11,2025-01-08,Al Ain,Apple Pay,Online Store,4.0
+TXN00878,CUST0191,57,Male,Gaming,Xbox Series X,1,2014.93,0,2014.93,2025-01-11,Ajman,Debit Card,Outlet Branch,4.0
+TXN00453,CUST0146,31,Male,Cameras,Sony Alpha A6400,1,1942.01,10,1747.81,2025-07-02,Ras Al Khaimah,Debit Card,Mall Branch,4.0
+TXN00286,CUST0198,53,Male,Accessories,Laptop Sleeve,0,237.63,0,475.26,2025-10-02,Fujairah,Debit Card,Mall Branch,4.0
+TXN00440,CUST0255,59,Female,Accessories,USB-C Cable Pack,1,312.77,0,312.77,2025-02-04,Dubai,Credit Card,Outlet Branch,5.0
+TXN00576,CUST0257,45,Female,Laptops,Asus ZenBook 14,1,6481.63,10,5833.47,2025-07-16,Ras Al Khaimah,Credit Card,Downtown Branch,4.0
+TXN00835,CUST0172,39,Female,Mobiles,Samsung Galaxy S24,1,1844.17,0,1844.17,2025-08-25,Ras Al Khaimah,Cash,Downtown Branch,4.0
+TXN00368,CUST0075,53,Male,Tablets,Lenovo Tab P11,2,1881.09,0,3762.18,2025-12-03,Al Ain,Debit Card,Online Store,3.0
+TXN00441,CUST0061,25,Female,Audio,Bose QuietComfort,1,833.17,0,833.17,2025-09-01,Fujairah,Debit Card,Online Store,4.0
+TXN01103,CUST0240,26,Female,Cameras,Sony Alpha A6400,2,5135.49,0,10270.98,2025-03-15,Ras Al Khaimah,Debit Card,Online Store,2.0
+TXN00836,CUST0017,25,Female,Audio,JBL Flip 6,1,290.31,0,290.31,2025-12-16,Dubai,Credit Card,Mall Branch,4.0
+TXN00142,CUST0154,28,Male,Smart Home,Google Nest Hub,1,942.14,10,847.93,2025-04-23,,Debit Card,Outlet Branch,5.0
+TXN01030,CUST0258,47,Male,Wearables,Fitbit Charge 6,2,526.89,0,1053.78,2025-06-02,Ajman,Credit Card,Downtown Branch,4.0
+TXN00745,CUST0167,56,Male,Accessories,USB-C Cable Pack,1,224.16,5,212.95,2025-01-14,Ajman,Apple Pay,Mall Branch,5.0
+TXN00214,CUST0103,30,Female,TVs,Sony 50in Bravia,1,6229.12,0,6229.12,2025-12-25,Sharjah,Debit Card,Downtown Branch,3.0
+TXN00620,CUST0241,25,Male,Gaming,Logitech G502 Mouse,1,,15,689.04,2025-04-20,Ajman,Apple Pay,Downtown Branch,5.0
+TXN00061,CUST0206,51,Female,Wearables,Apple Watch Series 9,1,1289.42,0,1289.42,2025-04-06,Ras Al Khaimah,Credit Card,Mall Branch,4.0
+TXN00987,CUST0152,39,Female,Laptops,Dell XPS 13,3,2342.76,10,6325.45,2025-03-15,Fujairah,Cash,Downtown Branch,5.0
+TXN01165,CUST0050,52,Female,Tablets,Lenovo Tab P11,3,2307.16,5,6575.41,2025-12-06,Fujairah,Tabby (BNPL),Downtown Branch,5.0
+TXN00906,CUST0270,18,Male,Tablets,Lenovo Tab P11,1,3248.92,0,3248.92,2025-08-09,Dubai,Cash,Downtown Branch,2.0
+TXN00442,CUST0035,54,Female,TVs,Sony 50in Bravia,1,4645.49,0,4645.49,2025-10-11,Sharjah,Apple Pay,Mall Branch,5.0
+TXN01034,CUST0192,44,Male,Cameras,GoPro Hero 12,1,3654.07,0,3654.07,2025-12-08,Ras Al Khaimah,Tabby (BNPL),Mall Branch,4.0
+TXN00001,CUST0157,37,Male,TVs,LG 65in OLED,1,2020.46,0,2020.46,2025-07-25,Sharjah,Debit Card,Downtown Branch,3.0
+TXN01182,CUST0227,55,Male,Cameras,Canon EOS R50,1,4645.82,20,3716.66,2025-11-24,Dubai,Cash,Mall Branch,4.0
+TXN00558,CUST0267,31,Female,Accessories,Laptop Sleeve,2,94.62,0,189.24,2025-03-11,Fujairah,Tabby (BNPL),Mall Branch,5.0
+TXN00184,CUST0252,54,Male,Smart Home,Ring Video Doorbell,1,663.13,0,663.13,2025-11-10,Abu Dhabi,Credit Card,Online Store,3.0
+TXN00978,CUST0055,29,Male,Audio,JBL Flip 6,1,382.66,10,344.39,2025-11-01,Fujairah,Tabby (BNPL),Mall Branch,5.0
+TXN00861,CUST0115,31,Female,Wearables,Fitbit Charge 6,2,969.02,0,1938.04,2025-12-14,Sharjah,Debit Card,Mall Branch,5.0
+TXN00478,CUST0060,38,Female,Mobiles,Samsung Galaxy S24,1,2516.86,0,2516.86,2025-12-18,dubai ,Debit Card,Outlet Branch,5.0
+TXN00324,CUST0220,42,Female,Tablets,iPad Air,2,1577.0,5,2996.3,2025-09-09,Al Ain,Cash,Downtown Branch,5.0
+TXN00934,CUST0271,33,Female,Accessories,USB-C Cable Pack,1,296.37,0,296.37,2025-05-20,Ajman,Tabby (BNPL),Downtown Branch,5.0
+TXN00964,CUST0262,33,Male,Wearables,Fitbit Charge 6,1,2649.85,0,2649.85,2025-10-05,Abu Dhabi,Apple Pay,Mall Branch,5.0
+TXN00875,CUST0160,22,Female,Tablets,Samsung Galaxy Tab S9,1,3370.53,10,3033.48,2025-06-24,Abu Dhabi,Cash,Online Store,5.0
+TXN00650,CUST0013,39,Male,Wearables,Fitbit Charge 6,1,1255.03,20,1004.02,2025-07-10,Dubai,Debit Card,Downtown Branch,4.0
+TXN00689,CUST0261,45,Female,Gaming,Logitech G502 Mouse,1,1441.56,5,1369.48,2025-07-16,Abu Dhabi,Apple Pay,Outlet Branch,4.0
+TXN01004,CUST0218,54,Female,Laptops,Lenovo ThinkPad E14,1,2454.62,0,2454.62,2025-01-07,Ajman,Apple Pay,Mall Branch,2.0
+TXN01186,CUST0087,64,Male,Gaming,Nintendo Switch OLED,4,384.55,5,1461.29,2025-01-01,Ras Al Khaimah,Tabby (BNPL),Mall Branch,5.0
+TXN00022,CUST0078,22,Male,Accessories,Anker Power Bank,5,,0,352.0,2025-01-28,Fujairah,Apple Pay,Mall Branch,4.0
+TXN00879,CUST0165,24,Female,Audio,Sony WH-1000XM5,2,786.22,0,1572.44,2025-01-09,Abu Dhabi,Tabby (BNPL),Mall Branch,4.0
+TXN00717,CUST0110,22,Male,Laptops,HP Pavilion 15,1,3925.26,5,3729.0,2025-01-07,Ajman,Apple Pay,Downtown Branch,2.0
+TXN00707,CUST0094,22,Female,Cameras,Canon EOS R50,4,3164.53,0,12658.12,2025-12-09,Fujairah,Tabby (BNPL),Online Store,5.0
+TXN00974,CUST0261,45,Female,Laptops,Dell XPS 13,1,8216.99,0,8216.99,2025-09-13,Abu Dhabi,Cash,Outlet Branch,3.0
+TXN00067,CUST0089,43,Female,Mobiles,Samsung Galaxy S24,5,3418.2,0,17091.0,2025-09-12,Fujairah,Cash,Online Store,4.0
+TXN01006,CUST0223,49,Male,TVs,Sony 50in Bravia,2,4752.86,0,9505.72,2025-10-05,Ajman,Cash,Downtown Branch,5.0
+TXN01057,CUST0169,20,Female,Wearables,Garmin Venu 3,1,1489.01,0,1489.01,2025-04-27,Dubai,Apple Pay,Downtown Branch,4.0
+TXN00509,CUST0176,26,Male,Audio,JBL Flip 6,2,1146.0,5,2177.4,2025-09-06,Ajman,Tabby (BNPL),Downtown Branch,3.0
+TXN00994,CUST0111,25,Male,Wearables,Samsung Galaxy Watch 6,1,2650.03,0,2650.03,2025-12-04,Al Ain,Tabby (BNPL),Outlet Branch,5.0
+TXN00578,CUST0226,57,Male,Smart Home,Philips Hue Starter Kit,1,1056.04,0,1056.04,2025-10-04,Ajman,Cash,Outlet Branch,4.0
+TXN00871,CUST0017,25,Female,Laptops,HP Pavilion 15,1,8953.05,5,8505.4,2025-07-06,Dubai,Tabby (BNPL),Online Store,5.0
+TXN00652,CUST0051,59,Female,Gaming,Xbox Series X,1,1208.21,0,1208.21,2025-11-04,Dubai,Credit Card,Downtown Branch,4.0
+TXN01123,CUST0122,22,Male,Tablets,Xiaomi Pad 6,1,1603.09,0,1603.09,2025-04-21,Abu Dhabi,Tabby (BNPL),Outlet Branch,4.0
+TXN00902,CUST0049,64,Male,Laptops,HP Pavilion 15,1,7529.19,0,7529.19,2025-05-18,Ras Al Khaimah,Cash,Outlet Branch,4.0
+TXN00316,CUST0117,60,Female,TVs,Hisense 43in 4K,2,3838.62,0,7677.24,2025-01-22,Ajman,Credit Card,Mall Branch,
+TXN00607,CUST0096,59,Male,Smart Home,Ring Video Doorbell,1,247.59,20,198.07,2025-10-21,Dubai,Debit Card,Outlet Branch,4.0
+TXN00666,CUST0066,60,Female,Laptops,Dell XPS 13,1,3447.18,0,3447.18,2025-07-26,Al Ain,Cash,Downtown Branch,5.0
+TXN00781,CUST0253,52,Female,Mobiles,Google Pixel 8,4,3305.02,0,13220.08,2025-06-22,Ras Al Khaimah,Tabby (BNPL),Mall Branch,4.0
+TXN00531,CUST0262,33,Male,Mobiles,Xiaomi Redmi Note 13,2,2270.96,0,4541.92,2025-05-01,Abu Dhabi,Cash,Online Store,4.0
+TXN00546,CUST0130,36,Male,Mobiles,iPhone 15,1,1916.09,0,1916.09,2025-01-20,Ras Al Khaimah,Debit Card,Downtown Branch,3.0
+TXN00281,CUST0268,34,Female,Audio,JBL Flip 6,1,1310.67,0,1310.67,2025-06-07,Abu Dhabi,Apple Pay,Online Store,4.0
+TXN00901,CUST0242,62,Female,Laptops,MacBook Air M3,1,7641.95,20,6113.56,2025-11-17,Fujairah,Tabby (BNPL),Downtown Branch,5.0
+TXN00198,CUST0062,37,Male,Smart Home,Google Nest Hub,1,651.59,0,651.59,2025-11-04,Dubai,Cash,Online Store,5.0
+TXN00545,CUST0218,54,Female,Laptops,MacBook Air M3,1,1641.05,0,1641.05,2025-02-02,Ajman,Tabby (BNPL),Mall Branch,4.0
+TXN00972,CUST0124,52,Female,TVs,Samsung 55in QLED,3,3490.3,0,10470.9,2025-09-04,Al Ain,Credit Card,Mall Branch,5.0
+TXN00129,CUST0152,39,Female,Gaming,Xbox Series X,1,782.08,0,782.08,2025-11-20,Fujairah,cash,Outlet Branch,5.0
+TXN00323,CUST0036,59,Female,Audio,JBL Flip 6,1,951.67,5,904.09,2025-10-05,Ajman,Tabby (BNPL),Online Store,5.0
+TXN00201,CUST0220,42,Female,Gaming,Xbox Series X,2,845.13,0,1690.26,2025-09-24,Al Ain,Tabby (BNPL),Online Store,5.0
+TXN00458,CUST0066,60,Female,Wearables,Apple Watch Series 9,2,1314.21,0,2628.42,2025-08-03,Al Ain,Cash,Outlet Branch,4.0
+TXN00844,CUST0067,28,Female,Accessories,Wireless Charger Pad,2,193.99,0,387.98,2025-01-14,Al Ain,Tabby (BNPL),Outlet Branch,4.0
+TXN00722,CUST0193,62,Female,Audio,Sony WH-1000XM5,2,542.81,20,868.5,2025-06-11,Ajman,Debit Card,Online Store,4.0
+TXN00149,CUST0126,53,Female,Accessories,Wireless Charger Pad,3,112.34,20,269.62,2025-09-16,Ras Al Khaimah,Apple Pay,Downtown Branch,5.0
+TXN00310,CUST0114,55,Female,Audio,JBL Flip 6,1,696.26,20,557.01,2025-09-16,Abu Dhabi,Tabby (BNPL),Mall Branch,3.0
+TXN00954,CUST0148,53,Female,Wearables,Garmin Venu 3,2,1359.59,10,2447.26,2025-03-13,Al Ain,Apple Pay,Downtown Branch,3.0
+TXN00066,CUST0022,36,Male,Accessories,USB-C Cable Pack,1,132.89,0,132.89,2025-01-04,Fujairah,Cash,Mall Branch,4.0
+TXN00992,CUST0011,45,Female,Mobiles,Google Pixel 8,2,1133.94,15,1927.7,2025-11-18,Abu Dhabi,Credit Card,Mall Branch,4.0
+TXN00817,CUST0080,33,Female,Audio,Sony WH-1000XM5,1,1046.82,0,1046.82,2025-01-02,Ras Al Khaimah,Credit Card,Online Store,3.0
+TXN00454,CUST0026,40,Male,Laptops,Lenovo ThinkPad E14,1,1903.5,0,1903.5,2025-08-19,Ras Al Khaimah,Apple Pay,Online Store,4.0
+TXN00272,CUST0003,32,Male,Accessories,Wireless Charger Pad,2,97.0,0,194.0,2025-02-26,Ras Al Khaimah,Credit Card,Downtown Branch,
+TXN00144,CUST0098,49,Female,Mobiles,Xiaomi Redmi Note 13,2,2195.52,0,4391.04,2025-01-26,Sharjah,Tabby (BNPL),Downtown Branch,4.0
+TXN00681,CUST0110,22,Male,Audio,Bose QuietComfort,5,1362.07,0,6810.35,2025-11-07,Ajman,Apple Pay,Downtown Branch,5.0
+TXN01008,CUST0243,41,Male,Mobiles,Xiaomi Redmi Note 13,1,2340.32,0,2340.32,2025-12-10,,Debit Card,Downtown Branch,5.0
+TXN00874,CUST0254,41,Male,Smart Home,Ring Video Doorbell,1,1118.47,0,1118.47,2025-11-23,Al Ain,Cash,Outlet Branch,3.0
+TXN00087,CUST0189,30,Male,Smart Home,Ring Video Doorbell,3,930.47,0,2791.41,2025-12-16,Dubai,Apple Pay,Online Store,5.0
+TXN00165,CUST0216,31,Female,TVs,Hisense 43in 4K,1,,15,5543.81,2025-11-16,Ajman,Tabby (BNPL),Downtown Branch,4.0
+TXN00984,CUST0096,59,Male,Accessories,Wireless Charger Pad,2,72.17,0,144.34,2025-07-24,Dubai,debit card,Mall Branch,4.0
+TXN01044,CUST0007,50,Male,Tablets,Lenovo Tab P11,1,1060.47,5,1007.45,2025-01-21,Al Ain,Apple Pay,Outlet Branch,5.0
+TXN01124,CUST0110,22,Male,Accessories,Wireless Charger Pad,1,204.68,0,204.68,2025-11-11,Ajman,Cash,Downtown Branch,4.0
+TXN00522,CUST0216,31,Female,Accessories,Anker Power Bank,1,123.29,10,110.96,2025-03-17,Ajman,Cash,Outlet Branch,4.0
+TXN01139,CUST0249,55,Male,Audio,Bose QuietComfort,1,515.29,0,515.29,2025-12-27,Dubai,Apple Pay,Outlet Branch,5.0
+TXN00389,CUST0278,53,Female,Accessories,USB-C Cable Pack,1,211.34,0,211.34,2025-06-28,Ajman,Tabby (BNPL),Downtown Branch,2.0
+TXN00194,CUST0067,28,Female,Cameras,DJI Osmo Pocket 3,3,5335.67,10,14406.31,2025-01-21,Al Ain,Apple Pay,Mall Branch,3.0
+TXN01011,CUST0278,53,Female,Audio,Sony WH-1000XM5,1,1127.85,0,1127.85,2025-02-19,Ajman,Credit Card,Downtown Branch,5.0
+TXN00109,CUST0148,53,Female,Laptops,Lenovo ThinkPad E14,2,5281.92,0,10563.84,2025-12-22,Al Ain,Tabby (BNPL),Mall Branch,3.0
+TXN00569,CUST0161,59,Female,Audio,Bose QuietComfort,2,813.8,0,1627.6,2025-11-06,Ras Al Khaimah,Credit Card,Downtown Branch,4.0
+TXN00172,CUST0182,55,Female,Tablets,iPad Air,2,2277.02,5,4326.34,2025-12-11,Ajman,Apple Pay,Mall Branch,1.0
+TXN00019,CUST0261,45,Female,Tablets,iPad Air,2,1473.49,0,2946.98,2025-12-17,Abu Dhabi,Cash,Mall Branch,4.0
+TXN00912,CUST0051,59,Female,TVs,Sony 50in Bravia,1,5259.86,0,5259.86,2025-12-26,Dubai,Tabby (BNPL),Downtown Branch,5.0
+TXN00156,CUST0022,36,Male,Audio,AirPods Pro 2,2,1637.1,0,3274.2,2025-03-03,Fujairah,Cash,Mall Branch,3.0
+TXN01010,CUST0008,30,Female,Audio,JBL Flip 6,4,618.91,0,2475.64,2025-11-12,Sharjah,Tabby (BNPL),Outlet Branch,5.0
+TXN00644,CUST0251,61,Male,Mobiles,iPhone 15,1,2825.89,0,2825.89,2025-06-10,Fujairah,Tabby (BNPL),Outlet Branch,5.0
+TXN00734,CUST0048,34,Male,Smart Home,Ring Video Doorbell,5,891.37,0,4456.85,2025-12-14,Ras Al Khaimah,debit card,Outlet Branch,4.0
+TXN00463,CUST0150,28,Male,Smart Home,Ring Video Doorbell,2,355.45,0,710.9,2025-08-22,Ajman,Cash,Outlet Branch,5.0
+TXN00402,CUST0236,32,Male,Gaming,Xbox Series X,1,604.5,0,604.5,2025-03-26,Fujairah,Cash,Mall Branch,4.0
+TXN00838,CUST0050,52,Female,Gaming,Logitech G502 Mouse,1,2272.32,0,2272.32,2025-11-01,Fujairah,Tabby (BNPL),Outlet Branch,4.0
+TXN00329,CUST0072,51,Female,Accessories,USB-C Cable Pack,4,87.33,5,331.85,2025-12-24,Dubai,Apple Pay,Online Store,2.0
+TXN00017,CUST0008,30,Female,Wearables,Garmin Venu 3,5,533.02,15,2265.34,2025-06-04,Sharjah,Debit Card,Outlet Branch,5.0
+TXN00711,CUST0043,21,Male,Wearables,Samsung Galaxy Watch 6,1,2083.95,0,2083.95,2025-03-06,Sharjah,Debit Card,Mall Branch,5.0
+TXN00076,CUST0027,35,Male,Accessories,Wireless Charger Pad,1,207.45,10,186.7,2025-12-10,Al Ain,Credit Card,Downtown Branch,4.0
+TXN00419,CUST0071,59,Female,Cameras,Sony Alpha A6400,1,5744.23,5,5457.02,2025-07-05,Ajman,Apple Pay,Downtown Branch,5.0
+TXN00420,CUST0081,49,Male,Gaming,PlayStation 5,4,1526.15,0,6104.6,2025-04-05,Al Ain,Credit Card,Online Store,5.0
+TXN01027,CUST0068,56,Female,TVs,Samsung 55in QLED,1,3779.31,0,3779.31,2025-08-14,Sharjah,Debit Card,Downtown Branch,4.0
+TXN00485,CUST0240,26,Female,Laptops,Lenovo ThinkPad E14,1,8420.22,0,8420.22,2025-12-25,Ras Al Khaimah,Cash,Online Store,3.0
+TXN00657,CUST0247,54,Female,TVs,Sony 50in Bravia,1,6908.52,0,6908.52,2025-09-19,,Tabby (BNPL),Online Store,2.0
+TXN00242,CUST0048,34,Male,Gaming,Logitech G502 Mouse,1,1849.91,5,1757.41,2025-09-14,Ras Al Khaimah,Debit Card,Mall Branch,3.0
+TXN00533,CUST0218,54,Female,Smart Home,Google Nest Hub,1,1027.29,0,1027.29,2025-04-28,Ajman,Tabby (BNPL),Online Store,2.0
+TXN00575,CUST0033,20,Female,Smart Home,Philips Hue Starter Kit,3,855.26,0,2565.78,2025-11-27,Ajman,Debit Card,Downtown Branch,3.0
+TXN00679,CUST0104,21,Male,Laptops,HP Pavilion 15,1,2920.17,5,2774.16,2025-06-23,Ras Al Khaimah,Cash,Online Store,5.0
+TXN00547,CUST0180,53,Male,Mobiles,iPhone 15,2,1338.56,0,2677.12,2025-08-12,Abu Dhabi,Debit Card,Downtown Branch,
+TXN00331,CUST0233,44,Female,Mobiles,iPhone 15,1,4428.18,5,4206.77,2025-07-27,Fujairah,cash,Online Store,4.0
+TXN00966,CUST0100,42,Male,Cameras,GoPro Hero 12,1,6010.88,10,5409.79,2025-12-08,Ajman,Apple Pay,Online Store,5.0
+TXN00322,CUST0038,34,Male,TVs,Samsung 55in QLED,1,2904.68,0,2904.68,2025-12-12,Sharjah,Debit Card,Downtown Branch,3.0
+TXN01084,CUST0227,55,Male,Laptops,Lenovo ThinkPad E14,1,2980.47,0,2980.47,2025-06-19,Dubai,CREDIT CARD,Outlet Branch,5.0
+TXN00568,CUST0272,53,Male,Accessories,Laptop Sleeve,2,97.12,5,184.53,2025-04-26,Ras Al Khaimah,Cash,Outlet Branch,5.0
+TXN00344,CUST0130,36,Male,TVs,Hisense 43in 4K,2,5039.76,20,8063.62,2025-05-07,Ras Al Khaimah,Apple Pay,Outlet Branch,3.0
+TXN00749,CUST0244,56,Male,Laptops,Dell XPS 13,0,8420.52,0,16841.04,2025-11-11,Fujairah,Debit Card,Mall Branch,5.0
+TXN00591,CUST0097,33,Male,Smart Home,Google Nest Hub,1,578.95,0,578.95,2025-03-20,Ajman,Apple Pay,Downtown Branch,4.0
+TXN00398,CUST0081,49,Male,Wearables,Garmin Venu 3,4,2633.8,0,10535.2,2025-12-28,Al Ain,Cash,Outlet Branch,5.0
+TXN00090,CUST0223,49,Male,TVs,Samsung 55in QLED,2,1710.28,0,3420.56,2025-11-22,Ajman,Debit Card,Mall Branch,3.0
+TXN00493,CUST0225,28,Female,Audio,AirPods Pro 2,1,208.9,20,167.12,2025-03-13,Sharjah,Credit Card,Online Store,4.0
+TXN00499,CUST0213,31,Male,Tablets,Lenovo Tab P11,1,2249.54,15,1912.11,2025-01-04,Ajman,Tabby (BNPL),Outlet Branch,5.0
+TXN00520,CUST0034,35,Male,Audio,Bose QuietComfort,1,294.06,0,294.06,2025-12-03,Sharjah,Credit Card,Downtown Branch,4.0
+TXN00083,CUST0241,25,Male,Mobiles,Google Pixel 8,1,,0,4429.85,2025-11-12,Ajman,Debit Card,Mall Branch,5.0
+TXN01172,CUST0022,36,Male,Audio,Sony WH-1000XM5,1,656.75,15,558.24,2025-07-21,,Cash,Mall Branch,
+TXN00601,CUST0049,64,Male,Gaming,PlayStation 5,5,925.42,0,4627.1,2025-05-04,Ras Al Khaimah,Cash,Downtown Branch,1.0
+TXN00556,CUST0262,33,Male,TVs,LG 65in OLED,1,6422.4,0,6422.4,2025-06-21,Abu Dhabi,Debit Card,Mall Branch,3.0
+TXN00433,CUST0130,36,Male,Mobiles,Google Pixel 8,1,2641.22,10,2377.1,2025-09-16,Ras Al Khaimah,Debit Card,Downtown Branch,4.0
+TXN00195,CUST0081,49,Male,Accessories,Laptop Sleeve,5,30.22,0,151.1,2025-10-05,Al Ain,Cash,Downtown Branch,5.0
+TXN00252,CUST0267,31,Female,Accessories,Anker Power Bank,2,281.7,0,563.4,2025-06-14,Fujairah,Debit Card,Downtown Branch,4.0
+TXN00815,CUST0057,58,Male,Mobiles,iPhone 15,2,1289.06,0,2578.12,2025-12-20,Sharjah,Credit Card,Mall Branch,5.0
+TXN00900,CUST0136,18,Female,Laptops,Dell XPS 13,3,6594.02,0,19782.06,2025-12-19,Fujairah,Credit Card,Outlet Branch,5.0
+TXN00810,CUST0144,26,Male,Tablets,Lenovo Tab P11,1,3420.49,20,2736.39,2025-11-25,Abu Dhabi,Tabby (BNPL),Mall Branch,5.0
+TXN01161,CUST0196,24,Female,Accessories,USB-C Cable Pack,1,301.12,0,301.12,2025-02-14,,Cash,Outlet Branch,3.0
+TXN00596,CUST0066,60,Female,Accessories,Wireless Charger Pad,4,269.3,0,1077.2,2025-12-20,Al Ain,Cash,Online Store,4.0
+TXN00312,CUST0059,51,Male,Smart Home,Philips Hue Starter Kit,1,717.25,15,609.66,2025-11-12,Al Ain,Tabby (BNPL),Outlet Branch,4.0
+TXN00733,CUST0186,23,Female,Mobiles,Samsung Galaxy S24,1,1766.92,5,1678.57,2025-03-20,Al Ain,Tabby (BNPL),Downtown Branch,1.0
+TXN00678,CUST0005,45,Male,Wearables,Samsung Galaxy Watch 6,1,443.29,10,398.96,2025-12-14,Dubai,Cash,Downtown Branch,
+TXN01190,CUST0222,32,Female,TVs,LG 65in OLED,1,1489.37,10,1340.43,2025-12-13,Ajman,Debit Card,Online Store,3.0
+TXN01158,CUST0232,39,Female,TVs,Sony 50in Bravia,1,3447.63,10,3102.87,2025-12-05,Abu Dhabi,Tabby (BNPL),Online Store,5.0
+TXN01085,CUST0058,41,Male,Accessories,USB-C Cable Pack,2,218.46,10,393.23,2025-12-09,Al Ain,Apple Pay,Online Store,4.0
+TXN00375,CUST0188,33,Female,Smart Home,Philips Hue Starter Kit,1,313.5,0,313.5,2025-11-05,Sharjah,Cash,Online Store,4.0
+TXN01180,CUST0062,37,Male,Smart Home,Google Nest Hub,1,1147.72,0,1147.72,2025-01-02,Dubai,Apple Pay,Outlet Branch,3.0
+TXN00870,CUST0040,55,Female,Audio,Bose QuietComfort,1,769.17,15,653.79,2025-11-06,Al Ain,Cash,Mall Branch,
+TXN01091,CUST0243,41,Male,Cameras,DJI Osmo Pocket 3,1,5288.65,15,4495.35,2025-06-28,Al Ain,Cash,Online Store,3.0
+TXN00785,CUST0136,18,Female,Audio,Sony WH-1000XM5,1,1367.74,0,1367.74,2025-04-21,Fujairah,Tabby (BNPL),Mall Branch,5.0
+TXN01056,CUST0116,34,Female,Mobiles,Xiaomi Redmi Note 13,2,1617.91,5,3074.03,2025-09-15,Sharjah,Tabby (BNPL),Outlet Branch,5.0
+TXN00523,CUST0168,54,Male,Accessories,Laptop Sleeve,1,176.56,10,158.9,2025-04-26,Abu Dhabi,Cash,Downtown Branch,4.0
+TXN00803,CUST0061,25,Female,Smart Home,Amazon Echo Dot,1,656.96,20,525.57,2025-11-06,Fujairah,Tabby (BNPL),Online Store,5.0
+TXN00352,CUST0100,42,Male,Accessories,Laptop Sleeve,1,213.97,0,213.97,2025-01-03,Ajman,Tabby (BNPL),Online Store,4.0
+TXN00664,CUST0114,55,Female,Audio,Bose QuietComfort,1,1746.04,0,1746.04,2025-11-20,Abu Dhabi,Debit Card,Mall Branch,3.0
+TXN00081,CUST0256,44,Female,Cameras,Canon EOS R50,1,4475.75,5,4251.96,2025-03-01,Dubai,Tabby (BNPL),Online Store,4.0
+TXN00346,CUST0083,48,Female,Laptops,Dell XPS 13,2,5312.58,10,9562.64,2025-09-22,Sharjah,Credit Card,Downtown Branch,4.0
+TXN00622,CUST0103,30,Female,Tablets,Xiaomi Pad 6,1,982.53,20,786.02,2025-04-07,Sharjah,Tabby (BNPL),Mall Branch,5.0
+TXN00251,CUST0076,32,Male,Cameras,GoPro Hero 12,2,2758.62,10,4965.52,2025-01-18,Dubai,Apple Pay,Online Store,5.0
+TXN00309,CUST0163,25,Female,Wearables,Samsung Galaxy Watch 6,1,2692.47,10,2423.22,2025-02-18,Sharjah,Tabby (BNPL),Outlet Branch,3.0
+TXN00296,CUST0202,53,Female,Audio,Bose QuietComfort,1,1510.51,0,1510.51,2025-11-02,Sharjah,Tabby (BNPL),Mall Branch,5.0
+TXN00514,CUST0238,19,Male,Tablets,Xiaomi Pad 6,3,1217.85,5,3470.87,2025-11-01,Sharjah,Credit Card,Outlet Branch,5.0
+TXN01102,CUST0171,45,Male,Laptops,MacBook Air M3,5,5739.8,10,25829.1,2025-07-26,Ras Al Khaimah,Tabby (BNPL),Mall Branch,4.0
+TXN00820,CUST0044,58,Male,Mobiles,OnePlus 12,1,1359.08,0,1359.08,2025-02-14,Fujairah,Debit Card,Online Store,5.0
+TXN00465,CUST0028,58,Male,Mobiles,OnePlus 12,1,3836.79,10,3453.11,2025-12-08,Al Ain,Apple Pay,Outlet Branch,5.0
+TXN00327,CUST0208,22,Female,Cameras,Sony Alpha A6400,1,5984.67,0,5984.67,2025-12-16,Sharjah,Debit Card,Online Store,4.0
+TXN00882,CUST0146,31,Male,Tablets,Xiaomi Pad 6,1,803.62,0,803.62,2025-04-01,Ras Al Khaimah,Credit Card,Outlet Branch,3.0
+TXN00121,CUST0027,35,Male,Laptops,Lenovo ThinkPad E14,1,3977.2,5,3778.34,2025-01-18,Al Ain,Debit Card,Outlet Branch,5.0
+TXN00766,CUST0276,33,Female,Laptops,Dell XPS 13,3,8742.61,0,26227.83,2025-08-06,Ras Al Khaimah,Credit Card,Outlet Branch,5.0
+TXN00774,CUST0046,22,Female,Gaming,Nintendo Switch OLED,1,2011.76,10,1810.58,2025-03-04,Ajman,Apple Pay,Downtown Branch,4.0
+TXN00220,CUST0231,31,Female,Accessories,Wireless Charger Pad,1,160.08,20,128.06,2025-03-10,Abu Dhabi,Apple Pay,Online Store,
+TXN00401,CUST0110,22,Male,Gaming,PlayStation 5,4,1997.35,10,7190.46,2025-12-17,Ajman,Tabby (BNPL),Downtown Branch,3.0
+TXN01173,CUST0025,41,Male,TVs,Hisense 43in 4K,5,2480.03,0,12400.15,2025-11-28,Abu Dhabi,Apple Pay,Downtown Branch,4.0
+TXN00193,CUST0184,31,Female,Laptops,Asus ZenBook 14,5,4482.87,10,20172.92,2025-06-11,Fujairah,Cash,Online Store,4.0
+TXN00982,CUST0263,46,Male,Laptops,HP Pavilion 15,1,8192.04,0,8192.04,2025-11-17,Fujairah,Cash,Downtown Branch,5.0
+TXN00291,CUST0143,53,Male,Mobiles,OnePlus 12,2,1624.01,0,3248.02,2025-03-15,Ajman,Apple Pay,Outlet Branch,3.0
+TXN00181,CUST0161,59,Female,Laptops,Dell XPS 13,1,3790.35,5,3600.83,2025-07-14,Ras Al Khaimah,Tabby (BNPL),Downtown Branch,4.0
+TXN01120,CUST0074,39,Male,Audio,Sony WH-1000XM5,2,1376.26,0,2752.52,2025-09-08,Al Ain,Debit Card,Online Store,3.0
+TXN00186,CUST0188,33,Female,Wearables,Apple Watch Series 9,1,2200.01,0,2200.01,2025-06-24,Sharjah,Debit Card,Online Store,5.0
+TXN00403,CUST0112,56,Male,Laptops,HP Pavilion 15,1,7446.78,10,6702.1,2025-10-19,Al Ain,Credit Card,Online Store,2.0
+TXN00418,CUST0117,60,Female,Smart Home,Google Nest Hub,1,751.54,0,751.54,2025-09-15,Ajman,Tabby (BNPL),Downtown Branch,3.0
+TXN00461,CUST0238,19,Male,Gaming,PlayStation 5,1,2108.45,20,1686.76,2025-01-04,Sharjah,Tabby (BNPL),Outlet Branch,4.0
+TXN00205,CUST0257,45,Female,Smart Home,Ring Video Doorbell,1,886.9,0,886.9,2025-09-09,Ras Al Khaimah,Credit Card,Online Store,2.0
+TXN01073,CUST0038,34,Male,Accessories,Laptop Sleeve,2,270.8,0,541.6,2025-10-11,Sharjah,Apple Pay,Online Store,4.0
+TXN00543,CUST0040,55,Female,Laptops,Dell XPS 13,1,8425.57,0,8425.57,2025-05-27,Al Ain,Apple Pay,Online Store,3.0
+TXN00075,CUST0226,57,Male,Accessories,Wireless Charger Pad,1,279.0,0,279.0,2025-02-07,Ajman,Tabby (BNPL),Downtown Branch,5.0
+TXN01009,CUST0276,33,Female,Accessories,Wireless Charger Pad,2,60.31,0,120.62,2025-01-21,Ras Al Khaimah,Tabby (BNPL),Downtown Branch,4.0
+TXN00808,CUST0139,63,Female,Mobiles,Samsung Galaxy S24,1,4461.28,0,4461.28,2025-09-21,Al Ain,Tabby (BNPL),Online Store,4.0
+TXN00928,CUST0166,64,Female,Cameras,GoPro Hero 12,3,4214.71,0,12644.13,2025-01-24,Ajman,Debit Card,Downtown Branch,3.0
+TXN00003,CUST0028,58,Male,Wearables,Fitbit Charge 6,1,2043.54,10,1839.19,2025-06-28,Al Ain,Credit Card,Online Store,4.0
+TXN00268,CUST0242,62,Female,Tablets,Lenovo Tab P11,1,,15,2320.94,2025-12-11,Fujairah,Credit Card,Downtown Branch,4.0
+TXN00085,CUST0070,37,Female,Laptops,Lenovo ThinkPad E14,1,1777.38,10,1599.64,2025-12-11,Ras Al Khaimah,Cash,Outlet Branch,5.0
+TXN00931,CUST0016,20,Female,Tablets,Lenovo Tab P11,1,1001.45,0,1001.45,2025-09-18,Al Ain,Debit Card,Downtown Branch,4.0
+TXN00989,CUST0121,34,Male,Mobiles,Xiaomi Redmi Note 13,1,1791.32,10,1612.19,2025-06-18,Abu Dhabi,Cash,Online Store,5.0
+TXN00941,CUST0022,36,Male,Laptops,MacBook Air M3,1,5224.48,0,5224.48,2025-06-26,Fujairah,Debit Card,Mall Branch,5.0
+TXN00741,CUST0268,34,Female,Mobiles,Google Pixel 8,5,3031.04,10,13639.68,2025-12-16,Abu Dhabi,CASH,Outlet Branch,4.0
+TXN01132,CUST0035,54,Female,Mobiles,Google Pixel 8,1,1319.12,0,1319.12,2025-12-08,Sharjah,Apple Pay,Downtown Branch,
+TXN00143,CUST0212,62,Male,Smart Home,Google Nest Hub,1,557.84,0,557.84,2025-01-15,Ras Al Khaimah,Cash,Mall Branch,4.0
+TXN01159,CUST0028,58,Male,Gaming,PlayStation 5,1,2004.17,0,2004.17,2025-06-06,Al Ain,Debit Card,Downtown Branch,5.0
+TXN00640,CUST0256,44,Female,Smart Home,Ring Video Doorbell,4,873.47,5,3319.19,2025-06-06,Dubai,Debit Card,Downtown Branch,4.0
+TXN00157,CUST0162,52,Female,Mobiles,Samsung Galaxy S24,2,2972.03,5,5646.86,2025-05-03,Dubai,Cash,Downtown Branch,4.0
+TXN00210,CUST0185,65,Male,Mobiles,Google Pixel 8,1,3979.63,0,3979.63,2025-11-19,Ras Al Khaimah,Credit Card,Downtown Branch,5.0
+TXN00552,CUST0149,65,Male,Smart Home,Google Nest Hub,3,1049.61,10,2833.95,2025-12-12,Sharjah,Debit Card,Mall Branch,5.0
+TXN00742,CUST0176,26,Male,Gaming,Xbox Series X,2,2370.18,0,4740.36,2025-01-12,Ajman,Cash,Mall Branch,1.0
+TXN01054,CUST0111,25,Male,Smart Home,Philips Hue Starter Kit,2,934.21,0,1868.42,2025-10-20,Al Ain,Apple Pay,Downtown Branch,5.0
+TXN00683,CUST0016,20,Female,Audio,AirPods Pro 2,1,618.77,0,618.77,2025-02-28,Al Ain,Tabby (BNPL),Downtown Branch,3.0
+TXN00180,CUST0059,51,Male,Gaming,Nintendo Switch OLED,2,2160.14,10,3888.25,2025-11-10,Al Ain,Tabby (BNPL),Mall Branch,5.0
+TXN01195,CUST0089,43,Female,TVs,LG 65in OLED,1,5560.42,10,5004.38,2025-02-11,Fujairah,Apple Pay,Downtown Branch,5.0
+TXN00135,CUST0196,24,Female,Accessories,Laptop Sleeve,2,150.21,5,285.4,2025-07-21,Sharjah,CASH,Mall Branch,3.0
+TXN00002,CUST0248,63,Male,TVs,Sony 50in Bravia,3,7867.47,0,23602.41,2025-05-10,Dubai,Credit Card,Downtown Branch,4.0
+TXN00313,CUST0152,39,Female,Audio,JBL Flip 6,4,997.93,0,3991.72,2025-12-18,Fujairah,Tabby (BNPL),Mall Branch,5.0
+TXN00110,CUST0050,52,Female,Smart Home,Philips Hue Starter Kit,1,984.64,15,836.94,2025-11-07,Fujairah,Tabby (BNPL),Outlet Branch,4.0
+TXN00161,CUST0152,39,Female,Audio,Sony WH-1000XM5,1,285.36,5,271.09,2025-09-24,Fujairah,Apple Pay,Online Store,4.0
+TXN00512,CUST0202,53,Female,Accessories,Anker Power Bank,1,174.78,0,174.78,2025-01-24,Sharjah,Apple Pay,Downtown Branch,3.0
+TXN00550,CUST0264,47,Female,Audio,Bose QuietComfort,5,336.2,0,1681.0,2025-01-05,Abu Dhabi,Apple Pay,Online Store,5.0
+TXN00377,CUST0224,39,Female,Smart Home,Google Nest Hub,2,321.43,0,642.86,2025-05-09,Ras Al Khaimah,Credit Card,Outlet Branch,5.0
+TXN00206,CUST0105,38,Male,Tablets,Lenovo Tab P11,2,1794.05,10,3229.29,2025-10-03,Dubai,Cash,Outlet Branch,5.0
+TXN00846,CUST0205,58,Female,Laptops,Dell XPS 13,1,4411.67,0,4411.67,2025-06-21,Fujairah,Tabby (BNPL),Outlet Branch,3.0
+TXN00289,CUST0174,37,Female,Wearables,Apple Watch Series 9,2,1382.12,0,2764.24,2025-10-21,Abu Dhabi,Apple Pay,Downtown Branch,5.0
+TXN00057,CUST0029,64,Male,Mobiles,Samsung Galaxy S24,1,1915.25,0,1915.25,2025-03-11,Sharjah,Credit Card,Mall Branch,4.0
+TXN00173,CUST0133,49,Female,Audio,AirPods Pro 2,1,885.53,10,796.98,2025-08-17,Fujairah,Debit Card,Online Store,5.0
+TXN00385,CUST0027,35,Male,Audio,Sony WH-1000XM5,1,539.34,0,539.34,2025-11-19,Al Ain,Credit Card,Outlet Branch,5.0
+TXN01097,CUST0038,34,Male,Gaming,Logitech G502 Mouse,3,2113.48,0,6340.44,2025-08-18,Sharjah,Credit Card,Outlet Branch,4.0
+TXN00541,CUST0155,20,Female,TVs,Sony 50in Bravia,1,1851.67,10,1666.5,2025-01-17,Sharjah,Cash,Online Store,5.0
+TXN00232,CUST0073,33,Male,Cameras,Sony Alpha A6400,3,5601.83,20,13444.39,2025-07-06,Dubai,Apple Pay,Mall Branch,3.0
+TXN01069,CUST0036,59,Female,Mobiles,iPhone 15,1,3323.49,0,3323.49,2025-06-13,Ajman,Credit Card,Outlet Branch,5.0
+TXN00725,CUST0099,43,Male,Mobiles,Samsung Galaxy S24,1,4271.62,0,4271.62,2025-07-26,Sharjah,Debit Card,Downtown Branch,4.0
+TXN00697,CUST0237,59,Male,Gaming,PlayStation 5,1,988.76,10,889.88,2025-10-07,Fujairah,Apple Pay,Outlet Branch,5.0
+TXN00960,CUST0133,49,Female,TVs,Samsung 55in QLED,3,5813.04,0,17439.12,2025-11-20,Fujairah,Debit Card,Online Store,3.0
+TXN00814,CUST0126,53,Female,Accessories,Laptop Sleeve,1,62.07,5,58.97,2025-11-20,Ras Al Khaimah,Credit Card,Outlet Branch,4.0
+TXN00311,CUST0178,65,Male,Accessories,USB-C Cable Pack,2,319.44,5,606.94,2025-12-22,Al Ain,Cash,Outlet Branch,5.0
+TXN00078,CUST0192,44,Male,Audio,Bose QuietComfort,1,1790.97,0,1790.97,2025-12-27,Ras Al Khaimah,Cash,Downtown Branch,3.0
+TXN01005,CUST0218,54,Female,Accessories,USB-C Cable Pack,1,230.37,0,230.37,2025-12-14,Ajman,Apple Pay,Mall Branch,4.0
+TXN00963,CUST0151,19,Male,Cameras,Canon EOS R50,1,,15,1599.46,2025-12-01,Ras Al Khaimah,Credit Card,Downtown Branch,5.0
+TXN00237,CUST0017,25,Female,Tablets,Lenovo Tab P11,5,3278.91,0,16394.55,2025-08-16,Dubai,Debit Card,Online Store,5.0
+TXN00427,CUST0021,60,Male,Wearables,Garmin Venu 3,2,1590.32,0,3180.64,2025-03-13,Fujairah,Cash,Online Store,4.0
+TXN00959,CUST0026,40,Male,Audio,Sony WH-1000XM5,1,1230.09,0,1230.09,2025-06-11,Ras Al Khaimah,Credit Card,Downtown Branch,2.0
+TXN01077,CUST0088,59,Male,Gaming,Xbox Series X,1,1591.7,0,1591.7,2025-05-16,Dubai,Debit Card,Outlet Branch,3.0
+TXN00970,CUST0008,30,Female,Tablets,iPad Air,2,1872.15,5,3557.09,2025-06-04,Sharjah,Debit Card,Mall Branch,5.0
+TXN00918,CUST0247,54,Female,Gaming,PlayStation 5,1,567.17,0,567.17,2025-11-23,Ajman,Debit Card,Downtown Branch,4.0
+TXN00703,CUST0067,28,Female,Wearables,Garmin Venu 3,1,1495.63,20,1196.5,2025-12-05,Al Ain,Debit Card,Online Store,4.0
+TXN00176,CUST0059,51,Male,Mobiles,Xiaomi Redmi Note 13,2,3197.49,0,6394.98,2025-12-08,Al Ain,Tabby (BNPL),Downtown Branch,4.0
+TXN00967,CUST0060,38,Female,Audio,Bose QuietComfort,3,1359.12,0,4077.36,2025-05-17,Dubai,Credit Card,Online Store,5.0
+TXN00527,CUST0075,53,Male,Accessories,Wireless Charger Pad,5,79.94,0,399.7,2025-07-21,Al Ain,Cash,Outlet Branch,5.0
+TXN00840,CUST0073,33,Male,Tablets,Lenovo Tab P11,1,1952.94,0,1952.94,2025-09-14,Dubai,Credit Card,Outlet Branch,4.0
+TXN00776,CUST0145,41,Male,Wearables,Fitbit Charge 6,3,1818.67,0,5456.01,2025-12-13,Abu Dhabi,Debit Card,Online Store,5.0
+TXN00457,CUST0170,51,Male,Gaming,Logitech G502 Mouse,1,1372.51,0,1372.51,2025-06-28,Abu Dhabi,Debit Card,Online Store,5.0
+TXN00565,CUST0012,27,Male,Gaming,Logitech G502 Mouse,1,1554.78,0,1554.78,2025-06-23,Fujairah,Debit Card,Online Store,4.0
+TXN01053,CUST0099,43,Male,Cameras,GoPro Hero 12,2,6472.05,0,12944.1,2025-11-23,Sharjah,Credit Card,Online Store,4.0
+TXN00619,CUST0214,44,Female,Accessories,Anker Power Bank,4,188.33,0,753.32,2025-10-01,Al Ain,Debit Card,Online Store,5.0
+TXN01171,CUST0013,39,Male,Accessories,Anker Power Bank,1,132.88,0,132.88,2025-06-26,Dubai,Cash,Mall Branch,4.0
+TXN00318,CUST0225,28,Female,Smart Home,Ring Video Doorbell,1,1013.23,0,1013.23,2025-03-24,Sharjah,Apple Pay,Online Store,5.0
+TXN00904,CUST0266,38,Male,Mobiles,Samsung Galaxy S24,3,4420.96,5,12599.74,2025-01-16,,Credit Card,Downtown Branch,4.0
+TXN00600,CUST0261,45,Female,TVs,LG 65in OLED,5,5168.12,0,25840.6,2025-08-14,Abu Dhabi,Credit Card,Downtown Branch,5.0
+TXN00642,CUST0210,52,Male,Laptops,MacBook Air M3,1,4271.89,0,4271.89,2025-01-10,Sharjah,Cash,Online Store,4.0
+TXN00153,CUST0221,65,Male,Tablets,iPad Air,1,3270.54,0,3270.54,2025-09-09,Ajman,Cash,Online Store,
+TXN00047,CUST0272,53,Male,TVs,Hisense 43in 4K,1,4637.75,10,4173.98,2025-01-21,Ras Al Khaimah,Tabby (BNPL),Downtown Branch,4.0
+TXN00626,CUST0053,47,Male,Wearables,Apple Watch Series 9,1,1568.26,0,1568.26,2025-03-12,Ras Al Khaimah,Debit Card,Online Store,5.0
+TXN01095,CUST0055,29,Male,Laptops,Dell XPS 13,2,2703.13,15,4595.32,2025-08-02,Fujairah,Apple Pay,Outlet Branch,4.0
+TXN00582,CUST0083,48,Female,Accessories,Wireless Charger Pad,2,311.43,0,622.86,2025-01-28,Sharjah,Credit Card,Outlet Branch,4.0
+TXN01019,CUST0018,53,Female,TVs,Hisense 43in 4K,5,3908.4,5,18564.9,2025-03-02,Fujairah,Tabby (BNPL),Mall Branch,5.0
+TXN00348,CUST0206,51,Female,Cameras,GoPro Hero 12,1,4913.83,15,4176.76,2025-11-21,Ras Al Khaimah,Apple Pay,Outlet Branch,1.0
+TXN01013,CUST0111,25,Male,Laptops,Asus ZenBook 14,1,2598.69,10,2338.82,2025-04-02,Al Ain,Debit Card,Outlet Branch,4.0
+TXN01093,CUST0182,55,Female,Tablets,Xiaomi Pad 6,1,2847.74,5,2705.35,2025-03-23,Ajman,Cash,Online Store,5.0
+TXN00241,CUST0018,53,Female,TVs,Samsung 55in QLED,5,3367.27,0,16836.35,2025-02-13,Fujairah,Debit Card,Mall Branch,4.0
+TXN00613,CUST0060,38,Female,Mobiles,Samsung Galaxy S24,1,3226.46,0,3226.46,2025-10-24,Dubai,Tabby (BNPL),Outlet Branch,4.0
+TXN00482,CUST0093,47,Male,Gaming,PlayStation 5,3,1780.16,0,5340.48,2025-01-04,Fujairah,Apple Pay,Online Store,3.0
+TXN00944,CUST0030,47,Female,Audio,AirPods Pro 2,1,301.78,0,301.78,2025-11-26,Abu Dhabi,Tabby (BNPL),Mall Branch,
+TXN01083,CUST0117,60,Female,Audio,Bose QuietComfort,1,916.05,10,824.44,2025-04-21,Ajman,Credit Card,Downtown Branch,4.0
+TXN00063,CUST0079,39,Male,Laptops,Dell XPS 13,2,8634.69,0,17269.38,2025-08-19,Al Ain,Apple Pay,Online Store,5.0
+TXN01048,CUST0190,20,Male,TVs,Hisense 43in 4K,1,3494.74,10,3145.27,2025-07-06,Ajman,Cash,Online Store,4.0
+TXN00961,CUST0260,52,Female,Accessories,Anker Power Bank,1,193.53,0,193.53,2025-05-27,Ajman,Apple Pay,Mall Branch,5.0
+TXN00292,CUST0256,44,Female,Accessories,Wireless Charger Pad,1,67.99,5,64.59,2025-01-14,Dubai,Credit Card,Mall Branch,5.0
+TXN01036,CUST0072,51,Female,Tablets,Lenovo Tab P11,1,2907.99,0,2907.99,2025-11-05,Dubai,Cash,Outlet Branch,4.0
+TXN00746,CUST0151,19,Male,Cameras,Sony Alpha A6400,3,4915.68,10,13272.34,2025-11-23,Ras Al Khaimah,Tabby (BNPL),Mall Branch,3.0
+TXN01045,CUST0156,30,Female,Smart Home,Philips Hue Starter Kit,1,929.17,10,836.25,2025-12-17,Abu Dhabi,Cash,Outlet Branch,5.0
+TXN00590,CUST0105,38,Male,Audio,JBL Flip 6,1,625.14,0,625.14,2025-12-20, Dubai,Debit Card,Online Store,5.0
+TXN00782,CUST0098,49,Female,Mobiles,Google Pixel 8,0,3399.59,0,6799.18,2025-11-27,Sharjah,Tabby (BNPL),Mall Branch,5.0
+TXN00593,CUST0132,58,Female,Laptops,MacBook Air M3,1,5677.5,15,4825.88,2025-06-12,Al Ain,Tabby (BNPL),Mall Branch,1.0
+TXN00023,CUST0234,23,Female,Mobiles,Samsung Galaxy S24,2,2316.92,0,4633.84,2025-06-09,Dubai,Cash,Outlet Branch,5.0
+TXN00777,CUST0273,48,Female,Wearables,Garmin Venu 3,1,1492.15,0,1492.15,2025-07-05,Ajman,Debit Card,Downtown Branch,4.0
+TXN00536,CUST0002,65,Female,Tablets,Lenovo Tab P11,2,1540.47,5,2926.89,2025-01-22,Sharjah,Cash,Outlet Branch,
+TXN00481,CUST0051,59,Female,TVs,Hisense 43in 4K,2,4335.54,0,8671.08,2025-10-25,Dubai,Debit Card,Online Store,5.0
+TXN00189,CUST0276,33,Female,Tablets,Lenovo Tab P11,1,3441.2,0,3441.2,2025-12-17,Ras Al Khaimah,Credit Card,Downtown Branch,5.0
+TXN01104,CUST0174,37,Female,Accessories,Laptop Sleeve,1,314.61,0,314.61,2025-09-13,Abu Dhabi,Credit Card,Mall Branch,3.0
+TXN00955,CUST0008,30,Female,TVs,Sony 50in Bravia,1,1781.65,0,1781.65,2025-04-13,Sharjah,Credit Card,Online Store,4.0
+TXN00557,CUST0028,58,Male,Laptops,Lenovo ThinkPad E14,5,6585.81,0,32929.05,2025-10-05,Al Ain,Cash,Mall Branch,5.0
+TXN01041,CUST0175,43,Female,Wearables,Apple Watch Series 9,2,1826.42,15,3104.91,2025-09-05,Al Ain,Apple Pay,Downtown Branch,2.0
+TXN01128,CUST0114,55,Female,Mobiles,Samsung Galaxy S24,1,3513.63,5,3337.95,2025-02-28,Abu Dhabi,Tabby (BNPL),Mall Branch,5.0
+TXN00975,CUST0144,26,Male,Laptops,Dell XPS 13,1,3730.11,0,3730.11,2025-12-19,abu dhabi,Tabby (BNPL),Outlet Branch,4.0
+TXN00259,CUST0102,45,Female,TVs,Sony 50in Bravia,1,6799.84,5,6459.85,2025-01-01,Sharjah,Debit Card,Online Store,4.0
+TXN00228,CUST0279,65,Female,Mobiles,Google Pixel 8,1,3693.09,0,3693.09,2025-06-19,,Tabby (BNPL),Online Store,4.0
+TXN01043,CUST0216,31,Female,Tablets,Samsung Galaxy Tab S9,1,1815.01,0,1815.01,2025-11-12,Ajman,Credit Card,Outlet Branch,
+TXN00317,CUST0033,20,Female,Cameras,Canon EOS R50,1,4854.85,15,4126.62,2025-01-26,Ajman,Cash,Mall Branch,4.0
+TXN00598,CUST0028,58,Male,Audio,AirPods Pro 2,1,209.17,5,198.71,2025-06-16,Al Ain,Credit Card,Outlet Branch,4.0
+TXN00108,CUST0056,58,Female,Smart Home,Google Nest Hub,2,1076.58,10,1937.84,2025-05-13,Fujairah,Credit Card,Downtown Branch,4.0
+TXN01107,CUST0036,59,Female,Gaming,Nintendo Switch OLED,2,2342.62,0,4685.24,2025-02-09,Ajman,Debit Card,Downtown Branch,5.0
+TXN00834,CUST0208,22,Female,Smart Home,Google Nest Hub,1,207.41,0,207.41,2025-03-04,Sharjah,Credit Card,Online Store,
+TXN00428,CUST0217,55,Male,TVs,Samsung 55in QLED,4,5891.68,0,23566.72,2025-09-03,Fujairah,Tabby (BNPL),Mall Branch,3.0
+TXN01023,CUST0207,33,Female,Smart Home,Amazon Echo Dot,3,218.2,0,654.6,2025-11-03,Ajman,Debit Card,Outlet Branch,2.0
+TXN00789,CUST0225,28,Female,Tablets,Samsung Galaxy Tab S9,1,1690.47,0,1690.47,2025-12-07,Sharjah,Credit Card,Downtown Branch,4.0
+TXN01197,CUST0005,45,Male,Mobiles,Xiaomi Redmi Note 13,1,3954.62,15,3361.43,2025-03-05,Dubai,Debit Card,Online Store,5.0
+TXN00830,CUST0154,28,Male,Accessories,Laptop Sleeve,1,261.22,5,248.16,2025-01-04,Ajman,Debit Card,Mall Branch,5.0
+TXN01199,CUST0082,26,Female,Tablets,Samsung Galaxy Tab S9,1,1862.52,5,1769.39,2025-02-18,Sharjah,Apple Pay,Online Store,5.0
+TXN00031,CUST0118,38,Male,Cameras,GoPro Hero 12,1,2204.52,0,2204.52,2025-11-25,Dubai,Debit Card,Mall Branch,5.0
+TXN00011,CUST0021,60,Male,Smart Home,Philips Hue Starter Kit,1,783.9,0,783.9,2025-10-28,Fujairah,Tabby (BNPL),Mall Branch,5.0
+TXN00439,CUST0148,53,Female,Smart Home,Philips Hue Starter Kit,1,422.64,5,401.51,2025-12-20,Al Ain,Tabby (BNPL),Outlet Branch,4.0
+TXN00343,CUST0004,24,Male,Cameras,Canon EOS R50,1,3858.69,0,3858.69,2025-11-14,Al Ain,Cash,Mall Branch,3.0
+TXN00581,CUST0199,25,Female,Mobiles,Google Pixel 8,4,4231.78,0,16927.12,2025-12-25,Sharjah,Debit Card,Online Store,3.0
+TXN00459,CUST0212,62,Male,Audio,AirPods Pro 2,5,1054.12,0,5270.6,2025-04-27,Ras Al Khaimah,Tabby (BNPL),Outlet Branch,5.0
+TXN01135,CUST0242,62,Female,Audio,Bose QuietComfort,1,643.06,5,610.91,2025-06-03,Fujairah,Cash,Online Store,5.0
+TXN00126,CUST0173,25,Female,TVs,LG 65in OLED,3,2393.37,10,6462.1,2025-11-17,Al Ain,Cash,Mall Branch,4.0
+TXN00258,CUST0207,33,Female,Tablets,iPad Air,3,1186.46,0,3559.38,2025-01-02,Ajman,Apple Pay,Mall Branch,5.0
+TXN00855,CUST0086,44,Female,Cameras,DJI Osmo Pocket 3,1,2188.76,0,2188.76,2025-10-01,Fujairah,Cash,Online Store,1.0
+TXN01156,CUST0088,59,Male,Mobiles,OnePlus 12,2,2459.33,10,4426.79,2025-06-23,Dubai,Debit Card,Mall Branch,5.0
+TXN00314,CUST0108,50,Male,Audio,Bose QuietComfort,1,1528.85,10,1375.96,2025-12-24,Fujairah,Apple Pay,Mall Branch,5.0
+TXN00845,CUST0022,36,Male,Cameras,Canon EOS R50,1,5075.73,10,4568.16,2025-01-28,Fujairah,Credit Card,Online Store,4.0
+TXN00706,CUST0234,23,Female,Gaming,Nintendo Switch OLED,3,1160.4,10,3133.08,2025-06-06,Dubai,Tabby (BNPL),Outlet Branch,4.0
+TXN00005,CUST0028,58,Male,Tablets,Samsung Galaxy Tab S9,4,2971.2,0,11884.8,2025-03-18,Al Ain,Apple Pay,Downtown Branch,5.0
+TXN00709,CUST0085,45,Female,TVs,LG 65in OLED,1,4641.24,0,4641.24,2025-10-24,Ajman,Apple Pay,Outlet Branch,4.0
+TXN00199,CUST0071,59,Female,Smart Home,Google Nest Hub,2,823.65,0,1647.3,2025-08-20,Ajman,Debit Card,Outlet Branch,4.0
+TXN00410,CUST0226,57,Male,Mobiles,Samsung Galaxy S24,1,1538.84,10,1384.96,2025-12-04,Ajman,Credit Card,Downtown Branch,5.0
+TXN00175,CUST0106,55,Female,Wearables,Garmin Venu 3,1,1170.75,5,1112.21,2025-06-03,,Cash,Mall Branch,5.0
+TXN01007,CUST0191,57,Male,Wearables,Fitbit Charge 6,1,1480.28,0,1480.28,2025-11-28,Ajman,Debit Card,Downtown Branch,4.0
+TXN00997,CUST0201,46,Female,Audio,JBL Flip 6,1,1444.87,5,1372.63,2025-04-15,Fujairah,Debit Card,Mall Branch,4.0
+TXN00203,CUST0124,52,Female,Accessories,Anker Power Bank,5,199.05,20,796.2,2025-12-05,Al Ain,Apple Pay,Outlet Branch,4.0
+TXN00178,CUST0102,45,Female,Accessories,Laptop Sleeve,2,154.43,0,308.86,2025-11-26,Sharjah,Credit Card,Mall Branch,5.0
+TXN00276,CUST0069,52,Male,Gaming,Logitech G502 Mouse,1,1090.35,15,926.8,2025-12-13,Ras Al Khaimah,Credit Card,Downtown Branch,3.0
+TXN00572,CUST0212,62,Male,TVs,Sony 50in Bravia,1,5593.09,5,5313.44,2025-06-04,Ras Al Khaimah,Debit Card,Downtown Branch,1.0
+TXN00413,CUST0031,58,Male,TVs,LG 65in OLED,2,6566.48,0,13132.96,2025-10-01,Ras Al Khaimah,Credit Card,Outlet Branch,5.0
+TXN00014,CUST0206,51,Female,Wearables,Apple Watch Series 9,1,1437.06,0,1437.06,2025-12-13,Ras Al Khaimah,Tabby (BNPL),Mall Branch,5.0
+TXN00484,CUST0062,37,Male,Laptops,Asus ZenBook 14,2,2474.3,10,4453.74,2025-08-06,Dubai,Credit Card,Downtown Branch,4.0
+TXN01162,CUST0134,21,Male,Smart Home,Google Nest Hub,5,387.97,5,1842.86,2025-04-25,Ras Al Khaimah,Credit Card,Online Store,1.0
+TXN00797,CUST0027,35,Male,TVs,Samsung 55in QLED,1,3030.87,0,3030.87,2025-06-11,Al Ain,Credit Card,Downtown Branch,2.0
+TXN00539,CUST0070,37,Female,Gaming,Xbox Series X,1,,5,395.53,2025-12-02,Ras Al Khaimah,Cash,Online Store,4.0
+TXN00118,CUST0251,61,Male,Gaming,Logitech G502 Mouse,4,1067.37,10,3842.53,2025-03-04,Fujairah,Tabby (BNPL),Outlet Branch,5.0
+TXN00537,CUST0126,53,Female,Mobiles,iPhone 15,1,3629.46,20,2903.57,2025-08-12,Ras Al Khaimah,Tabby (BNPL),Outlet Branch,4.0
+TXN00164,CUST0125,59,Male,Cameras,Sony Alpha A6400,1,4769.24,0,4769.24,2025-03-05,Ras Al Khaimah,CREDIT CARD,Downtown Branch,4.0
+TXN00112,CUST0164,55,Female,Tablets,Xiaomi Pad 6,2,3473.72,0,6947.44,2025-04-27,Dubai,Tabby (BNPL),Outlet Branch,5.0
+TXN00345,CUST0248,63,Male,TVs,Sony 50in Bravia,2,5128.03,0,10256.06,2025-01-28,Dubai,Credit Card,Downtown Branch,4.0
+TXN01029,CUST0088,59,Male,Mobiles,OnePlus 12,1,2227.02,0,2227.02,2025-11-12,Dubai,Cash,Downtown Branch,4.0
+TXN00483,CUST0146,31,Male,TVs,LG 65in OLED,2,1431.48,0,2862.96,2025-08-27,Ras Al Khaimah,Debit Card,Mall Branch,5.0
+TXN01059,CUST0272,53,Male,Gaming,Nintendo Switch OLED,1,942.01,5,894.91,2025-01-20,Ras Al Khaimah,Tabby (BNPL),Downtown Branch,5.0
+TXN00131,CUST0058,41,Male,Mobiles,OnePlus 12,1,4140.69,0,4140.69,2025-02-28,Al Ain,Tabby (BNPL),Outlet Branch,3.0
+TXN01121,CUST0155,20,Female,Gaming,Logitech G502 Mouse,1,1770.38,0,1770.38,2025-12-25,Sharjah,Debit Card,Online Store,4.0
+TXN01031,CUST0240,26,Female,Cameras,GoPro Hero 12,1,3047.56,0,3047.56,2025-01-23,Ras Al Khaimah,Credit Card,Online Store,5.0
+TXN00339,CUST0056,58,Female,Mobiles,Samsung Galaxy S24,4,2734.03,5,10389.31,2025-11-20,Fujairah,Credit Card,Downtown Branch,4.0
+TXN01153,CUST0135,45,Female,Smart Home,Philips Hue Starter Kit,4,532.74,0,2130.96,2025-07-03,Dubai,Debit Card,Online Store,5.0
+TXN00073,CUST0068,56,Female,Cameras,DJI Osmo Pocket 3,1,1848.39,5,1755.97,2025-09-06,Sharjah,Apple Pay,Mall Branch,4.0
+TXN00819,CUST0197,29,Female,Laptops,Lenovo ThinkPad E14,0,2771.69,0,2771.69,2025-12-12,Dubai,Credit Card,Online Store,3.0
+TXN01052,CUST0041,43,Female,Gaming,Nintendo Switch OLED,1,1229.57,20,983.66,2025-03-21,,Credit Card,Outlet Branch,5.0
+TXN00516,CUST0172,39,Female,Mobiles,OnePlus 12,2,4297.69,10,7735.84,2025-01-12,Ras Al Khaimah,Apple Pay,Mall Branch,4.0
+TXN00986,CUST0248,63,Male,Wearables,Samsung Galaxy Watch 6,3,2494.72,10,6735.74,2025-10-16,Dubai,Apple Pay,Online Store,4.0
+TXN01096,CUST0193,62,Female,Mobiles,iPhone 15,1,1007.62,0,1007.62,2025-06-10,Ajman,Credit Card,Outlet Branch,3.0
+TXN00013,CUST0252,54,Male,Laptops,Lenovo ThinkPad E14,1,4109.71,5,3904.22,2025-12-11,AbuDhabi,Apple Pay,Outlet Branch,4.0
+TXN00448,CUST0104,21,Male,Laptops,Lenovo ThinkPad E14,2,5294.96,15,9001.43,2025-02-11,Ras Al Khaimah,Apple Pay,Online Store,5.0
+TXN00625,CUST0264,47,Female,Cameras,Canon EOS R50,4,4885.23,0,19540.92,2025-06-27,Abu Dhabi,Credit Card,Mall Branch,5.0
+TXN00209,CUST0138,65,Female,Laptops,MacBook Air M3,1,4012.58,0,4012.58,2025-03-19,Al Ain,Credit Card,Outlet Branch,4.0
+TXN00979,CUST0277,55,Female,Wearables,Samsung Galaxy Watch 6,3,316.66,0,949.98,2025-03-19,Ajman,Apple Pay,Outlet Branch,4.0
+TXN00566,CUST0174,37,Female,Tablets,Lenovo Tab P11,1,1717.34,0,1717.34,2025-11-26,Abu Dhabi,Credit Card,Downtown Branch,4.0
+TXN01094,CUST0013,39,Male,Gaming,Logitech G502 Mouse,1,2040.02,0,2040.02,2025-02-07,Dubai,Tabby (BNPL),Outlet Branch,5.0
+TXN00594,CUST0259,29,Female,Cameras,DJI Osmo Pocket 3,1,2663.79,0,2663.79,2025-12-18,Al Ain,Credit Card,Downtown Branch,4.0
+TXN00341,CUST0023,32,Male,Wearables,Garmin Venu 3,3,873.72,10,2359.04,2025-05-19,Ajman,Tabby (BNPL),Mall Branch,4.0
+TXN00347,CUST0003,32,Male,Laptops,Dell XPS 13,2,5037.51,0,10075.02,2025-03-12,,Credit Card,Mall Branch,5.0
+TXN01131,CUST0240,26,Female,Gaming,Xbox Series X,1,1887.4,0,1887.4,2025-11-22,Ras Al Khaimah,Cash,Downtown Branch,5.0
+TXN00305,CUST0129,53,Male,Audio,Bose QuietComfort,4,1519.47,5,5773.99,2025-09-25,Abu Dhabi,Tabby (BNPL),Downtown Branch,5.0
+TXN00037,CUST0155,20,Female,Smart Home,Amazon Echo Dot,4,296.77,0,1187.08,2025-06-04,Sharjah,Debit Card,Downtown Branch,4.0
+TXN00043,CUST0014,42,Male,Tablets,iPad Air,2,1703.08,0,3406.16,2025-01-09,Abu Dhabi,Credit Card,Downtown Branch,5.0
+TXN00926,CUST0269,56,Female,Smart Home,Amazon Echo Dot,1,333.22,5,316.56,2025-08-15,Al Ain,Debit Card,Online Store,5.0
+TXN00993,CUST0186,23,Female,Wearables,Samsung Galaxy Watch 6,3,2763.04,0,8289.12,2025-11-10,Al Ain,Debit Card,Online Store,4.0
+TXN01034,CUST0192,44,Male,Cameras,GoPro Hero 12,1,3654.07,0,3654.07,2025-12-08,Ras Al Khaimah,Tabby (BNPL),Mall Branch,4.0
+TXN00748,CUST0046,22,Female,Laptops,Lenovo ThinkPad E14,1,8950.21,15,7607.68,2025-04-13,,Cash,Downtown Branch,5.0
+TXN00460,CUST0223,49,Male,Cameras,GoPro Hero 12,1,3994.9,5,3795.15,2025-01-23,Ajman,Tabby (BNPL),Outlet Branch,3.0
+TXN00424,CUST0210,52,Male,Mobiles,Xiaomi Redmi Note 13,1,4315.73,5,4099.94,2025-03-07,Sharjah,Credit Card,Downtown Branch,5.0
+TXN01191,CUST0208,22,Female,Smart Home,Ring Video Doorbell,1,633.61,20,506.89,2025-06-11,Sharjah,Cash,Outlet Branch,3.0
+TXN00597,CUST0085,45,Female,Gaming,Logitech G502 Mouse,1,1980.09,10,1782.08,2025-10-26,Ajman,Apple Pay,Mall Branch,3.0
+TXN00295,CUST0024,35,Female,Tablets,Xiaomi Pad 6,2,1093.26,5,2077.19,2025-01-20,Ras Al Khaimah,Debit Card,Downtown Branch,3.0
+TXN00586,CUST0164,55,Female,Accessories,Laptop Sleeve,1,309.52,0,309.52,2025-08-11,Dubai,Cash,Downtown Branch,3.0
+TXN00027,CUST0196,24,Female,Cameras,Sony Alpha A6400,1,3737.17,0,3737.17,2025-09-15,Sharjah,Cash,Mall Branch,5.0
+TXN00691,CUST0081,49,Male,Gaming,Nintendo Switch OLED,1,1511.21,0,1511.21,2025-06-12,Al Ain,Debit Card,Mall Branch,4.0
+TXN00685,CUST0157,37,Male,Accessories,USB-C Cable Pack,1,148.29,0,148.29,2025-07-26,Sharjah,Tabby (BNPL),Outlet Branch,5.0
+TXN00854,CUST0002,65,Female,Accessories,USB-C Cable Pack,2,232.97,0,465.94,2025-01-24,Sharjah,Debit Card,Outlet Branch,5.0
+TXN00511,CUST0114,55,Female,Cameras,Sony Alpha A6400,3,6025.65,0,18076.95,2025-01-16,Abu Dhabi,Tabby (BNPL),Mall Branch,4.0
+TXN00720,CUST0163,25,Female,Accessories,Anker Power Bank,2,137.23,0,274.46,2025-05-21,Sharjah,Debit Card,Mall Branch,4.0
+TXN00354,CUST0174,37,Female,Accessories,Laptop Sleeve,0,316.89,0,950.67,2025-03-13,Abu Dhabi,Debit Card,Downtown Branch,5.0
+TXN01149,CUST0204,34,Male,Tablets,Xiaomi Pad 6,5,990.15,10,4455.68,2025-12-10,Fujairah,Tabby (BNPL),Mall Branch,4.0
+TXN00056,CUST0263,46,Male,Laptops,HP Pavilion 15,1,4724.35,5,4488.13,2025-06-22,Fujairah,Cash,Mall Branch,3.0
+TXN00464,CUST0177,60,Female,Laptops,Asus ZenBook 14,5,1560.89,0,7804.45,2025-01-10,Ras Al Khaimah,Credit Card,Online Store,5.0
+TXN00217,CUST0119,47,Male,Wearables,Garmin Venu 3,1,2052.12,20,1641.7,2025-01-04,Dubai,Tabby (BNPL),Downtown Branch,
+TXN00744,CUST0244,56,Male,Wearables,Garmin Venu 3,1,1950.57,5,1853.04,2025-12-11,Fujairah,Credit Card,Online Store,5.0
+TXN00041,CUST0171,45,Male,Audio,AirPods Pro 2,1,1448.51,10,1303.66,2025-08-19,,Debit Card,Downtown Branch,4.0
+TXN00397,CUST0213,31,Male,Laptops,Asus ZenBook 14,1,4184.73,5,3975.49,2025-12-06,Ajman,Debit Card,Outlet Branch,4.0
+TXN01170,CUST0103,30,Female,TVs,Sony 50in Bravia,2,2121.23,0,4242.46,2025-09-13,Sharjah,Apple Pay,Outlet Branch,3.0
+TXN00705,CUST0205,58,Female,Cameras,Sony Alpha A6400,4,3892.21,10,14011.96,2025-06-19,,CREDIT CARD,Mall Branch,4.0
+TXN00958,CUST0161,59,Female,Laptops,Lenovo ThinkPad E14,2,2848.53,0,5697.06,2025-12-05,Ras Al Khaimah,Debit Card,Downtown Branch,3.0
+TXN00947,CUST0183,46,Female,Audio,Bose QuietComfort,4,1326.67,10,4776.01,2025-03-21,Ras Al Khaimah,Debit Card,Online Store,4.0
+TXN01118,CUST0213,31,Male,Wearables,Garmin Venu 3,2,636.01,5,1208.42,2025-04-16,Ajman,Cash,Downtown Branch,4.0
+TXN00179,CUST0275,32,Female,Tablets,Lenovo Tab P11,1,1612.76,0,1612.76,2025-12-17,Ras Al Khaimah,Cash,Outlet Branch,
+TXN00177,CUST0170,51,Male,Wearables,Garmin Venu 3,1,2696.16,0,2696.16,2025-02-21,Abu Dhabi,Apple Pay,Outlet Branch,1.0
+TXN00508,CUST0139,63,Female,Audio,JBL Flip 6,2,359.9,0,719.8,2025-01-28,Al Ain,Apple Pay,Outlet Branch,4.0
+TXN00571,CUST0187,60,Female,Accessories,USB-C Cable Pack,2,106.92,10,192.46,2025-11-14,Dubai,Cash,Mall Branch,5.0
+TXN01060,CUST0221,65,Male,Smart Home,Amazon Echo Dot,1,938.96,5,892.01,2025-12-13,Ajman,Tabby (BNPL),Downtown Branch,4.0
+TXN00301,CUST0166,64,Female,Laptops,HP Pavilion 15,1,5717.1,15,4859.53,2025-11-22,Ajman,Tabby (BNPL),Online Store,5.0
+TXN01142,CUST0222,32,Female,Mobiles,Samsung Galaxy S24,1,2897.64,15,2462.99,2025-01-14,Ajman,Credit Card,Outlet Branch,5.0
+TXN00629,CUST0126,53,Female,Tablets,Xiaomi Pad 6,1,2904.2,0,2904.2,2025-12-15,Ras Al Khaimah,Tabby (BNPL),Online Store,5.0
+TXN00841,CUST0039,65,Female,Tablets,Xiaomi Pad 6,1,972.74,10,875.47,2025-04-28,Ras Al Khaimah,Credit Card,Outlet Branch,3.0
+TXN01026,CUST0011,45,Female,Tablets,iPad Air,1,1309.07,0,1309.07,2025-11-08,Abu Dhabi,Cash,Downtown Branch,5.0
+TXN01117,CUST0269,56,Female,Tablets,Samsung Galaxy Tab S9,1,980.32,0,980.32,2025-06-03,Al Ain,Credit Card,Outlet Branch,4.0
+TXN00519,CUST0257,45,Female,Wearables,Apple Watch Series 9,1,1475.41,10,1327.87,2025-12-15,Ras Al Khaimah,Tabby (BNPL),Online Store,5.0
+TXN00728,CUST0247,54,Female,Mobiles,Google Pixel 8,1,2381.37,15,2024.16,2025-04-18,Ajman,Debit Card,Downtown Branch,4.0
+TXN00965,CUST0115,31,Female,Cameras,DJI Osmo Pocket 3,1,3964.32,10,3567.89,2025-11-20,Sharjah,Apple Pay,Outlet Branch,4.0
+TXN01049,CUST0229,47,Male,Gaming,Nintendo Switch OLED,1,1699.16,0,1699.16,2025-01-24,Dubai,Apple Pay,Downtown Branch,3.0
+TXN01130,CUST0078,22,Male,Wearables,Garmin Venu 3,1,,20,1956.59,2025-12-10,Fujairah,Apple Pay,Outlet Branch,5.0
+TXN00030,CUST0203,65,Female,TVs,Samsung 55in QLED,2,5048.32,5,9591.81,2025-01-20,Ajman,Apple Pay,Online Store,5.0
+TXN00562,CUST0024,35,Female,Tablets,Lenovo Tab P11,2,1676.86,0,3353.72,2025-12-11,Ras Al Khaimah,Apple Pay,Mall Branch,4.0
+TXN01068,CUST0228,59,Female,Audio,AirPods Pro 2,1,1755.13,0,1755.13,2025-09-11,Sharjah,Debit Card,Downtown Branch,4.0
+TXN01140,CUST0196,24,Female,Mobiles,OnePlus 12,3,1198.85,5,3416.72,2025-01-04,Sharjah,Credit Card,Downtown Branch,4.0
+TXN00885,CUST0166,64,Female,Smart Home,Google Nest Hub,1,328.7,15,279.39,2025-05-18,Ajman,Credit Card,Mall Branch,4.0
+TXN00204,CUST0089,43,Female,Accessories,Anker Power Bank,1,35.34,0,35.34,2025-01-02,Fujairah,Apple Pay,Online Store,5.0
+TXN00445,CUST0010,18,Male,Audio,JBL Flip 6,3,1469.23,0,4407.69,2025-12-09,Ras Al Khaimah,Credit Card,Online Store,5.0
+TXN00372,CUST0044,58,Male,Smart Home,Philips Hue Starter Kit,2,390.82,0,781.64,2025-01-17,Fujairah,Debit Card,Mall Branch,2.0
+TXN00033,CUST0277,55,Female,Gaming,Nintendo Switch OLED,1,2127.04,10,1914.34,2025-06-26,,Cash,Online Store,5.0
+TXN00865,CUST0201,46,Female,TVs,LG 65in OLED,1,7651.16,0,7651.16,2025-06-21,Fujairah,Tabby (BNPL),Downtown Branch,1.0
+TXN00335,CUST0246,55,Male,Audio,AirPods Pro 2,1,1217.98,0,1217.98,2025-01-19,Abu Dhabi,Debit Card,Downtown Branch,5.0
+TXN00383,CUST0227,55,Male,Audio,Sony WH-1000XM5,2,478.65,0,957.3,2025-10-07,Dubai,Apple Pay,Outlet Branch,5.0
+TXN00740,CUST0121,34,Male,Accessories,Laptop Sleeve,1,245.3,0,245.3,2025-11-01,Abu Dhabi,Tabby (BNPL),Mall Branch,3.0
+TXN00813,CUST0093,47,Male,TVs,Samsung 55in QLED,3,3309.09,10,8934.54,2025-10-07,Fujairah,Credit Card,Downtown Branch,2.0
+TXN00373,CUST0183,46,Female,Gaming,Logitech G502 Mouse,3,1327.83,15,3385.97,2025-07-05,,Tabby (BNPL),Downtown Branch,4.0
+TXN00858,CUST0224,39,Female,TVs,Samsung 55in QLED,3,7968.47,0,23905.41,2025-09-20,Ras Al Khaimah,Apple Pay,Mall Branch,4.0
+TXN01179,CUST0168,54,Male,Tablets,Lenovo Tab P11,2,3374.89,5,6412.29,2025-03-10,abu dhabi,Cash,Online Store,3.0
+TXN00004,CUST0226,57,Male,Gaming,Xbox Series X,1,2424.09,10,2181.68,2025-01-03,Ajman,Apple Pay,Outlet Branch,2.0
+TXN00739,CUST0210,52,Male,Accessories,Anker Power Bank,1,307.88,0,307.88,2025-05-09,Sharjah,Credit Card,Online Store,1.0
+TXN00643,CUST0015,40,Female,Tablets,Samsung Galaxy Tab S9,1,2894.62,15,2460.43,2025-04-10,Fujairah,Debit Card,Downtown Branch,5.0
+TXN00430,CUST0166,64,Female,Tablets,iPad Air,2,955.34,5,1815.15,2025-01-23,Ajman,Apple Pay,Downtown Branch,4.0
+TXN00881,CUST0232,39,Female,Tablets,Lenovo Tab P11,1,2355.28,0,2355.28,2025-01-26,Abu Dhabi,Tabby (BNPL),Mall Branch,5.0
+TXN01076,CUST0197,29,Female,TVs,LG 65in OLED,1,1390.43,0,1390.43,2025-08-09,Dubai,Cash,Outlet Branch,4.0
+TXN00446,CUST0274,19,Male,Tablets,Xiaomi Pad 6,1,1224.66,10,1102.19,2025-04-28,Abu Dhabi,Cash,Mall Branch,4.0
+TXN00042,CUST0076,32,Male,Cameras,Canon EOS R50,5,2525.01,20,10100.04,2025-07-26,Dubai,Debit Card,Mall Branch,5.0
+TXN00223,CUST0053,47,Male,Tablets,iPad Air,3,733.48,20,1760.35,2025-01-27,Ras Al Khaimah,Apple Pay,Online Store,5.0
+TXN01188,CUST0199,25,Female,Accessories,USB-C Cable Pack,2,248.52,0,497.04,2025-12-15,Sharjah,Apple Pay,Downtown Branch,4.0
+TXN00718,CUST0143,53,Male,Cameras,GoPro Hero 12,3,1241.66,0,3724.98,2025-11-16,Ajman,Credit Card,Downtown Branch,4.0
+TXN00848,CUST0244,56,Male,Laptops,HP Pavilion 15,1,4909.34,15,4172.94,2025-01-07,Fujairah,Cash,Mall Branch,5.0
+TXN00114,CUST0117,60,Female,Mobiles,OnePlus 12,1,2577.66,5,2448.78,2025-11-13,Ajman,Debit Card,Downtown Branch,2.0
+TXN00049,CUST0243,41,Male,Laptops,MacBook Air M3,1,7738.29,0,7738.29,2025-11-26,,Debit Card,Mall Branch,4.0
+TXN00290,CUST0028,58,Male,Mobiles,Samsung Galaxy S24,1,2670.6,0,2670.6,2025-02-25,Al Ain,Apple Pay,Online Store,4.0
+TXN00077,CUST0263,46,Male,Tablets,Xiaomi Pad 6,4,956.8,10,3444.48,2025-12-01,Fujairah,Apple Pay,Mall Branch,4.0
+TXN00207,CUST0123,36,Male,Mobiles,Samsung Galaxy S24,1,1118.99,0,1118.99,2025-09-10,Ajman,Debit Card,Mall Branch,1.0
+TXN01067,CUST0123,36,Male,Tablets,Xiaomi Pad 6,4,3323.99,0,13295.96,2025-03-01,Ajman,Debit Card,Outlet Branch,4.0
+TXN00124,CUST0149,65,Male,Mobiles,iPhone 15,2,1904.05,15,3236.88,2025-04-15,Sharjah,Tabby (BNPL),Outlet Branch,5.0
+TXN01098,CUST0280,62,Female,TVs,Sony 50in Bravia,1,5889.08,10,5300.17,2025-12-23,Abu Dhabi,Cash,Online Store,5.0
+TXN00387,CUST0174,37,Female,Mobiles,iPhone 15,1,2115.42,0,2115.42,2025-01-16,Abu Dhabi,Debit Card,Online Store,5.0
+TXN00226,CUST0219,18,Female,Tablets,Lenovo Tab P11,1,1301.21,0,1301.21,2025-12-02,Abu Dhabi,Tabby (BNPL),Downtown Branch,5.0
+TXN00826,CUST0002,65,Female,Audio,Sony WH-1000XM5,1,747.96,0,747.96,2025-01-12,Sharjah,Cash,Downtown Branch,4.0
+TXN00633,CUST0279,65,Female,Cameras,DJI Osmo Pocket 3,3,4836.09,10,13057.44,2025-06-07,Abu Dhabi,Cash,Mall Branch,2.0
+TXN01017,CUST0178,65,Male,Smart Home,Google Nest Hub,3,797.82,15,2034.44,2025-02-12,Al Ain,Debit Card,Mall Branch,3.0
+TXN00222,CUST0183,46,Female,Smart Home,Amazon Echo Dot,1,861.04,20,688.83,2025-01-13,Ras Al Khaimah,Apple Pay,Downtown Branch,3.0
+TXN01092,CUST0171,45,Male,Gaming,Nintendo Switch OLED,1,1289.36,0,1289.36,2025-06-25,Ras Al Khaimah,Apple Pay,Mall Branch,5.0
+TXN01063,CUST0207,33,Female,Accessories,Laptop Sleeve,4,121.61,0,486.44,2025-12-13,Ajman,Cash,Mall Branch,4.0
+TXN00618,CUST0205,58,Female,Accessories,Laptop Sleeve,1,104.21,0,104.21,2025-08-18,Fujairah,Credit Card,Online Store,5.0
+TXN00762,CUST0089,43,Female,Smart Home,Amazon Echo Dot,3,966.62,5,2754.87,2025-03-21,Fujairah,Apple Pay,Online Store,1.0
+TXN00696,CUST0263,46,Male,Tablets,Xiaomi Pad 6,2,1337.22,0,2674.44,2025-03-19,,Tabby (BNPL),Outlet Branch,5.0
+TXN01141,CUST0216,31,Female,Smart Home,Amazon Echo Dot,2,514.67,10,926.41,2025-08-17,Ajman,Credit Card,Outlet Branch,5.0
+TXN00162,CUST0047,56,Female,Mobiles,Xiaomi Redmi Note 13,2,2445.52,0,4891.04,2025-01-14,Al Ain,Apple Pay,Outlet Branch,3.0
+TXN00409,CUST0217,55,Male,Gaming,Nintendo Switch OLED,1,,5,683.13,2025-11-06,Fujairah,Cash,Outlet Branch,
+TXN00630,CUST0227,55,Male,Tablets,iPad Air,1,2709.35,0,2709.35,2025-04-13,Dubai,Debit Card,Outlet Branch,2.0
+TXN01055,CUST0140,18,Male,Mobiles,Google Pixel 8,2,1566.4,5,2976.16,2025-03-15,Dubai,Tabby (BNPL),Online Store,3.0
+TXN00326,CUST0072,51,Female,Wearables,Samsung Galaxy Watch 6,3,958.09,0,2874.27,2025-01-01,Dubai,Tabby (BNPL),Mall Branch,5.0
+TXN00811,CUST0196,24,Female,TVs,LG 65in OLED,1,6754.56,0,6754.56,2025-08-26,Sharjah,Apple Pay,Downtown Branch,4.0
+TXN00950,CUST0233,44,Female,Laptops,MacBook Air M3,1,5241.81,0,5241.81,2025-05-27,Fujairah,Credit Card,Mall Branch,4.0
+TXN00672,CUST0225,28,Female,Laptops,Lenovo ThinkPad E14,1,5842.01,0,5842.01,2025-01-11,Sharjah,Credit Card,Downtown Branch,2.0
+TXN00793,CUST0005,45,Male,Smart Home,Ring Video Doorbell,1,453.94,10,408.55,2025-03-05,DXB,Tabby (BNPL),Downtown Branch,4.0
+TXN00647,CUST0013,39,Male,Cameras,GoPro Hero 12,1,4085.74,0,4085.74,2025-02-20,Dubai,Tabby (BNPL),Mall Branch,5.0
+TXN00668,CUST0209,35,Female,TVs,Samsung 55in QLED,1,5825.18,0,5825.18,2025-11-24,Abu Dhabi,Debit Card,Mall Branch,4.0
+TXN00140,CUST0165,24,Female,Audio,JBL Flip 6,5,1595.83,0,7979.15,2025-06-09,Abu Dhabi,Credit Card,Downtown Branch,5.0
+TXN01038,CUST0126,53,Female,Tablets,Lenovo Tab P11,1,713.85,0,713.85,2025-07-13,Ras Al Khaimah,Debit Card,Outlet Branch,5.0
+TXN00698,CUST0016,20,Female,Gaming,Xbox Series X,1,1570.52,15,1334.94,2025-01-26,Al Ain,Cash,Online Store,3.0
+TXN00573,CUST0159,39,Female,Accessories,Laptop Sleeve,1,209.14,5,198.68,2025-01-06,Fujairah,Cash,Downtown Branch,1.0
+TXN00353,CUST0060,38,Female,Wearables,Fitbit Charge 6,3,2490.28,0,7470.84,2025-10-13,Dubai,Tabby (BNPL),Outlet Branch,5.0
+TXN01112,CUST0034,35,Male,Smart Home,Philips Hue Starter Kit,2,390.83,5,742.58,2025-11-16,Sharjah,Credit Card,Online Store,5.0
+TXN00166,CUST0070,37,Female,TVs,Samsung 55in QLED,1,7652.0,5,7269.4,2025-11-11,Ras Al Khaimah,Apple Pay,Online Store,4.0
+TXN00215,CUST0210,52,Male,Mobiles,Samsung Galaxy S24,2,2803.72,5,5327.07,2025-01-11,Sharjah,Credit Card,Outlet Branch,5.0
+TXN00757,CUST0243,41,Male,Gaming,Logitech G502 Mouse,1,1160.34,0,1160.34,2025-10-07,Al Ain,Tabby (BNPL),Outlet Branch,3.0
+TXN00298,CUST0091,30,Female,Cameras,Sony Alpha A6400,1,5017.72,0,5017.72,2025-09-11,Sharjah,Tabby (BNPL),Outlet Branch,4.0
+TXN00395,CUST0032,38,Male,Gaming,Logitech G502 Mouse,2,2108.46,0,4216.92,2025-09-17,sharjah,Credit Card,Mall Branch,5.0
+TXN00132,CUST0106,55,Female,Cameras,DJI Osmo Pocket 3,1,1500.18,10,1350.16,2025-06-17,Al Ain,Apple Pay,Outlet Branch,4.0
+TXN00315,CUST0079,39,Male,Mobiles,Google Pixel 8,1,3452.41,0,3452.41,2025-02-09,Al Ain,Tabby (BNPL),Mall Branch,4.0
+TXN00139,CUST0206,51,Female,Accessories,USB-C Cable Pack,2,202.72,10,364.9,2025-01-10,Ras Al Khaimah,Debit Card,Online Store,4.0
+TXN01136,CUST0021,60,Male,Smart Home,Philips Hue Starter Kit,1,268.48,0,268.48,2025-12-23,Fujairah,Apple Pay,Online Store,3.0
+TXN00342,CUST0131,39,Male,Accessories,USB-C Cable Pack,1,321.23,0,321.23,2025-07-09,,Debit Card,Mall Branch,5.0
+TXN00417,CUST0199,25,Female,Mobiles,OnePlus 12,1,4311.73,0,4311.73,2025-05-05,Sharjah,Credit Card,Outlet Branch,4.0
+TXN00796,CUST0027,35,Male,Smart Home,Ring Video Doorbell,2,,20,1121.95,2025-03-14,Al Ain,Apple Pay,Mall Branch,4.0
+TXN00039,CUST0144,26,Male,Mobiles,Xiaomi Redmi Note 13,1,1603.9,0,1603.9,2025-05-22,Abu Dhabi,Cash,Online Store,2.0
+TXN00250,CUST0230,34,Female,Tablets,Samsung Galaxy Tab S9,3,3422.06,0,10266.18,2025-06-22,Abu Dhabi,Apple Pay,Downtown Branch,
+TXN00712,CUST0091,30,Female,TVs,Samsung 55in QLED,1,4835.65,0,4835.65,2025-11-22,Sharjah,Cash,Downtown Branch,4.0
+TXN00054,CUST0016,20,Female,Laptops,Asus ZenBook 14,1,3113.5,0,3113.5,2025-05-24,Al Ain,Cash,Mall Branch,5.0
+TXN00137,CUST0118,38,Male,Audio,Bose QuietComfort,1,721.16,15,612.99,2025-11-04,Dubai,Credit Card,Outlet Branch,5.0
+TXN00932,CUST0225,28,Female,TVs,LG 65in OLED,1,2568.11,10,2311.3,2025-11-07,Sharjah,Credit Card,Mall Branch,5.0
+TXN00949,CUST0267,31,Female,Audio,JBL Flip 6,1,1374.15,0,1374.15,2025-11-05,Fujairah,Credit Card,Downtown Branch,5.0
+TXN00036,CUST0120,52,Male,Accessories,Anker Power Bank,4,228.25,0,913.0,2025-09-21,Al Ain,Credit Card,Outlet Branch,5.0
+TXN01022,CUST0279,65,Female,TVs,LG 65in OLED,2,5654.72,0,11309.44,2025-10-11,Abu Dhabi,Debit Card,Online Store,4.0
+TXN00658,CUST0274,19,Male,Cameras,Canon EOS R50,1,2653.51,0,2653.51,2025-01-18,Abu Dhabi,Cash,Outlet Branch,3.0
+TXN00379,CUST0057,58,Male,Accessories,Laptop Sleeve,2,117.08,0,234.16,2025-01-02,SHJ,Tabby (BNPL),Mall Branch,3.0
+TXN01143,CUST0130,36,Male,Gaming,Nintendo Switch OLED,5,1075.23,0,5376.15,2025-11-11,Ras Al Khaimah,Apple Pay,Online Store,5.0
+TXN00579,CUST0127,24,Male,TVs,LG 65in OLED,2,3668.39,10,6603.1,2025-01-20,Abu Dhabi,Credit Card,Mall Branch,5.0
+TXN00802,CUST0099,43,Male,Smart Home,Philips Hue Starter Kit,2,1086.17,10,1955.11,2025-08-12,Sharjah,Cash,Outlet Branch,5.0
+TXN00738,CUST0258,47,Male,Laptops,Lenovo ThinkPad E14,1,5753.19,0,5753.19,2025-11-26,Ajman,Debit Card,Online Store,5.0
+TXN00750,CUST0194,43,Male,Smart Home,Ring Video Doorbell,1,998.87,0,998.87,2025-01-03,Sharjah,Cash,Downtown Branch,5.0
+TXN00053,CUST0137,26,Female,Mobiles,Samsung Galaxy S24,2,1811.1,15,3078.87,2025-05-06,Sharjah,Debit Card,Outlet Branch,2.0
+TXN00378,CUST0265,19,Female,Cameras,GoPro Hero 12,2,2565.72,10,4618.3,2025-06-28,Fujairah,Credit Card,Downtown Branch,3.0
+TXN01016,CUST0227,55,Male,Accessories,Wireless Charger Pad,1,249.32,0,249.32,2025-04-01,Dubai,Cash,Outlet Branch,5.0
+TXN00850,CUST0091,30,Female,Laptops,Dell XPS 13,1,2019.44,0,2019.44,2025-11-28,Sharjah,Apple Pay,Downtown Branch,5.0
+TXN00303,CUST0075,53,Male,Mobiles,Xiaomi Redmi Note 13,1,1554.8,0,1554.8,2025-06-20,Al Ain,Tabby (BNPL),Downtown Branch,5.0
+TXN00247,CUST0116,34,Female,TVs,Samsung 55in QLED,2,2227.69,0,4455.38,2025-10-26,Sharjah,Tabby (BNPL),Outlet Branch,5.0
+TXN01178,CUST0203,65,Female,Mobiles,Google Pixel 8,2,1276.89,0,2553.78,2025-01-06,Ajman,Apple Pay,Mall Branch,3.0
+TXN00426,CUST0202,53,Female,Cameras,Canon EOS R50,1,3863.57,10,3477.21,2025-01-08,Sharjah,Tabby (BNPL),Outlet Branch,5.0
+TXN00833,CUST0113,23,Female,Smart Home,Google Nest Hub,5,1013.63,5,4814.74,2025-01-23,Ras Al Khaimah,Apple Pay,Outlet Branch,4.0
+TXN00029,CUST0102,45,Female,Smart Home,Ring Video Doorbell,0,261.99,0,261.99,2025-03-23,Sharjah,Cash,Mall Branch,5.0
+TXN00839,CUST0020,30,Male,TVs,LG 65in OLED,1,2230.46,10,2007.41,2025-01-23,Dubai,Debit Card,Downtown Branch,5.0
+TXN00916,CUST0263,46,Male,Gaming,Xbox Series X,3,1665.96,10,4498.09,2025-01-28,Fujairah,Apple Pay,Downtown Branch,4.0
+TXN00245,CUST0014,42,Male,Audio,AirPods Pro 2,5,1203.01,0,6015.05,2025-01-26,Abu Dhabi,Apple Pay,Outlet Branch,4.0
+TXN00104,CUST0164,55,Female,Gaming,Logitech G502 Mouse,1,587.69,0,587.69,2025-04-15,Dubai,Credit Card,Online Store,4.0
+TXN00277,CUST0068,56,Female,Audio,Sony WH-1000XM5,1,1122.99,0,1122.99,2025-10-02,,Apple Pay,Online Store,5.0
+TXN00394,CUST0114,55,Female,Cameras,Canon EOS R50,4,1071.97,5,4073.49,2025-12-27,,Credit Card,Outlet Branch,5.0
+TXN00111,CUST0024,35,Female,Mobiles,Samsung Galaxy S24,3,3440.29,0,10320.87,2025-01-17,Ras Al Khaimah,Debit Card,Online Store,5.0
+TXN00784,CUST0192,44,Male,Laptops,HP Pavilion 15,1,8355.34,0,8355.34,2025-11-04,Ras Al Khaimah,Cash,Online Store,4.0
+TXN00160,CUST0231,31,Female,Accessories,USB-C Cable Pack,4,143.86,0,575.44,2025-10-22,Abu Dhabi,Apple Pay,Mall Branch,5.0
+TXN00113,CUST0154,28,Male,Accessories,Anker Power Bank,2,147.87,20,236.59,2025-08-26,Ajman,Credit Card,Outlet Branch,4.0
+TXN00795,CUST0077,63,Male,Audio,Sony WH-1000XM5,1,368.29,20,294.63,2025-12-14,Sharjah,Credit Card,Downtown Branch,3.0
+TXN00661,CUST0251,61,Male,Smart Home,Amazon Echo Dot,2,976.67,0,1953.34,2025-01-27,Fujairah,Apple Pay,Mall Branch,4.0
+TXN00880,CUST0216,31,Female,Smart Home,Philips Hue Starter Kit,1,1004.06,0,1004.06,2025-06-02,Ajman,Cash,Outlet Branch,3.0
+TXN00772,CUST0218,54,Female,Tablets,Samsung Galaxy Tab S9,2,897.56,20,1436.1,2025-10-07,Ajman,Cash,Downtown Branch,4.0
+TXN00330,CUST0250,62,Female,Audio,Sony WH-1000XM5,1,586.19,5,556.88,2025-07-26,Fujairah,Cash,Outlet Branch,4.0
+TXN00263,CUST0193,62,Female,Gaming,Logitech G502 Mouse,1,854.4,5,811.68,2025-11-13,Ajman,Tabby (BNPL),Mall Branch,1.0
+TXN00736,CUST0177,60,Female,Tablets,Lenovo Tab P11,4,2796.44,0,11185.76,2025-04-06,Ras Al Khaimah,Apple Pay,Mall Branch,3.0
+TXN00134,CUST0278,53,Female,Mobiles,iPhone 15,1,4448.71,0,4448.71,2025-02-05,Ajman,Apple Pay,Online Store,
+TXN00638,CUST0127,24,Male,Laptops,HP Pavilion 15,1,5373.39,10,4836.05,2025-06-05,Abu Dhabi,Apple Pay,Outlet Branch,3.0
+TXN00686,CUST0034,35,Male,Laptops,Dell XPS 13,1,8120.42,0,8120.42,2025-07-23,Sharjah,Cash,Online Store,4.0
+TXN00922,CUST0225,28,Female,Cameras,Canon EOS R50,2,3377.95,0,6755.9,2025-11-22,Sharjah,Debit Card,Downtown Branch,
+TXN00168,CUST0252,54,Male,Cameras,Sony Alpha A6400,1,2792.37,10,2513.13,2025-05-19,Abu Dhabi,Debit Card,Downtown Branch,5.0
+TXN01110,CUST0108,50,Male,Laptops,Lenovo ThinkPad E14,1,7054.82,20,5643.86,2025-06-07,Fujairah,Credit Card,Online Store,4.0
+TXN00155,CUST0195,59,Male,Smart Home,Ring Video Doorbell,1,208.92,0,208.92,2025-06-14,Fujairah,Cash,Mall Branch,
+TXN00051,CUST0181,36,Male,Laptops,Asus ZenBook 14,0,5305.59,0,5305.59,2025-11-12,Ajman,Tabby (BNPL),Online Store,3.0
+TXN00025,CUST0148,53,Female,Audio,Sony WH-1000XM5,1,866.05,5,822.75,2025-12-15,Al Ain,debit card,Online Store,5.0
+TXN01122,CUST0075,53,Male,Cameras,Canon EOS R50,2,5113.65,5,9715.93,2025-11-06,Al Ain,Credit Card,Downtown Branch,5.0
+TXN00444,CUST0275,32,Female,Gaming,Logitech G502 Mouse,1,2024.78,5,1923.54,2025-11-10,Ras Al Khaimah,Tabby (BNPL),Online Store,4.0
+TXN00756,CUST0027,35,Male,Tablets,Xiaomi Pad 6,1,2736.71,10,2463.04,2025-12-06,Al Ain,Credit Card,Outlet Branch,4.0
+TXN00999,CUST0255,59,Female,Smart Home,Philips Hue Starter Kit,2,950.84,0,1901.68,2025-08-01,Dubai,Apple Pay,Downtown Branch,4.0
+TXN00151,CUST0039,65,Female,Mobiles,iPhone 15,3,2325.85,0,6977.55,2025-11-01,Ras Al Khaimah,Debit Card,Outlet Branch,4.0
+TXN00554,CUST0087,64,Male,Laptops,HP Pavilion 15,1,,0,8814.06,2025-12-04,Ras Al Khaimah,Debit Card,Outlet Branch,5.0
+TXN00095,CUST0034,35,Male,Wearables,Fitbit Charge 6,3,2528.33,5,7205.74,2025-12-21,Sharjah,Debit Card,Online Store,4.0
+TXN01183,CUST0079,39,Male,Gaming,Nintendo Switch OLED,1,2328.05,0,2328.05,2025-09-13,Al Ain,Apple Pay,Downtown Branch,5.0
+TXN00218,CUST0202,53,Female,Laptops,Asus ZenBook 14,1,5758.66,20,4606.93,2025-03-09,Sharjah,Cash,Outlet Branch,5.0
+TXN00646,CUST0210,52,Male,Smart Home,Google Nest Hub,1,1095.26,0,1095.26,2025-10-15,Sharjah,Cash,Mall Branch,5.0
+TXN00382,CUST0037,59,Female,Wearables,Garmin Venu 3,3,754.01,0,2262.03,2025-05-01,SHJ,Credit Card,Downtown Branch,4.0
+TXN00024,CUST0169,20,Female,Wearables,Garmin Venu 3,2,2685.35,10,4833.63,2025-06-18,Dubai,Credit Card,Mall Branch,4.0
+TXN00293,CUST0156,30,Female,Wearables,Samsung Galaxy Watch 6,1,1936.49,0,1936.49,2025-11-27,Abu Dhabi,Debit Card,Outlet Branch,4.0
+TXN00713,CUST0092,45,Male,Audio,Sony WH-1000XM5,1,1622.93,0,1622.93,2025-01-21,Abu Dhabi,Tabby (BNPL),Mall Branch,4.0
+TXN00174,CUST0248,63,Male,Laptops,HP Pavilion 15,5,4619.82,0,23099.1,2025-12-05,Dubai,Cash,Online Store,
+TXN00101,CUST0087,64,Male,Cameras,Sony Alpha A6400,2,1941.6,15,3300.72,2025-04-19,Ras Al Khaimah,Credit Card,Mall Branch,3.0
+TXN00026,CUST0024,35,Female,Gaming,PlayStation 5,1,945.41,0,945.41,2025-07-19,Ras Al Khaimah,Debit Card,Downtown Branch,3.0
+TXN01129,CUST0186,23,Female,Wearables,Samsung Galaxy Watch 6,5,2034.24,0,10171.2,2025-02-22,Al Ain,Debit Card,Downtown Branch,5.0
+TXN00340,CUST0020,30,Male,Wearables,Apple Watch Series 9,2,532.97,15,906.05,2025-07-01,Dubai,Apple Pay,Outlet Branch,4.0
+TXN00822,CUST0077,63,Male,Tablets,Lenovo Tab P11,1,1113.78,10,1002.4,2025-12-27,Sharjah,Credit Card,Mall Branch,4.0
+TXN00995,CUST0022,36,Male,Tablets,Lenovo Tab P11,1,1544.11,10,1389.7,2025-03-09,Fujairah,Credit Card,Outlet Branch,5.0
+TXN00490,CUST0036,59,Female,Wearables,Samsung Galaxy Watch 6,5,,10,1387.21,2025-06-19,Ajman,Tabby (BNPL),Online Store,4.0
+TXN00684,CUST0012,27,Male,Tablets,Lenovo Tab P11,1,3249.82,5,3087.33,2025-05-26,Fujairah,Credit Card,Online Store,5.0
+TXN00735,CUST0155,20,Female,Wearables,Garmin Venu 3,2,1765.2,10,3177.36,2025-12-28,Sharjah,Credit Card,Mall Branch,5.0
+TXN01035,CUST0138,65,Female,Cameras,DJI Osmo Pocket 3,1,4261.92,0,4261.92,2025-04-20,Al Ain,Tabby (BNPL),Downtown Branch,5.0
+TXN00701,CUST0091,30,Female,Mobiles,OnePlus 12,1,2607.87,0,2607.87,2025-12-10,Sharjah,Debit Card,Downtown Branch,
+TXN00355,CUST0212,62,Male,Gaming,PlayStation 5,1,1841.8,0,1841.8,2025-05-24,Ras Al Khaimah,Cash,Mall Branch,4.0
+TXN00952,CUST0017,25,Female,Wearables,Fitbit Charge 6,4,2643.06,10,9515.02,2025-04-27,Dubai,Cash,Downtown Branch,5.0
+TXN00751,CUST0060,38,Female,Cameras,GoPro Hero 12,1,1700.8,0,1700.8,2025-11-10,Dubai,Credit Card,Downtown Branch,5.0
+TXN00911,CUST0139,63,Female,Tablets,Samsung Galaxy Tab S9,4,1909.74,0,7638.96,2025-01-12,Al Ain,Debit Card,Outlet Branch,4.0
+TXN00589,CUST0088,59,Male,Cameras,Canon EOS R50,1,1077.63,10,969.87,2025-12-27,Dubai,Apple Pay,Mall Branch,3.0
+TXN00243,CUST0106,55,Female,Audio,Bose QuietComfort,2,1300.37,5,2470.7,2025-03-10,Al Ain,Cash,Downtown Branch,3.0
+TXN00169,CUST0014,42,Male,Accessories,USB-C Cable Pack,1,170.31,5,161.79,2025-11-26,Abu Dhabi,Apple Pay,Outlet Branch,3.0
+TXN00074,CUST0122,22,Male,Accessories,Wireless Charger Pad,2,,0,541.54,2025-03-26,Abu Dhabi,Apple Pay,Downtown Branch,4.0
+TXN00560,CUST0085,45,Female,Accessories,Laptop Sleeve,2,73.04,0,146.08,2025-01-22,Ajman,Apple Pay,Outlet Branch,4.0
+TXN01047,CUST0133,49,Female,Audio,Bose QuietComfort,1,867.57,0,867.57,2025-12-15,Fujairah,Cash,Mall Branch,5.0
+TXN01189,CUST0185,65,Male,Audio,AirPods Pro 2,2,623.32,20,997.31,2025-05-09,Ras Al Khaimah,Debit Card,Online Store,5.0
+TXN00119,CUST0203,65,Female,Gaming,Xbox Series X,1,939.0,5,892.05,2025-04-15,Ajman,Cash,Outlet Branch,3.0
+TXN00783,CUST0087,64,Male,Wearables,Samsung Galaxy Watch 6,1,737.04,0,737.04,2025-05-02,Ras Al Khaimah,Apple Pay,Outlet Branch,4.0
+TXN00115,CUST0057,58,Male,Audio,Sony WH-1000XM5,1,877.71,0,877.71,2025-03-17,Sharjah,Tabby (BNPL),Outlet Branch,5.0
+TXN00521,CUST0076,32,Male,Accessories,USB-C Cable Pack,1,310.0,5,294.5,2025-03-22,Dubai,Tabby (BNPL),Downtown Branch,4.0
+TXN00889,CUST0152,39,Female,Laptops,HP Pavilion 15,3,5688.86,5,16213.25,2025-11-07,Fujairah,Credit Card,Mall Branch,5.0
+TXN00006,CUST0195,59,Male,Accessories,Laptop Sleeve,1,125.15,0,125.15,2025-08-02,Fujairah,Tabby (BNPL),Mall Branch,5.0
+TXN00476,CUST0134,21,Male,Audio,Bose QuietComfort,1,448.34,0,448.34,2025-12-05,Ras Al Khaimah,Tabby (BNPL),Downtown Branch,5.0
+TXN00924,CUST0055,29,Male,Accessories,Laptop Sleeve,1,290.32,0,290.32,2025-01-13,Fujairah,credit card,Online Store,2.0
+TXN00827,CUST0074,39,Male,Wearables,Garmin Venu 3,3,906.24,0,2718.72,2025-01-23,Al Ain,Debit Card,Outlet Branch,5.0
+TXN00070,CUST0044,58,Male,TVs,Hisense 43in 4K,1,5575.75,0,5575.75,2025-11-24,Fujairah,Tabby (BNPL),Mall Branch,5.0
+TXN00015,CUST0278,53,Female,Accessories,Laptop Sleeve,1,47.35,5,44.98,2025-06-15,Ajman,CREDIT CARD,Downtown Branch,4.0
+TXN00538,CUST0133,49,Female,Accessories,Anker Power Bank,2,149.42,0,298.84,2025-03-19,Fujairah,Credit Card,Downtown Branch,4.0
+TXN00872,CUST0099,43,Male,Cameras,Canon EOS R50,1,3947.75,10,3552.97,2025-03-12,Sharjah,Credit Card,Downtown Branch,1.0
+TXN00370,CUST0095,53,Male,Mobiles,Samsung Galaxy S24,2,3492.76,15,5937.69,2025-11-03,Dubai,Debit Card,Downtown Branch,4.0
+TXN00079,CUST0147,24,Female,Accessories,USB-C Cable Pack,1,272.83,5,259.19,2025-12-01,Fujairah,Cash,Downtown Branch,5.0
+TXN01137,CUST0053,47,Male,Laptops,Asus ZenBook 14,3,8698.01,0,26094.03,2025-11-16,Ras Al Khaimah,Apple Pay,Outlet Branch,2.0
+TXN00862,CUST0213,31,Male,Mobiles,iPhone 15,2,897.11,10,1614.8,2025-07-24,Ajman,Tabby (BNPL),Online Store,4.0
+TXN00480,CUST0022,36,Male,Laptops,Asus ZenBook 14,5,6280.68,0,31403.4,2025-12-28,Fujairah,Cash,Online Store,4.0
+TXN00517,CUST0090,24,Male,Wearables,Apple Watch Series 9,2,1701.9,0,3403.8,2025-04-18,Sharjah,Credit Card,Outlet Branch,5.0
+TXN01101,CUST0263,46,Male,Gaming,PlayStation 5,5,1544.57,20,6178.28,2025-12-11,Fujairah,Tabby (BNPL),Outlet Branch,4.0
+TXN00653,CUST0122,22,Male,Accessories,Laptop Sleeve,1,333.79,0,333.79,2025-08-03,,Apple Pay,Mall Branch,
+TXN00055,CUST0080,33,Female,Tablets,iPad Air,1,2587.11,5,2457.75,2025-06-15,Ras Al Khaimah,Apple Pay,Online Store,3.0
+TXN00468,CUST0213,31,Male,Accessories,Laptop Sleeve,1,229.44,0,229.44,2025-11-13,Ajman,Cash,Downtown Branch,3.0
+TXN00267,CUST0114,55,Female,Wearables,Garmin Venu 3,2,2566.32,0,5132.64,2025-11-27,Abu Dhabi,Tabby (BNPL),Downtown Branch,4.0
+TXN01078,CUST0195,59,Male,Mobiles,iPhone 15,1,2066.76,0,2066.76,2025-03-25,Fujairah,Credit Card,Downtown Branch,4.0
+TXN01198,CUST0186,23,Female,Cameras,GoPro Hero 12,3,4208.97,0,12626.91,2025-11-10,,Cash,Mall Branch,5.0
+TXN00584,CUST0168,54,Male,Accessories,Anker Power Bank,2,273.83,0,547.66,2025-06-21,Abu Dhabi,Debit Card,Mall Branch,4.0
+TXN00767,CUST0063,33,Male,Mobiles,Samsung Galaxy S24,2,2927.8,0,5855.6,2025-03-25,Dubai,Credit Card,Mall Branch,5.0
+TXN00515,CUST0171,45,Male,Wearables,Apple Watch Series 9,2,1041.47,5,1978.79,2025-09-19,Ras Al Khaimah,Debit Card,Mall Branch,5.0
+TXN00538,CUST0133,49,Female,Accessories,Anker Power Bank,2,149.42,0,298.84,2025-03-19,Fujairah,CREDIT CARD,Downtown Branch,4.0
+TXN01145,CUST0276,33,Female,Audio,JBL Flip 6,1,1517.33,5,1441.46,2025-09-11,Ras Al Khaimah,Tabby (BNPL),Outlet Branch,5.0
+TXN00729,CUST0238,19,Male,TVs,Hisense 43in 4K,1,3125.94,0,3125.94,2025-04-23,Sharjah,Apple Pay,Downtown Branch,3.0
+TXN00060,CUST0011,45,Female,Gaming,Xbox Series X,2,2062.91,10,3713.24,2025-12-03,Abu Dhabi,Apple Pay,Mall Branch,4.0
+TXN00504,CUST0082,26,Female,Mobiles,iPhone 15,1,3185.99,0,3185.99,2025-04-26,Sharjah,Apple Pay,Mall Branch,3.0
+TXN00853,CUST0075,53,Male,Gaming,Nintendo Switch OLED,3,331.21,15,844.59,2025-06-11,Al Ain,Credit Card,Outlet Branch,4.0
+TXN00167,CUST0070,37,Female,TVs,Sony 50in Bravia,2,5301.84,0,10603.68,2025-02-13,Ras Al Khaimah,Cash,Online Store,
+TXN00981,CUST0143,53,Male,Laptops,HP Pavilion 15,2,7527.31,0,15054.62,2025-01-06,Ajman,Tabby (BNPL),Online Store,4.0
+TXN00937,CUST0081,49,Male,TVs,Samsung 55in QLED,1,4834.08,0,4834.08,2025-09-10,Al Ain,Apple Pay,Mall Branch,4.0
+TXN00332,CUST0090,24,Male,Smart Home,Ring Video Doorbell,2,533.56,10,960.41,2025-07-13,Sharjah,Debit Card,Outlet Branch,4.0
+TXN01126,CUST0279,65,Female,Tablets,iPad Air,1,1335.95,0,1335.95,2025-08-10,Abu Dhabi,Debit Card,Online Store,4.0
+TXN00501,CUST0106,55,Female,Tablets,Lenovo Tab P11,1,2164.64,15,1839.94,2025-09-02,Al Ain,Tabby (BNPL),Downtown Branch,5.0
+TXN00248,CUST0117,60,Female,Wearables,Apple Watch Series 9,3,2401.99,0,7205.97,2025-07-28,Ajman,Apple Pay,Downtown Branch,4.0
+TXN00374,CUST0234,23,Female,Cameras,DJI Osmo Pocket 3,2,3879.03,0,7758.06,2025-04-18,Dubai,Debit Card,Mall Branch,4.0
+TXN00890,CUST0031,58,Male,Audio,Sony WH-1000XM5,0,1256.32,0,1256.32,2025-06-11,Ras Al Khaimah,Debit Card,Online Store,5.0
+TXN00473,CUST0019,58,Female,Cameras,GoPro Hero 12,1,4998.34,0,4998.34,2025-06-06,Al Ain,Tabby (BNPL),Mall Branch,5.0
+TXN00500,CUST0009,46,Female,Accessories,Anker Power Bank,1,32.03,0,32.03,2025-10-10,Fujairah,Apple Pay,Outlet Branch,5.0
+TXN01003,CUST0138,65,Female,Audio,Bose QuietComfort,1,1050.22,5,997.71,2025-04-23,,Apple Pay,Mall Branch,5.0
+TXN01148,CUST0039,65,Female,Audio,Sony WH-1000XM5,1,299.39,10,269.45,2025-06-09,Ras Al Khaimah,Debit Card,Online Store,4.0
+TXN00637,CUST0121,34,Male,Cameras,Sony Alpha A6400,1,2926.85,10,2634.16,2025-11-22,Abu Dhabi,Debit Card,Outlet Branch,4.0
+TXN00617,CUST0201,46,Female,Mobiles,Xiaomi Redmi Note 13,2,829.13,5,1575.35,2025-12-28,Fujairah,Apple Pay,Online Store,2.0
+TXN00564,CUST0087,64,Male,Mobiles,OnePlus 12,1,2006.63,10,1805.97,2025-08-14,Ras Al Khaimah,Cash,Mall Branch,5.0
+TXN00136,CUST0276,33,Female,Smart Home,Google Nest Hub,1,914.25,0,914.25,2025-01-10,Ras Al Khaimah,Apple Pay,Outlet Branch,4.0
+TXN00308,CUST0166,64,Female,Cameras,Canon EOS R50,2,5255.14,10,9459.25,2025-04-26,Ajman,Tabby (BNPL),Online Store,2.0
+TXN00561,CUST0081,49,Male,Wearables,Apple Watch Series 9,1,1278.46,20,1022.77,2025-09-12,Al Ain,Cash,Online Store,2.0
+TXN00847,CUST0093,47,Male,Laptops,Lenovo ThinkPad E14,1,7261.62,0,7261.62,2025-04-20,Fujairah,Apple Pay,Downtown Branch,5.0
+TXN00721,CUST0064,64,Female,TVs,LG 65in OLED,2,6217.81,5,11813.84,2025-01-12,Fujairah,Apple Pay,Online Store,3.0
+TXN00567,CUST0025,41,Male,TVs,Hisense 43in 4K,2,6671.3,20,10674.08,2025-11-19,Abu Dhabi,Credit Card,Online Store,4.0
+TXN00502,CUST0046,22,Female,TVs,Sony 50in Bravia,1,4047.74,0,4047.74,2025-12-04,Ajman,Tabby (BNPL),Online Store,5.0
+TXN00983,CUST0019,58,Female,Mobiles,Samsung Galaxy S24,1,1306.44,15,1110.47,2025-10-09,Al Ain,Apple Pay,Downtown Branch,4.0
+TXN00235,CUST0203,65,Female,Cameras,Canon EOS R50,1,2851.09,20,2280.87,2025-11-14,Ajman,Apple Pay,Online Store,3.0
+TXN00627,CUST0260,52,Female,Accessories,Anker Power Bank,1,79.37,10,71.43,2025-01-07,Ajman,Apple Pay,Outlet Branch,5.0
+TXN01024,CUST0102,45,Female,Wearables,Garmin Venu 3,2,732.42,10,1318.36,2025-01-09,Sharjah,Tabby (BNPL),Online Store,3.0
+TXN00431,CUST0195,59,Male,Mobiles,Samsung Galaxy S24,1,4175.34,5,3966.57,2025-02-28,Fujairah,Debit Card,Downtown Branch,5.0
+TXN01105,CUST0219,18,Female,Tablets,Lenovo Tab P11,1,3095.61,10,2786.05,2025-07-21,Abu Dhabi,Debit Card,Online Store,5.0
+TXN00886,CUST0023,32,Male,Laptops,MacBook Air M3,1,8603.59,0,8603.59,2025-09-26,Ajman,Apple Pay,Online Store,5.0
+TXN00192,CUST0143,53,Male,Gaming,Logitech G502 Mouse,1,2390.56,0,2390.56,2025-11-24,Ajman,Credit Card,Outlet Branch,5.0
+TXN00908,CUST0076,32,Male,Accessories,USB-C Cable Pack,1,197.42,0,197.42,2025-02-16,Dubai,Cash,Mall Branch,5.0
+TXN00152,CUST0248,63,Male,Accessories,Anker Power Bank,1,32.12,0,32.12,2025-07-09,Dubai,Tabby (BNPL),Online Store,1.0
+TXN00692,CUST0173,25,Female,Smart Home,Ring Video Doorbell,1,,10,576.84,2025-04-13,Al Ain,Credit Card,Downtown Branch,4.0
+TXN00436,CUST0214,44,Female,Tablets,Samsung Galaxy Tab S9,2,2581.85,5,4905.51,2025-08-26,Al Ain,Tabby (BNPL),Downtown Branch,5.0
+TXN00837,CUST0159,39,Female,Mobiles,Xiaomi Redmi Note 13,5,3581.21,0,17906.05,2025-04-13,Fujairah,Cash,Downtown Branch,5.0
+TXN00667,CUST0012,27,Male,Wearables,Fitbit Charge 6,3,2001.7,0,6005.1,2025-06-22,Fujairah,Credit Card,Online Store,4.0
+TXN00257,CUST0109,29,Male,Smart Home,Ring Video Doorbell,3,947.47,10,2558.17,2025-07-06,Al Ain,Credit Card,Online Store,5.0
+TXN00279,CUST0130,36,Male,Accessories,USB-C Cable Pack,2,95.76,0,191.52,2025-06-04,Ras Al Khaimah,Tabby (BNPL),Online Store,5.0
+TXN00945,CUST0008,30,Female,Audio,Sony WH-1000XM5,1,276.41,0,276.41,2025-01-12,Sharjah,Tabby (BNPL),Downtown Branch,5.0
+TXN00185,CUST0148,53,Female,Tablets,Xiaomi Pad 6,2,2283.82,0,4567.64,2025-07-19,Al Ain,Credit Card,Online Store,5.0
+TXN00688,CUST0261,45,Female,Cameras,DJI Osmo Pocket 3,1,2150.81,0,2150.81,2025-10-03,Abu Dhabi,Debit Card,Outlet Branch,
+TXN00542,CUST0211,27,Male,Gaming,Xbox Series X,1,525.32,0,525.32,2025-02-18,Ajman,Tabby (BNPL),Mall Branch,4.0
+TXN00639,CUST0032,38,Male,Smart Home,Google Nest Hub,1,650.07,0,650.07,2025-07-19,Sharjah,Tabby (BNPL),Outlet Branch,5.0
+TXN00570,CUST0110,22,Male,Accessories,Wireless Charger Pad,1,329.89,5,313.4,2025-11-14,Ajman,Tabby (BNPL),Mall Branch,4.0
+TXN00583,CUST0212,62,Male,Gaming,Logitech G502 Mouse,3,2228.87,10,6017.95,2025-10-17,Ras Al Khaimah,Credit Card,Online Store,4.0
+TXN00384,CUST0160,22,Female,Gaming,Xbox Series X,1,1684.16,15,1431.54,2025-07-09,Abu Dhabi,Apple Pay,Online Store,3.0
+TXN00146,CUST0105,38,Male,Smart Home,Google Nest Hub,2,729.68,0,1459.36,2025-07-12,Dubai,Cash,Online Store,4.0
+TXN00337,CUST0146,31,Male,Laptops,Dell XPS 13,5,4869.03,10,21910.63,2025-02-27,Ras Al Khaimah,Apple Pay,Downtown Branch,5.0
+TXN01144,CUST0083,48,Female,Audio,JBL Flip 6,2,1372.16,10,2469.89,2025-02-16,Sharjah,Credit Card,Online Store,4.0
+TXN00534,CUST0193,62,Female,Laptops,MacBook Air M3,4,4570.95,0,18283.8,2025-08-23,Ajman,Tabby (BNPL),Downtown Branch,3.0
+TXN00216,CUST0158,19,Male,Laptops,Dell XPS 13,1,5473.61,0,5473.61,2025-01-05,Ajman,Cash,Mall Branch,2.0
+TXN01058,CUST0256,44,Female,Audio,AirPods Pro 2,1,1260.43,0,1260.43,2025-12-03,Dubai,Apple Pay,Online Store,3.0
+TXN00240,CUST0253,52,Female,Smart Home,Philips Hue Starter Kit,1,723.33,0,723.33,2025-12-21,Ras Al Khaimah,Debit Card,Downtown Branch,4.0
+TXN00799,CUST0058,41,Male,Laptops,MacBook Air M3,2,6622.21,0,13244.42,2025-05-26,Al Ain,Cash,Online Store,4.0
+TXN01087,CUST0258,47,Male,TVs,Hisense 43in 4K,2,1958.0,0,3916.0,2025-01-17,Ajman,Apple Pay,Outlet Branch,3.0
+TXN00743,CUST0206,51,Female,Tablets,iPad Air,3,2385.35,0,7156.05,2025-10-27,,Debit Card,Online Store,4.0
+TXN00197,CUST0047,56,Female,Laptops,MacBook Air M3,1,3100.66,0,3100.66,2025-07-15,Al Ain,Credit Card,Mall Branch,5.0
+TXN00818,CUST0213,31,Male,Tablets,iPad Air,1,3254.07,0,3254.07,2025-01-21,Ajman,Cash,Downtown Branch,5.0
+TXN00779,CUST0258,47,Male,TVs,Sony 50in Bravia,1,,5,7293.9,2025-12-08,Ajman,Cash,Mall Branch,5.0
+TXN00496,CUST0067,28,Female,Mobiles,Samsung Galaxy S24,4,3140.85,10,11307.06,2025-01-20,Al Ain,Debit Card,Mall Branch,5.0
+TXN00592,CUST0235,65,Male,Laptops,MacBook Air M3,3,5016.61,20,12039.86,2025-05-07,Abu Dhabi,Apple Pay,Outlet Branch,5.0
+TXN00018,CUST0150,28,Male,Wearables,Fitbit Charge 6,1,1338.73,0,1338.73,2025-06-05,Ajman,Apple Pay,Downtown Branch,5.0
+TXN00714,CUST0158,19,Male,Accessories,Anker Power Bank,1,221.43,0,221.43,2025-03-08,Ajman,Cash,Downtown Branch,3.0
+TXN00381,CUST0160,22,Female,Accessories,Wireless Charger Pad,2,178.38,0,356.76,2025-11-05,Abu Dhabi,Credit Card,Online Store,
+TXN00028,CUST0239,19,Male,TVs,LG 65in OLED,4,1702.26,20,5447.23,2025-03-14,Sharjah,Cash,Outlet Branch,
+TXN00278,CUST0025,41,Male,Cameras,Canon EOS R50,2,4640.83,0,9281.66,2025-10-14,Abu Dhabi,Apple Pay,Outlet Branch,3.0
+TXN00790,CUST0069,52,Male,Smart Home,Ring Video Doorbell,4,931.12,0,3724.48,2025-02-16,Ras Al Khaimah,Cash,Mall Branch,4.0
+TXN00632,CUST0156,30,Female,Gaming,Nintendo Switch OLED,1,317.38,0,317.38,2025-12-23,Abu Dhabi,Apple Pay,Outlet Branch,5.0
+TXN00396,CUST0040,55,Female,Audio,Sony WH-1000XM5,1,317.02,0,317.02,2025-02-22,Al Ain,Debit Card,Downtown Branch,
+TXN00867,CUST0114,55,Female,TVs,LG 65in OLED,1,4840.84,10,4356.76,2025-11-25,Abu Dhabi,Cash,Mall Branch,4.0
+TXN00229,CUST0093,47,Male,Mobiles,Xiaomi Redmi Note 13,1,3009.33,10,2708.4,2025-03-26,Fujairah,Apple Pay,Online Store,5.0
+TXN00863,CUST0221,65,Male,Audio,Bose QuietComfort,2,467.89,10,842.2,2025-11-19,Ajman,Apple Pay,Downtown Branch,5.0
+TXN00321,CUST0114,55,Female,Cameras,GoPro Hero 12,1,2068.79,10,1861.91,2025-12-28,Abu Dhabi,Tabby (BNPL),Outlet Branch,5.0
+TXN00682,CUST0004,24,Male,Gaming,PlayStation 5,1,,0,462.21,2025-03-07,Al Ain,Tabby (BNPL),Online Store,2.0
+TXN00148,CUST0114,55,Female,Tablets,iPad Air,4,1430.17,0,5720.68,2025-06-05,Abu Dhabi,Debit Card,Online Store,4.0
+TXN00798,CUST0027,35,Male,Gaming,Xbox Series X,1,927.7,5,881.32,2025-06-09,Al Ain,Apple Pay,Online Store,4.0
+TXN00727,CUST0104,21,Male,TVs,Hisense 43in 4K,5,1744.11,0,8720.55,2025-02-15,,Apple Pay,Outlet Branch,5.0
+TXN00624,CUST0117,60,Female,Laptops,Asus ZenBook 14,1,3180.72,0,3180.72,2025-05-02,Ajman,Tabby (BNPL),Online Store,5.0
+TXN00239,CUST0108,50,Male,Audio,Sony WH-1000XM5,2,728.29,5,1383.75,2025-01-15,Fujairah,Apple Pay,Downtown Branch,5.0
+TXN00495,CUST0275,32,Female,Tablets,Samsung Galaxy Tab S9,1,3289.48,0,3289.48,2025-10-16,Ras Al Khaimah,Tabby (BNPL),Mall Branch,4.0
+TXN00599,CUST0249,55,Male,Accessories,Laptop Sleeve,2,66.0,0,132.0,2025-04-07,,Cash,Downtown Branch,5.0
+TXN00896,CUST0026,40,Male,Audio,Sony WH-1000XM5,1,512.31,0,512.31,2025-03-03,Ras Al Khaimah,Tabby (BNPL),Mall Branch,4.0
+TXN00450,CUST0023,32,Male,Cameras,Canon EOS R50,3,2833.09,0,8499.27,2025-11-24,Ajman,Cash,Mall Branch,4.0
+TXN01062,CUST0112,56,Male,Smart Home,Philips Hue Starter Kit,1,485.37,0,485.37,2025-12-21,Al Ain,Cash,Outlet Branch,3.0
+TXN01015,CUST0268,34,Female,Gaming,PlayStation 5,3,2243.23,20,5383.75,2025-12-27,AbuDhabi,Cash,Downtown Branch,5.0
+TXN00107,CUST0124,52,Female,Audio,JBL Flip 6,1,230.29,0,230.29,2025-11-22,,Apple Pay,Online Store,4.0
+TXN00351,CUST0036,59,Female,Laptops,Asus ZenBook 14,3,3633.7,15,9265.93,2025-04-27,Ajman,Cash,Downtown Branch,5.0
+TXN00524,CUST0148,53,Female,Mobiles,Samsung Galaxy S24,1,2106.55,0,2106.55,2025-12-23,Al Ain,Tabby (BNPL),Online Store,3.0
+TXN00651,CUST0046,22,Female,Tablets,Lenovo Tab P11,2,3366.06,0,6732.12,2025-12-06,Ajman,Credit Card,Mall Branch,4.0
+TXN00390,CUST0080,33,Female,Accessories,Wireless Charger Pad,1,292.21,0,292.21,2025-11-17,Ras Al Khaimah,Apple Pay,Downtown Branch,5.0
+TXN00449,CUST0074,39,Male,Laptops,Asus ZenBook 14,1,6575.38,5,6246.61,2025-06-23,Al Ain,Tabby (BNPL),Mall Branch,1.0
+TXN00094,CUST0147,24,Female,Accessories,USB-C Cable Pack,3,69.24,0,207.72,2025-12-15,Fujairah,Credit Card,Online Store,5.0
+TXN00260,CUST0229,47,Male,Tablets,Xiaomi Pad 6,1,2343.26,0,2343.26,2025-12-24,Dubai,Credit Card,Online Store,1.0
+TXN00555,CUST0143,53,Male,Cameras,GoPro Hero 12,3,5159.67,15,13157.16,2025-05-22,Ajman,Tabby (BNPL),Outlet Branch,5.0
+TXN00676,CUST0132,58,Female,Gaming,Logitech G502 Mouse,2,1359.08,0,2718.16,2025-01-02,Al Ain,Credit Card,Downtown Branch,4.0
+TXN01146,CUST0196,24,Female,Audio,JBL Flip 6,1,1562.36,0,1562.36,2025-06-12,Sharjah,Debit Card,Downtown Branch,4.0
+TXN00171,CUST0215,47,Female,Wearables,Apple Watch Series 9,1,2276.8,10,2049.12,2025-07-21,,Credit Card,Mall Branch,
+TXN00255,CUST0026,40,Male,Accessories,Wireless Charger Pad,1,317.05,10,285.35,2025-04-09,Ras Al Khaimah,Apple Pay,Mall Branch,5.0
+TXN00732,CUST0131,39,Male,Gaming,Logitech G502 Mouse,1,1696.96,0,1696.96,2025-05-14,Ras Al Khaimah,Debit Card,Downtown Branch,4.0
+TXN00962,CUST0145,41,Male,Tablets,iPad Air,2,1614.31,0,3228.62,2025-06-21,Abu Dhabi,Cash,Outlet Branch,5.0
+TXN00603,CUST0067,28,Female,Audio,Sony WH-1000XM5,1,1472.57,10,1325.31,2025-11-18,Al Ain,Tabby (BNPL),Outlet Branch,3.0
+TXN00253,CUST0052,36,Female,Laptops,Asus ZenBook 14,2,7346.59,10,13223.86,2025-12-14,Sharjah,Cash,Outlet Branch,5.0
+TXN00307,CUST0143,53,Male,Wearables,Fitbit Charge 6,1,625.17,0,625.17,2025-04-23,,Debit Card,Mall Branch,3.0
+TXN00548,CUST0035,54,Female,Laptops,Asus ZenBook 14,1,7224.33,5,6863.11,2025-12-06,Sharjah,Tabby (BNPL),Mall Branch,5.0
+TXN00416,CUST0202,53,Female,Tablets,iPad Air,1,1670.98,5,1587.43,2025-03-17,Sharjah,Cash,Mall Branch,5.0
+TXN01185,CUST0271,33,Female,TVs,LG 65in OLED,5,2174.87,0,10874.35,2025-10-14,Ajman,Tabby (BNPL),Mall Branch,5.0
+TXN01028,CUST0103,30,Female,Tablets,Lenovo Tab P11,1,1426.19,0,1426.19,2025-05-12,Sharjah,Cash,Outlet Branch,5.0
+TXN00429,CUST0280,62,Female,Tablets,Xiaomi Pad 6,1,1857.97,0,1857.97,2025-08-23,Abu Dhabi,Debit Card,Outlet Branch,3.0
+TXN00187,CUST0017,25,Female,Accessories,Wireless Charger Pad,3,141.54,0,424.62,2025-12-25,Dubai,Debit Card,Downtown Branch,5.0
+TXN00852,CUST0247,54,Female,Accessories,USB-C Cable Pack,1,338.99,15,288.14,2025-08-27,Ajman,Credit Card,Downtown Branch,2.0
+TXN00816,CUST0055,29,Male,Wearables,Fitbit Charge 6,1,2431.8,0,2431.8,2025-11-15,Fujairah,Debit Card,Online Store,4.0
+TXN00909,CUST0008,30,Female,Accessories,Anker Power Bank,3,99.54,0,298.62,2025-06-01,Sharjah,Apple Pay,Online Store,5.0
+TXN00991,CUST0210,52,Male,Audio,AirPods Pro 2,2,1034.42,0,2068.84,2025-12-20,Sharjah,Cash,Downtown Branch,5.0
+TXN00270,CUST0100,42,Male,Wearables,Apple Watch Series 9,1,2468.74,0,2468.74,2025-01-28,Ajman,Debit Card,Downtown Branch,5.0
+TXN00868,CUST0074,39,Male,Mobiles,OnePlus 12,1,4007.67,15,3406.52,2025-01-05,Al Ain,Cash,Online Store,5.0
+TXN00971,CUST0013,39,Male,Tablets,iPad Air,3,1070.66,15,2730.18,2025-12-12,Dubai,Debit Card,Outlet Branch,5.0
+TXN00700,CUST0105,38,Male,Smart Home,Amazon Echo Dot,1,711.22,0,711.22,2025-08-15,Dubai,Cash,Mall Branch,3.0
+TXN00631,CUST0019,58,Female,Tablets,iPad Air,5,3437.65,10,15469.43,2025-12-10,Al Ain,Apple Pay,Outlet Branch,5.0
+TXN00163,CUST0046,22,Female,Gaming,PlayStation 5,2,1613.23,10,2903.81,2025-01-14,Ajman,Apple Pay,Mall Branch,5.0
+TXN00414,CUST0185,65,Male,Laptops,MacBook Air M3,3,3693.72,0,11081.16,2025-12-17,Ras Al Khaimah,Credit Card,Online Store,4.0
+TXN01109,CUST0225,28,Female,Smart Home,Google Nest Hub,1,365.91,10,329.32,2025-01-06,Sharjah,Tabby (BNPL),Mall Branch,3.0
+TXN00096,CUST0063,33,Male,Audio,AirPods Pro 2,1,540.61,0,540.61,2025-08-15,Dubai,Tabby (BNPL),Downtown Branch,5.0
+TXN00099,CUST0067,28,Female,Smart Home,Amazon Echo Dot,1,1022.96,0,1022.96,2025-02-23,Al Ain,Debit Card,Online Store,5.0
+TXN00007,CUST0107,51,Male,Audio,JBL Flip 6,1,1239.71,0,1239.71,2025-01-01,Dubai,Apple Pay,Outlet Branch,5.0
+TXN00877,CUST0151,19,Male,Cameras,GoPro Hero 12,1,3190.69,10,2871.62,2025-06-06,Ras Al Khaimah,Cash,Downtown Branch,2.0
+TXN00818,CUST0213,31,Male,Tablets,iPad Air,1,3254.07,0,3254.07,2025-01-21,Ajman,Cash,Downtown Branch,5.0
+TXN00823,CUST0143,53,Male,Tablets,iPad Air,1,1604.55,10,1444.1,2025-05-16,Ajman,Apple Pay,Outlet Branch,5.0
+TXN00208,CUST0071,59,Female,Mobiles,Samsung Galaxy S24,1,2636.73,0,2636.73,2025-11-09,Ajman,Debit Card,Online Store,3.0
+TXN00804,CUST0067,28,Female,TVs,Samsung 55in QLED,1,7699.46,20,6159.57,2025-02-27,Al Ain,Apple Pay,Outlet Branch,5.0
+TXN00687,CUST0126,53,Female,Mobiles,OnePlus 12,3,2973.11,0,8919.33,2025-01-08,Ras Al Khaimah,Credit Card,Online Store,5.0
+TXN00873,CUST0071,59,Female,Audio,Sony WH-1000XM5,4,1350.78,0,5403.12,2025-06-03,Ajman,Cash,Online Store,4.0
+TXN00246,CUST0136,18,Female,Laptops,Asus ZenBook 14,1,4406.45,0,4406.45,2025-02-02,Fujairah,Cash,Outlet Branch,4.0
+TXN00612,CUST0096,59,Male,Audio,AirPods Pro 2,5,279.06,0,1395.3,2025-10-14,Dubai,Tabby (BNPL),Mall Branch,1.0
+TXN00230,CUST0120,52,Male,Tablets,iPad Air,1,1394.0,0,1394.0,2025-11-24,Al Ain,Credit Card,Downtown Branch,4.0
+TXN00265,CUST0153,60,Male,Audio,AirPods Pro 2,1,1003.53,0,1003.53,2025-12-26,Abu Dhabi,Tabby (BNPL),Outlet Branch,5.0
+TXN00907,CUST0267,31,Female,Gaming,PlayStation 5,1,1253.61,20,1002.89,2025-11-10,Fujairah,Credit Card,Mall Branch,4.0
+TXN00369,CUST0163,25,Female,TVs,Sony 50in Bravia,1,5316.62,10,4784.96,2025-11-12,Sharjah,Tabby (BNPL),Outlet Branch,4.0
+TXN01042,CUST0155,20,Female,Smart Home,Amazon Echo Dot,2,506.57,0,1013.14,2025-03-13,Sharjah,Apple Pay,Mall Branch,4.0
+TXN00897,CUST0208,22,Female,Smart Home,Ring Video Doorbell,2,256.37,10,461.47,2025-03-07,Sharjah,Debit Card,Downtown Branch,4.0
+TXN01196,CUST0067,28,Female,Accessories,Wireless Charger Pad,2,225.31,0,450.62,2025-09-02,Al Ain,Credit Card,Mall Branch,3.0
+TXN00202,CUST0014,42,Male,TVs,LG 65in OLED,1,4720.69,5,4484.66,2025-03-02,Abu Dhabi,Debit Card,Outlet Branch,4.0
+TXN00730,CUST0098,49,Female,Mobiles,iPhone 15,2,3988.12,0,7976.24,2025-06-14,Sharjah,Apple Pay,Online Store,4.0
+TXN01154,CUST0127,24,Male,Wearables,Samsung Galaxy Watch 6,4,541.55,20,1732.96,2025-11-18,Abu Dhabi,Cash,Mall Branch,5.0
+TXN00800,CUST0142,20,Female,Audio,Bose QuietComfort,1,293.93,5,279.23,2025-09-02,Al Ain,Tabby (BNPL),Downtown Branch,3.0
+TXN00866,CUST0279,65,Female,Laptops,Asus ZenBook 14,2,4368.04,0,8736.08,2025-06-21,Abu Dhabi,Cash,Downtown Branch,4.0
+TXN00404,CUST0196,24,Female,Laptops,MacBook Air M3,1,8414.04,10,7572.64,2025-06-28,,Credit Card,Downtown Branch,5.0
+TXN01090,CUST0080,33,Female,Gaming,Xbox Series X,1,722.19,0,722.19,2025-02-22,Ras Al Khaimah,Debit Card,Online Store,5.0
+TXN01152,CUST0099,43,Male,Smart Home,Google Nest Hub,1,1040.3,5,988.28,2025-12-13,Sharjah,Cash,Online Store,5.0
+TXN00611,CUST0024,35,Female,Laptops,Lenovo ThinkPad E14,1,8075.67,0,8075.67,2025-06-22,Ras Al Khaimah,Apple Pay,Online Store,4.0
+TXN00190,CUST0211,27,Male,Mobiles,Xiaomi Redmi Note 13,1,4008.08,10,3607.27,2025-03-23,Ajman,Cash,Downtown Branch,5.0
+TXN00887,CUST0071,59,Female,Cameras,DJI Osmo Pocket 3,1,,0,1659.46,2025-08-28,Ajman,Apple Pay,Outlet Branch,5.0
+TXN00333,CUST0177,60,Female,Accessories,Laptop Sleeve,1,313.9,10,282.51,2025-06-08,Ras Al Khaimah,Credit Card,Online Store,3.0
+TXN00304,CUST0200,47,Female,Audio,JBL Flip 6,1,1293.34,0,1293.34,2025-06-26,Fujairah,Cash,Mall Branch,1.0
+TXN00261,CUST0026,40,Male,Tablets,Samsung Galaxy Tab S9,2,3099.91,5,5889.83,2025-03-14,Ras Al Khaimah,Tabby (BNPL),Mall Branch,5.0
+TXN00145,CUST0171,45,Male,TVs,Samsung 55in QLED,1,2640.29,5,2508.28,2025-11-25,Ras Al Khaimah,Apple Pay,Downtown Branch,
+TXN00829,CUST0073,33,Male,Laptops,Dell XPS 13,1,2077.99,10,1870.19,2025-01-06,Dubai,Apple Pay,Downtown Branch,5.0
+TXN00628,CUST0004,24,Male,Audio,Bose QuietComfort,1,,0,713.18,2025-05-25,Al Ain,Apple Pay,Online Store,5.0
+TXN00699,CUST0218,54,Female,Smart Home,Philips Hue Starter Kit,1,492.38,10,443.14,2025-12-05,Ajman,Cash,Outlet Branch,
+TXN00284,CUST0161,59,Female,Smart Home,Amazon Echo Dot,2,249.75,0,499.5,2025-12-22,Ras Al Khaimah,Debit Card,Online Store,4.0
+TXN00920,CUST0103,30,Female,Laptops,MacBook Air M3,2,,0,3000.54,2025-01-07,Sharjah,Credit Card,Outlet Branch,1.0
+TXN01119,CUST0277,55,Female,Gaming,PlayStation 5,2,1351.14,10,2432.05,2025-02-08,Ajman,Tabby (BNPL),Downtown Branch,5.0
+TXN00938,CUST0057,58,Male,Cameras,DJI Osmo Pocket 3,5,6153.1,5,29227.22,2025-01-14,Sharjah,Cash,Downtown Branch,4.0
+TXN00012,CUST0138,65,Female,Cameras,Canon EOS R50,1,5197.1,0,5197.1,2025-06-09,Al Ain,Debit Card,Outlet Branch,5.0
+TXN00009,CUST0102,45,Female,Smart Home,Amazon Echo Dot,2,721.79,15,1227.04,2025-11-03,Sharjah,Credit Card,Downtown Branch,5.0
+TXN00891,CUST0160,22,Female,Accessories,USB-C Cable Pack,1,301.3,0,301.3,2025-12-13,Abu Dhabi,Apple Pay,Downtown Branch,5.0
+TXN00595,CUST0258,47,Male,Accessories,Wireless Charger Pad,1,310.93,0,310.93,2025-07-05,Ajman,Cash,Mall Branch,4.0
+TXN00694,CUST0037,59,Female,Gaming,PlayStation 5,1,1501.26,5,1426.2,2025-03-24,Sharjah,Cash,Downtown Branch,5.0
+TXN00532,CUST0229,47,Male,Wearables,Apple Watch Series 9,3,839.24,5,2391.83,2025-06-15,Dubai,Cash,Downtown Branch,5.0
+TXN00895,CUST0196,24,Female,Smart Home,Google Nest Hub,1,458.71,0,458.71,2025-07-16,Sharjah,Tabby (BNPL),Outlet Branch,3.0
+TXN01184,CUST0259,29,Female,Laptops,Dell XPS 13,1,2879.72,5,2735.73,2025-06-28,Al Ain,Apple Pay,Mall Branch,5.0
+TXN00470,CUST0020,30,Male,Cameras,DJI Osmo Pocket 3,1,4876.85,0,4876.85,2025-10-05,Dubai,Tabby (BNPL),Online Store,4.0
+TXN00128,CUST0006,23,Male,TVs,Sony 50in Bravia,1,5910.83,0,5910.83,2025-04-13,Sharjah,Tabby (BNPL),Online Store,5.0
+TXN00737,CUST0214,44,Female,Wearables,Garmin Venu 3,2,1936.3,0,3872.6,2025-05-23,Al Ain,Debit Card,Downtown Branch,4.0
+TXN01037,CUST0236,32,Male,Mobiles,Samsung Galaxy S24,1,1541.5,0,1541.5,2025-02-28,Fujairah,Debit Card,Outlet Branch,3.0
+TXN00058,CUST0221,65,Male,Tablets,Samsung Galaxy Tab S9,2,1764.58,0,3529.16,2025-11-26,Ajman,Cash,Mall Branch,4.0
+TXN00956,CUST0129,53,Male,Cameras,Canon EOS R50,1,1683.69,0,1683.69,2025-03-06,Abu Dhabi,Apple Pay,Outlet Branch,1.0
+TXN01064,CUST0172,39,Female,Accessories,USB-C Cable Pack,1,248.67,0,248.67,2025-06-14,Ras Al Khaimah,Apple Pay,Downtown Branch,5.0
+TXN00034,CUST0240,26,Female,Laptops,Dell XPS 13,1,7156.14,5,6798.33,2025-10-13,Ras Al Khaimah,Tabby (BNPL),Online Store,3.0
+TXN00238,CUST0122,22,Male,Gaming,Nintendo Switch OLED,3,669.35,0,2008.05,2025-11-21,Abu Dhabi,Cash,Outlet Branch,1.0
+TXN01169,CUST0246,55,Male,Cameras,Canon EOS R50,1,5662.76,5,5379.62,2025-12-19,Abu Dhabi,Tabby (BNPL),Outlet Branch,5.0
+TXN00283,CUST0119,47,Male,Accessories,Wireless Charger Pad,1,114.52,10,103.07,2025-12-28,Dubai,Cash,Online Store,5.0
+TXN00587,CUST0189,30,Male,Tablets,Xiaomi Pad 6,4,3153.89,10,11354.0,2025-03-01,Dubai,Tabby (BNPL),Downtown Branch,5.0
+TXN00935,CUST0225,28,Female,Smart Home,Ring Video Doorbell,1,1067.68,0,1067.68,2025-07-04,Sharjah,Credit Card,Outlet Branch,4.0
+TXN00363,CUST0093,47,Male,Cameras,Sony Alpha A6400,2,6386.0,10,11494.8,2025-11-26,,Debit Card,Outlet Branch,
+TXN00244,CUST0202,53,Female,Cameras,DJI Osmo Pocket 3,1,1844.74,0,1844.74,2025-03-22,Sharjah,Tabby (BNPL),Outlet Branch,3.0
+TXN00604,CUST0131,39,Male,Tablets,Samsung Galaxy Tab S9,3,3402.14,0,10206.42,2025-12-06,Ras Al Khaimah,Apple Pay,Outlet Branch,4.0
+TXN00093,CUST0014,42,Male,Tablets,Xiaomi Pad 6,4,2149.69,0,8598.76,2025-11-23,Abu Dhabi,Apple Pay,Downtown Branch,5.0
+TXN00211,CUST0002,65,Female,Mobiles,iPhone 15,1,1704.84,0,1704.84,2025-02-28,Sharjah,Credit Card,Outlet Branch,3.0
+TXN00338,CUST0094,22,Female,Cameras,GoPro Hero 12,2,1922.47,15,3268.2,2025-08-03,Fujairah,Debit Card,Outlet Branch,4.0
+TXN01014,CUST0242,62,Female,Gaming,Nintendo Switch OLED,1,1400.83,0,1400.83,2025-05-13,,Apple Pay,Online Store,4.0
+TXN01032,CUST0005,45,Male,Tablets,Xiaomi Pad 6,1,2031.39,15,1726.68,2025-02-12,Dubai,Cash,Downtown Branch,4.0
+TXN00792,CUST0056,58,Female,Mobiles,Samsung Galaxy S24,1,1375.51,10,1237.96,2025-03-22,Fujairah,Cash,Outlet Branch,5.0
+TXN00669,CUST0216,31,Female,Wearables,Garmin Venu 3,1,1090.6,0,1090.6,2025-12-26,Ajman,Credit Card,Downtown Branch,5.0
+TXN00302,CUST0217,55,Male,Mobiles,OnePlus 12,1,1193.94,0,1193.94,2025-01-09,Fujairah,Debit Card,Online Store,5.0
+TXN00948,CUST0278,53,Female,Wearables,Apple Watch Series 9,4,434.99,5,1652.96,2025-09-09,Ajman,Credit Card,Downtown Branch,5.0
+TXN01116,CUST0014,42,Male,Gaming,PlayStation 5,1,2255.4,10,2029.86,2025-12-02,Abu Dhabi,Tabby (BNPL),Outlet Branch,5.0
+TXN00086,CUST0279,65,Female,Accessories,Wireless Charger Pad,2,41.72,0,83.44,2025-12-02,Abu Dhabi,Cash,Online Store,3.0
+TXN00191,CUST0202,53,Female,Accessories,USB-C Cable Pack,1,214.78,0,214.78,2025-06-21,Sharjah,Credit Card,Outlet Branch,4.0
+TXN00040,CUST0142,20,Female,Audio,Sony WH-1000XM5,3,,0,5147.61,2025-03-21,Al Ain,Tabby (BNPL),Mall Branch,2.0
+TXN00976,CUST0197,29,Female,Gaming,Xbox Series X,1,2397.73,15,2038.07,2025-12-24,Dubai,Debit Card,Outlet Branch,4.0
+TXN00635,CUST0082,26,Female,Mobiles,iPhone 15,1,4094.18,0,4094.18,2025-11-10,Sharjah,Apple Pay,Mall Branch,5.0
+TXN00765,CUST0276,33,Female,Tablets,Xiaomi Pad 6,1,2976.03,0,2976.03,2025-07-26,Ras Al Khaimah,Tabby (BNPL),Outlet Branch,
+TXN00724,CUST0028,58,Male,Audio,AirPods Pro 2,1,1153.3,0,1153.3,2025-06-01,Al Ain,Credit Card,Outlet Branch,2.0
+TXN00064,CUST0162,52,Female,Tablets,Xiaomi Pad 6,1,891.2,0,891.2,2025-03-02,Dubai,Cash,Mall Branch,4.0
+TXN00234,CUST0166,64,Female,Mobiles,iPhone 15,2,1346.53,0,2693.06,2025-01-17,Ajman,Cash,Mall Branch,4.0
+TXN00677,CUST0224,39,Female,Wearables,Fitbit Charge 6,3,1077.97,10,2910.52,2025-01-10,Ras Al Khaimah,Tabby (BNPL),Online Store,4.0
+TXN00106,CUST0161,59,Female,Audio,AirPods Pro 2,1,972.14,0,972.14,2025-04-01,Ras Al Khaimah,Credit Card,Outlet Branch,4.0
+TXN00754,CUST0018,53,Female,Cameras,GoPro Hero 12,5,2698.9,0,13494.5,2025-12-23,Fujairah,Tabby (BNPL),Outlet Branch,5.0
+TXN00903,CUST0235,65,Male,Mobiles,Xiaomi Redmi Note 13,1,1914.2,0,1914.2,2025-10-28,Abu Dhabi,Tabby (BNPL),Outlet Branch,3.0
+TXN00254,CUST0243,41,Male,Mobiles,Samsung Galaxy S24,1,1819.03,5,1728.08,2025-10-02,Al Ain,Apple Pay,Online Store,5.0
+TXN00423,CUST0245,28,Female,Tablets,Xiaomi Pad 6,1,2693.65,10,2424.29,2025-06-05,Dubai,Debit Card,Downtown Branch,3.0
+TXN00775,CUST0054,64,Female,Laptops,Dell XPS 13,3,5448.57,0,16345.71,2025-11-04,Al Ain,Tabby (BNPL),Online Store,5.0
+TXN00859,CUST0279,65,Female,Laptops,Lenovo ThinkPad E14,3,5275.21,5,15034.35,2025-12-07,Abu Dhabi,Debit Card,Outlet Branch,4.0
+TXN00925,CUST0228,59,Female,Mobiles,Xiaomi Redmi Note 13,1,4362.35,5,4144.23,2025-03-06,Sharjah,Cash,Downtown Branch,4.0
+TXN00080,CUST0271,33,Female,Smart Home,Amazon Echo Dot,1,964.98,0,964.98,2025-03-21,Ajman,Tabby (BNPL),Outlet Branch,2.0
+TXN00990,CUST0211,27,Male,Smart Home,Ring Video Doorbell,1,596.46,0,596.46,2025-06-08,Ajman,Cash,Mall Branch,4.0
+TXN00498,CUST0280,62,Female,Tablets,Lenovo Tab P11,2,3042.0,10,5475.6,2025-08-11,Abu Dhabi,Credit Card,Mall Branch,
+TXN01167,CUST0093,47,Male,Cameras,Sony Alpha A6400,1,5951.27,5,5653.71,2025-12-11,Fujairah,Apple Pay,Outlet Branch,5.0
+TXN00088,CUST0266,38,Male,TVs,Samsung 55in QLED,1,6144.15,5,5836.94,2025-11-18,Ajman,Cash,Online Store,3.0
+TXN00065,CUST0232,39,Female,Mobiles,iPhone 15,1,,5,2056.11,2025-12-03,Abu Dhabi,Tabby (BNPL),Outlet Branch,4.0
+TXN00606,CUST0050,52,Female,Gaming,Xbox Series X,3,1377.17,0,4131.51,2025-08-14,Fujairah,Credit Card,Outlet Branch,5.0
+TXN00275,CUST0258,47,Male,Cameras,GoPro Hero 12,3,1918.61,0,5755.83,2025-03-24,Ajman,Tabby (BNPL),Online Store,4.0
+TXN00191,CUST0202,53,Female,Accessories,USB-C Cable Pack,1,214.78,0,214.78,2025-06-21,Sharjah,Credit Card,Outlet Branch,4.0
+TXN01082,CUST0137,26,Female,Wearables,Fitbit Charge 6,1,528.4,10,475.56,2025-01-05,Sharjah,Tabby (BNPL),Online Store,2.0
+TXN00154,CUST0041,43,Female,Gaming,Logitech G502 Mouse,1,1309.8,5,1244.31,2025-03-27,Sharjah,Credit Card,Mall Branch,3.0
+TXN00614,CUST0185,65,Male,Smart Home,Philips Hue Starter Kit,1,242.02,0,242.02,2025-11-23,Ras Al Khaimah,Debit Card,Mall Branch,3.0
+TXN00411,CUST0076,32,Male,TVs,Samsung 55in QLED,3,3534.25,0,10602.75,2025-06-11,Dubai,Debit Card,Downtown Branch,3.0
+TXN00831,CUST0017,25,Female,Cameras,Sony Alpha A6400,1,3768.12,10,3391.31,2025-10-15,Dubai,Tabby (BNPL),Online Store,5.0
+TXN00913,CUST0103,30,Female,TVs,LG 65in OLED,1,4030.92,0,4030.92,2025-03-21,Sharjah,Apple Pay,Downtown Branch,4.0
+TXN00518,CUST0108,50,Male,Audio,JBL Flip 6,1,731.97,5,695.37,2025-03-03,,Cash,Online Store,4.0
+TXN00045,CUST0267,31,Female,TVs,Hisense 43in 4K,1,5574.72,20,4459.78,2025-11-14,Fujairah,Credit Card,Outlet Branch,5.0
+TXN00391,CUST0187,60,Female,Cameras,Sony Alpha A6400,1,2763.82,20,2211.06,2025-11-07,Dubai,Tabby (BNPL),Outlet Branch,5.0
+TXN00221,CUST0047,56,Female,Tablets,Lenovo Tab P11,2,3013.88,0,6027.76,2025-11-11,Al Ain,Debit Card,Mall Branch,5.0
+TXN00141,CUST0219,18,Female,Wearables,Garmin Venu 3,1,417.21,5,396.35,2025-05-17,Abu Dhabi,Cash,Outlet Branch,4.0
+TXN00358,CUST0253,52,Female,Cameras,Canon EOS R50,1,5203.34,0,5203.34,2025-06-20,Ras Al Khaimah,Cash,Outlet Branch,5.0
+TXN00723,CUST0021,60,Male,Wearables,Garmin Venu 3,1,1920.12,0,1920.12,2025-11-11,Fujairah,Cash,Downtown Branch,3.0
+TXN00262,CUST0005,45,Male,Accessories,USB-C Cable Pack,2,237.16,0,474.32,2025-03-26,Dubai,Cash,Online Store,4.0
+TXN00899,CUST0036,59,Female,Tablets,Samsung Galaxy Tab S9,1,1630.03,20,1304.02,2025-10-14,Ajman,Cash,Mall Branch,3.0
+TXN00196,CUST0141,62,Male,Laptops,HP Pavilion 15,1,3377.92,15,2871.23,2025-02-13,Al Ain,Cash,Downtown Branch,4.0
+TXN00116,CUST0032,38,Male,Tablets,Samsung Galaxy Tab S9,5,2270.48,0,11352.4,2025-05-06,Sharjah,Apple Pay,Online Store,
+TXN00719,CUST0049,64,Male,Cameras,GoPro Hero 12,2,6397.79,5,12155.8,2025-12-23,Ras Al Khaimah,Debit Card,Online Store,3.0
+TXN01176,CUST0117,60,Female,Gaming,Logitech G502 Mouse,1,398.46,0,398.46,2025-10-14,Ajman,Tabby (BNPL),Online Store,3.0
+TXN01080,CUST0205,58,Female,Laptops,HP Pavilion 15,1,5305.62,20,4244.5,2025-11-18,Fujairah,Credit Card,Mall Branch,4.0
+TXN00359,CUST0141,62,Male,Accessories,USB-C Cable Pack,4,345.01,0,1380.04,2025-03-19,Al Ain,Debit Card,Mall Branch,4.0
+TXN01061,CUST0064,64,Female,Laptops,Lenovo ThinkPad E14,5,3137.29,0,15686.45,2025-02-06,Fujairah,Apple Pay,Outlet Branch,4.0
+TXN01020,CUST0242,62,Female,Cameras,DJI Osmo Pocket 3,1,3696.65,10,3326.99,2025-11-26,Fujairah,Credit Card,Mall Branch,4.0
+TXN01001,CUST0251,61,Male,Cameras,Sony Alpha A6400,1,1461.39,10,1315.25,2025-07-27,Fujairah,Tabby (BNPL),Downtown Branch,2.0
+TXN00936,CUST0277,55,Female,Gaming,PlayStation 5,4,792.85,15,2695.69,2025-03-23,Ajman,Cash,Mall Branch,5.0
+TXN00755,CUST0111,25,Male,Accessories,Wireless Charger Pad,1,255.32,20,204.26,2025-04-27,Al Ain,Debit Card,Downtown Branch,5.0
+TXN00421,CUST0212,62,Male,Smart Home,Philips Hue Starter Kit,4,615.15,10,2214.54,2025-12-09,Ras Al Khaimah,Debit Card,Downtown Branch,3.0
+TXN00150,CUST0181,36,Male,Tablets,Samsung Galaxy Tab S9,1,2716.88,15,2309.35,2025-07-21,Ajman,Credit Card,Mall Branch,5.0
+TXN00010,CUST0148,53,Female,Accessories,Anker Power Bank,1,179.98,0,179.98,2025-03-18,Al Ain,Apple Pay,Outlet Branch,3.0
+TXN01070,CUST0276,33,Female,Laptops,Asus ZenBook 14,1,6353.17,0,6353.17,2025-06-24,Ras Al Khaimah,Credit Card,Online Store,5.0
+TXN01157,CUST0034,35,Male,TVs,Sony 50in Bravia,2,7641.99,5,14519.78,2025-06-23,Sharjah,Debit Card,Outlet Branch,3.0
+TXN00535,CUST0196,24,Female,TVs,Hisense 43in 4K,3,1487.18,10,4015.39,2025-04-18,Sharjah,Apple Pay,Downtown Branch,1.0
+TXN00549,CUST0051,59,Female,Audio,Bose QuietComfort,1,754.66,0,754.66,2025-12-06,Dubai,Cash,Outlet Branch,4.0
+TXN00299,CUST0128,25,Male,TVs,Hisense 43in 4K,5,7752.44,0,38762.2,2025-01-14,Ras Al Khaimah,Tabby (BNPL),Online Store,5.0
+TXN00977,CUST0161,59,Female,Laptops,HP Pavilion 15,1,3635.93,0,3635.93,2025-06-06,Ras Al Khaimah,Cash,Online Store,5.0
+TXN00123,CUST0020,30,Male,Tablets,Xiaomi Pad 6,1,3170.29,15,2694.75,2025-12-13,Dubai,Apple Pay,Downtown Branch,5.0
+TXN00710,CUST0205,58,Female,Audio,Bose QuietComfort,1,212.33,5,201.71,2025-01-22,Fujairah,Apple Pay,Outlet Branch,
+TXN01099,CUST0229,47,Male,Audio,AirPods Pro 2,1,680.09,0,680.09,2025-02-23,Dubai,Cash,Online Store,5.0
+TXN00770,CUST0023,32,Male,Audio,Sony WH-1000XM5,1,460.32,10,414.29,2025-12-20,Ajman,Tabby (BNPL),Downtown Branch,4.0
+TXN00089,CUST0168,54,Male,TVs,Sony 50in Bravia,2,4232.23,0,8464.46,2025-06-15,Abu Dhabi,Credit Card,Online Store,5.0
+TXN01033,CUST0096,59,Male,Mobiles,Google Pixel 8,1,3794.12,0,3794.12,2025-06-13,Dubai,Apple Pay,Downtown Branch,4.0
+TXN00098,CUST0163,25,Female,Laptops,Lenovo ThinkPad E14,1,4993.75,0,4993.75,2025-11-18,Sharjah,Tabby (BNPL),Downtown Branch,5.0
+TXN01192,CUST0272,53,Male,Audio,AirPods Pro 2,1,507.98,0,507.98,2025-12-22,Ras Al Khaimah,Tabby (BNPL),Online Store,5.0
+TXN00349,CUST0266,38,Male,TVs,LG 65in OLED,1,1428.54,0,1428.54,2025-03-06,Ajman,Credit Card,Online Store,4.0
+TXN00510,CUST0268,34,Female,Accessories,USB-C Cable Pack,3,219.31,0,657.93,2025-11-24,Abu Dhabi,Debit Card,Downtown Branch,4.0
+TXN00212,CUST0128,25,Male,Smart Home,Philips Hue Starter Kit,1,434.82,0,434.82,2025-07-02,Ras Al Khaimah,Debit Card,Downtown Branch,5.0
+TXN00704,CUST0244,56,Male,Tablets,Lenovo Tab P11,1,2344.98,5,2227.73,2025-03-01,Fujairah,Debit Card,Outlet Branch,2.0
+TXN00747,CUST0045,61,Female,TVs,Hisense 43in 4K,1,2342.76,0,2342.76,2025-10-08,Al Ain,Debit Card,Downtown Branch,3.0
+TXN01046,CUST0274,19,Male,Gaming,PlayStation 5,5,2028.09,0,10140.45,2025-05-22,Abu Dhabi,Credit Card,Downtown Branch,1.0
+TXN00940,CUST0019,58,Female,Gaming,PlayStation 5,1,2389.8,5,2270.31,2025-01-18,Al Ain,Apple Pay,Downtown Branch,4.0
+TXN01166,CUST0228,59,Female,Mobiles,OnePlus 12,1,943.46,20,754.77,2025-12-26,Sharjah,CASH,Online Store,3.0
+TXN00284,CUST0161,59,Female,Smart Home,Amazon Echo Dot,2,249.75,0,499.5,2025-12-22,Ras Al Khaimah,Debit Card,Online Store,4.0
+TXN01114,CUST0108,50,Male,TVs,Sony 50in Bravia,3,5399.37,0,16198.11,2025-02-17,Fujairah,Debit Card,Downtown Branch,4.0
+TXN00479,CUST0200,47,Female,Accessories,Wireless Charger Pad,3,76.45,0,229.35,2025-12-15,Fujairah,Apple Pay,Online Store,5.0
+TXN00492,CUST0149,65,Male,Audio,AirPods Pro 2,5,1064.88,5,5058.18,2025-03-13,Sharjah,Credit Card,Online Store,4.0
+TXN00842,CUST0161,59,Female,Tablets,Lenovo Tab P11,1,1152.12,0,1152.12,2025-01-06,Ras Al Khaimah,Apple Pay,Online Store,5.0
+TXN01071,CUST0021,60,Male,Gaming,Logitech G502 Mouse,1,1876.57,5,1782.74,2025-06-04,Fujairah,Credit Card,Downtown Branch,5.0
+TXN00365,CUST0154,28,Male,TVs,Samsung 55in QLED,2,3909.13,0,7818.26,2025-11-16,Ajman,Credit Card,Outlet Branch,5.0
+TXN00297,CUST0231,31,Female,Accessories,USB-C Cable Pack,1,338.43,5,321.51,2025-08-14,Abu Dhabi,Tabby (BNPL),Outlet Branch,5.0
+TXN00050,CUST0169,20,Female,Laptops,Lenovo ThinkPad E14,2,4151.99,10,7473.58,2025-12-24,Dubai,Credit Card,Online Store,5.0
+TXN00225,CUST0170,51,Male,Laptops,MacBook Air M3,1,8567.1,15,7282.03,2025-06-24,Abu Dhabi,Apple Pay,Outlet Branch,1.0
+TXN00851,CUST0133,49,Female,Tablets,iPad Air,4,958.84,0,3835.36,2025-11-06,Fujairah,Debit Card,Online Store,5.0
+TXN00648,CUST0268,34,Female,Audio,Bose QuietComfort,1,979.35,5,930.38,2025-07-01,Abu Dhabi,Cash,Downtown Branch,4.0
+TXN00563,CUST0183,46,Female,Smart Home,Philips Hue Starter Kit,1,209.27,0,209.27,2025-04-03,Ras Al Khaimah,Credit Card,Online Store,3.0
+TXN00623,CUST0184,31,Female,TVs,Sony 50in Bravia,1,5803.11,10,5222.8,2025-07-26,Fujairah,Credit Card,Online Store,4.0
+TXN00665,CUST0203,65,Female,Laptops,HP Pavilion 15,1,5768.27,0,5768.27,2025-10-19,Ajman,Tabby (BNPL),Downtown Branch,2.0
+TXN01088,CUST0034,35,Male,Smart Home,Philips Hue Starter Kit,3,249.3,0,747.9,2025-10-27,Sharjah,Debit Card,Downtown Branch,5.0
+TXN00805,CUST0263,46,Male,Laptops,Dell XPS 13,1,4783.09,0,4783.09,2025-05-20,Fujairah,Cash,Downtown Branch,3.0
+TXN00605,CUST0079,39,Male,Laptops,HP Pavilion 15,1,5181.34,10,4663.21,2025-04-22,Al Ain,Tabby (BNPL),Downtown Branch,4.0
+TXN00443,CUST0100,42,Male,Gaming,Nintendo Switch OLED,1,2329.02,0,2329.02,2025-01-05,Ajman,Apple Pay,Downtown Branch,5.0
+TXN01138,CUST0054,64,Female,TVs,Sony 50in Bravia,2,7352.17,0,14704.34,2025-10-09,Al Ain,Cash,Mall Branch,1.0
+TXN01025,CUST0239,19,Male,Cameras,Canon EOS R50,1,4114.04,0,4114.04,2025-01-24,Sharjah,Credit Card,Downtown Branch,4.0
+TXN00540,CUST0040,55,Female,Wearables,Samsung Galaxy Watch 6,1,2216.11,0,2216.11,2025-11-18,Al Ain,Cash,Online Store,5.0
+TXN00768,CUST0260,52,Female,TVs,Sony 50in Bravia,1,7770.68,20,6216.54,2025-10-08,Ajman,Cash,Mall Branch,5.0
+TXN00763,CUST0060,38,Female,Laptops,MacBook Air M3,2,5169.14,0,10338.28,2025-01-19,Dubai,Tabby (BNPL),Outlet Branch,4.0
+TXN00869,CUST0048,34,Male,Laptops,Lenovo ThinkPad E14,4,7834.68,0,31338.72,2025-01-26,Ras Al Khaimah,Credit Card,Outlet Branch,2.0
+TXN00690,CUST0206,51,Female,Cameras,Canon EOS R50,3,2139.6,0,6418.8,2025-03-07,Ras Al Khaimah,Cash,Outlet Branch,5.0
+TXN00188,CUST0180,53,Male,Cameras,DJI Osmo Pocket 3,1,1912.9,0,1912.9,2025-03-02,abu dhabi,Tabby (BNPL),Online Store,
+TXN00407,CUST0135,45,Female,Laptops,Lenovo ThinkPad E14,2,5263.67,0,10527.34,2025-01-18,Dubai,Debit Card,Outlet Branch,4.0
+TXN01012,CUST0197,29,Female,Gaming,Nintendo Switch OLED,2,2426.65,5,4610.64,2025-12-07,Dubai,debit card,Mall Branch,5.0
+TXN00752,CUST0217,55,Male,Gaming,Nintendo Switch OLED,4,2054.54,0,8218.16,2025-10-19,Fujairah,Debit Card,Mall Branch,
+TXN01051,CUST0269,56,Female,Cameras,DJI Osmo Pocket 3,1,1223.53,0,1223.53,2025-09-24,Al Ain,Credit Card,Outlet Branch,4.0
+TXN00462,CUST0032,38,Male,Laptops,Dell XPS 13,3,7627.75,15,19450.76,2025-09-01,Sharjah,Debit Card,Downtown Branch,4.0
+TXN00671,CUST0172,39,Female,TVs,LG 65in OLED,1,1933.32,0,1933.32,2025-01-11,Ras Al Khaimah,Tabby (BNPL),Downtown Branch,5.0
+TXN00656,CUST0232,39,Female,Mobiles,iPhone 15,5,3806.78,5,18082.21,2025-10-06,Abu Dhabi,Credit Card,Mall Branch,5.0
+TXN00786,CUST0250,62,Female,Mobiles,Xiaomi Redmi Note 13,1,821.8,0,821.8,2025-01-12,Fujairah,Debit Card,Outlet Branch,4.0
+TXN01084,CUST0227,55,Male,Laptops,Lenovo ThinkPad E14,1,2980.47,0,2980.47,2025-06-19,Dubai,Credit Card,Outlet Branch,5.0
+TXN00715,CUST0009,46,Female,Smart Home,Amazon Echo Dot,1,1188.76,0,1188.76,2025-10-08,Fujairah,Credit Card,Downtown Branch,5.0
+TXN00425,CUST0225,28,Female,Cameras,DJI Osmo Pocket 3,3,4783.24,10,12914.75,2025-06-25,Sharjah,Credit Card,Outlet Branch,5.0
+TXN00044,CUST0270,18,Male,Laptops,MacBook Air M3,2,5071.84,0,10143.68,2025-01-17,Dubai,Debit Card,Mall Branch,5.0
+TXN00662,CUST0193,62,Female,Cameras,GoPro Hero 12,3,3127.13,10,8443.25,2025-12-04,Ajman,Apple Pay,Online Store,5.0
+TXN00636,CUST0191,57,Male,TVs,Sony 50in Bravia,2,2041.93,15,3471.28,2025-06-19,Ajman,Credit Card,Outlet Branch,4.0
+TXN00529,CUST0206,51,Female,Cameras,Sony Alpha A6400,1,3452.85,0,3452.85,2025-09-19,Ras Al Khaimah,Tabby (BNPL),Downtown Branch,5.0
+TXN00988,CUST0060,38,Female,Tablets,Xiaomi Pad 6,2,3377.68,0,6755.36,2025-05-05,Dubai,Apple Pay,Outlet Branch,5.0
+TXN00219,CUST0168,54,Male,Gaming,Logitech G502 Mouse,1,898.3,0,898.3,2025-11-19,Abu Dhabi,Credit Card,Downtown Branch,3.0
+TXN00821,CUST0147,24,Female,Gaming,PlayStation 5,1,896.41,0,896.41,2025-03-23,Fujairah,Credit Card,Mall Branch,5.0
+TXN00136,CUST0276,33,Female,Smart Home,Google Nest Hub,1,914.25,0,914.25,2025-01-10,Ras Al Khaimah,Apple Pay,Outlet Branch,4.0
+TXN01174,CUST0023,32,Male,Audio,Sony WH-1000XM5,1,904.44,0,904.44,2025-04-23,Ajman,Debit Card,Outlet Branch,3.0
+TXN00856,CUST0158,19,Male,Wearables,Apple Watch Series 9,2,2048.29,0,4096.58,2025-06-12,,Tabby (BNPL),Outlet Branch,4.0
+TXN00610,CUST0130,36,Male,Gaming,Nintendo Switch OLED,2,1588.25,0,3176.5,2025-11-15,Ras Al Khaimah,Debit Card,Downtown Branch,5.0
+TXN00486,CUST0038,34,Male,TVs,Samsung 55in QLED,1,3803.03,0,3803.03,2025-12-09,Sharjah,Debit Card,Outlet Branch,
+TXN01150,CUST0116,34,Female,Accessories,Anker Power Bank,1,108.69,20,86.95,2025-01-08,Sharjah,Debit Card,Downtown Branch,5.0
+TXN01018,CUST0185,65,Male,Wearables,Samsung Galaxy Watch 6,1,314.04,0,314.04,2025-05-09,Ras Al Khaimah,Tabby (BNPL),Mall Branch,5.0
+TXN01086,CUST0091,30,Female,Gaming,Logitech G502 Mouse,5,1431.24,0,7156.2,2025-12-08,Sharjah,Cash,Online Store,5.0
+TXN00082,CUST0214,44,Female,Tablets,iPad Air,1,2165.76,20,1732.61,2025-07-26,Al Ain,Tabby (BNPL),Mall Branch,4.0
+TXN00325,CUST0170,51,Male,Accessories,Laptop Sleeve,2,172.51,0,345.02,2025-01-21,Abu Dhabi,Tabby (BNPL),Mall Branch,5.0
+TXN01081,CUST0268,34,Female,Audio,AirPods Pro 2,2,572.52,5,1087.79,2025-10-08,Abu Dhabi,Debit Card,Outlet Branch,3.0
+TXN00020,CUST0153,60,Male,Cameras,DJI Osmo Pocket 3,1,5758.93,0,5758.93,2025-04-25,Abu Dhabi,Tabby (BNPL),Outlet Branch,
+TXN00455,CUST0102,45,Female,Wearables,Apple Watch Series 9,2,2734.2,0,5468.4,2025-01-27,Sharjah,Apple Pay,Mall Branch,4.0
+TXN01111,CUST0261,45,Female,Laptops,Lenovo ThinkPad E14,1,1621.09,0,1621.09,2025-12-04,AbuDhabi,Cash,Online Store,5.0
+TXN00839,CUST0020,30,Male,TVs,LG 65in OLED,1,2230.46,10,2007.41,2025-01-23,Dubai,Debit Card,Downtown Branch,5.0
+TXN00759,CUST0075,53,Male,Audio,AirPods Pro 2,1,1477.19,5,1403.33,2025-05-28,Al Ain,Tabby (BNPL),Mall Branch,5.0
+TXN00035,CUST0203,65,Female,Mobiles,Xiaomi Redmi Note 13,1,2785.32,5,2646.05,2025-10-19,Ajman,Apple Pay,Online Store,3.0
+TXN00809,CUST0136,18,Female,Tablets,Xiaomi Pad 6,1,3215.34,20,2572.27,2025-09-01,Fujairah,Cash,Downtown Branch,5.0
+TXN01163,CUST0032,38,Male,Wearables,Apple Watch Series 9,1,2006.78,0,2006.78,2025-12-01,Sharjah,Credit Card,Online Store,4.0
+TXN00905,CUST0221,65,Male,Gaming,Xbox Series X,1,1937.6,20,1550.08,2025-09-09,Ajman,Tabby (BNPL),Outlet Branch,5.0
+TXN00801,CUST0229,47,Male,Laptops,MacBook Air M3,2,8563.64,0,17127.28,2025-06-25,Dubai,Debit Card,Downtown Branch,2.0
+TXN00097,CUST0045,61,Female,Laptops,HP Pavilion 15,2,4486.2,0,8972.4,2025-06-14,Al Ain,Tabby (BNPL),Mall Branch,3.0
+TXN01108,CUST0014,42,Male,Tablets,Xiaomi Pad 6,4,1044.71,0,4178.84,2025-12-28,Abu Dhabi,Debit Card,Outlet Branch,2.0
+TXN00447,CUST0045,61,Female,Accessories,USB-C Cable Pack,3,148.91,0,446.73,2025-07-06,Al Ain,Credit Card,Online Store,5.0
+TXN00475,CUST0141,62,Male,TVs,Samsung 55in QLED,2,6241.72,15,10610.92,2025-11-22,Al Ain,Apple Pay,Online Store,5.0
+TXN00367,CUST0276,33,Female,Tablets,Lenovo Tab P11,2,1694.31,0,3388.62,2025-11-03,Ras Al Khaimah,Apple Pay,Online Store,4.0
+TXN01177,CUST0140,18,Male,Smart Home,Amazon Echo Dot,1,586.68,0,586.68,2025-12-27,Dubai,Apple Pay,Online Store,5.0
+TXN00761,CUST0264,47,Female,Gaming,Logitech G502 Mouse,2,2433.4,0,4866.8,2025-01-08,Abu Dhabi,Apple Pay,Outlet Branch,4.0
+TXN00919,CUST0254,41,Male,Tablets,Samsung Galaxy Tab S9,2,3206.15,0,6412.3,2025-09-24,Al Ain,Credit Card,Outlet Branch,5.0
+TXN00760,CUST0076,32,Male,Smart Home,Ring Video Doorbell,1,863.42,0,863.42,2025-05-16,Dubai,Debit Card,Mall Branch,3.0
+TXN00393,CUST0017,25,Female,Audio,Sony WH-1000XM5,1,950.86,0,950.86,2025-11-22,Dubai,Apple Pay,Online Store,2.0
+TXN00507,CUST0249,55,Male,Mobiles,Google Pixel 8,4,1336.28,0,5345.12,2025-05-05,Dubai,Apple Pay,Downtown Branch,5.0
+TXN00435,CUST0076,32,Male,Mobiles,Xiaomi Redmi Note 13,3,935.87,5,2667.23,2025-11-10,Dubai,Cash,Mall Branch,2.0
+TXN00649,CUST0228,59,Female,Laptops,Asus ZenBook 14,0,6051.41,0,6051.41,2025-12-01,Sharjah,Cash,Outlet Branch,3.0
+TXN00943,CUST0219,18,Female,Wearables,Samsung Galaxy Watch 6,1,588.96,5,559.51,2025-12-12,Abu Dhabi,Debit Card,Online Store,4.0
+TXN00637,CUST0121,34,Male,Cameras,Sony Alpha A6400,1,2926.85,10,2634.16,2025-11-22,Abu Dhabi,Debit Card,Outlet Branch,4.0
+TXN00133,CUST0237,59,Male,TVs,Samsung 55in QLED,3,3892.45,5,11093.48,2025-08-02,Fujairah,Apple Pay,Online Store,5.0
+TXN01075,CUST0082,26,Female,Cameras,GoPro Hero 12,1,3614.07,0,3614.07,2025-11-23,Sharjah,Debit Card,Downtown Branch,5.0
+TXN00973,CUST0182,55,Female,Accessories,Laptop Sleeve,2,231.87,0,463.74,2025-11-23,Ajman,Debit Card,Downtown Branch,5.0
+TXN00451,CUST0160,22,Female,Audio,JBL Flip 6,1,480.92,0,480.92,2025-11-22,Abu Dhabi,Credit Card,Online Store,3.0
+TXN00032,CUST0021,60,Male,TVs,Hisense 43in 4K,1,1426.88,0,1426.88,2025-12-11,Fujairah,Apple Pay,Downtown Branch,3.0
+TXN00122,CUST0244,56,Male,Accessories,USB-C Cable Pack,1,271.89,0,271.89,2025-01-25,Fujairah,Credit Card,Downtown Branch,4.0
+TXN01113,CUST0166,64,Female,Mobiles,Samsung Galaxy S24,1,3935.43,0,3935.43,2025-07-05,Ajman,Apple Pay,Mall Branch,2.0
+TXN00256,CUST0117,60,Female,Tablets,Lenovo Tab P11,1,3427.81,10,3085.03,2025-03-14,Ajman,Tabby (BNPL),Mall Branch,3.0
+TXN00893,CUST0057,58,Male,Audio,Sony WH-1000XM5,1,1625.26,0,1625.26,2025-10-15,Sharjah,Cash,Online Store,3.0
+TXN00360,CUST0217,55,Male,Accessories,Anker Power Bank,1,190.79,5,181.25,2025-02-04,Fujairah,Tabby (BNPL),Outlet Branch,4.0
+TXN00052,CUST0143,53,Male,Cameras,Sony Alpha A6400,3,5439.72,20,13055.33,2025-11-20,Ajman,Tabby (BNPL),Mall Branch,5.0
+TXN00876,CUST0197,29,Female,Smart Home,Google Nest Hub,1,745.5,5,708.23,2025-01-06,Dubai,Credit Card,Online Store,4.0
+TXN00939,CUST0031,58,Male,Tablets,Samsung Galaxy Tab S9,2,,15,3794.13,2025-10-02,Ras Al Khaimah,Debit Card,Outlet Branch,2.0
+TXN00773,CUST0079,39,Male,Gaming,Logitech G502 Mouse,5,1133.67,0,5668.35,2025-03-18,Al Ain,Credit Card,Outlet Branch,2.0
+TXN01127,CUST0224,39,Female,Wearables,Apple Watch Series 9,5,2715.73,0,13578.65,2025-11-17,Ras Al Khaimah,Debit Card,Downtown Branch,5.0
+TXN00680,CUST0215,47,Female,Gaming,Xbox Series X,3,530.67,15,1353.21,2025-06-01,Dubai,Debit Card,Downtown Branch,4.0
+TXN00806,CUST0082,26,Female,Cameras,Sony Alpha A6400,1,4256.62,15,3618.13,2025-07-17,Sharjah,Tabby (BNPL),Online Store,4.0
+TXN00125,CUST0069,52,Male,Wearables,Garmin Venu 3,3,982.09,0,2946.27,2025-11-21,Ras Al Khaimah,Cash,Downtown Branch,1.0
+TXN00405,CUST0006,23,Male,Smart Home,Amazon Echo Dot,1,470.02,0,470.02,2025-01-17,SHJ,Debit Card,Downtown Branch,2.0
+TXN00731,CUST0158,19,Male,Cameras,Canon EOS R50,1,3248.33,15,2761.08,2025-05-19,Ajman,Debit Card,Downtown Branch,5.0
+TXN00832,CUST0257,45,Female,TVs,LG 65in OLED,1,4080.96,20,3264.77,2025-07-05,Ras Al Khaimah,Debit Card,Outlet Branch,5.0
+TXN01072,CUST0058,41,Male,Tablets,Lenovo Tab P11,1,1856.1,15,1577.68,2025-11-07,Al Ain,Cash,Mall Branch,4.0
+TXN00726,CUST0219,18,Female,Accessories,Wireless Charger Pad,1,82.53,0,82.53,2025-09-10,Abu Dhabi,Cash,Outlet Branch,5.0
+TXN00588,CUST0237,59,Male,Audio,JBL Flip 6,1,1307.08,0,1307.08,2025-06-09,Fujairah,Debit Card,Mall Branch,5.0
+TXN00608,CUST0269,56,Female,Laptops,HP Pavilion 15,1,5011.64,10,4510.48,2025-04-05,Al Ain,Cash,Downtown Branch,4.0
+TXN00434,CUST0244,56,Male,Accessories,Laptop Sleeve,2,171.4,0,342.8,2025-12-09,Fujairah,Tabby (BNPL),Downtown Branch,2.0
+TXN00675,CUST0169,20,Female,Cameras,Sony Alpha A6400,1,1594.04,5,1514.34,2025-08-27,Dubai,Debit Card,Downtown Branch,5.0
+TXN00361,CUST0005,45,Male,Mobiles,Samsung Galaxy S24,1,2203.88,0,2203.88,2025-12-06,DXB,Tabby (BNPL),Online Store,4.0
+TXN01100,CUST0012,27,Male,Tablets,iPad Air,1,2498.27,10,2248.44,2025-11-27,Fujairah,Tabby (BNPL),Mall Branch,5.0
+TXN00467,CUST0079,39,Male,TVs,LG 65in OLED,1,2113.09,0,2113.09,2025-11-16,Al Ain,Apple Pay,Downtown Branch,3.0
+TXN00300,CUST0161,59,Female,Wearables,Samsung Galaxy Watch 6,2,802.22,0,1604.44,2025-04-22,Ras Al Khaimah,Debit Card,Downtown Branch,4.0
+TXN00494,CUST0231,31,Female,Mobiles,iPhone 15,1,2055.35,5,1952.58,2025-06-07,Abu Dhabi,Tabby (BNPL),Outlet Branch,5.0
+TXN00528,CUST0076,32,Male,Cameras,DJI Osmo Pocket 3,1,2862.76,0,2862.76,2025-01-22,Dubai,Tabby (BNPL),Mall Branch,4.0
+TXN01193,CUST0210,52,Male,Gaming,Nintendo Switch OLED,1,769.73,0,769.73,2025-10-10,Sharjah,Tabby (BNPL),Outlet Branch,2.0
