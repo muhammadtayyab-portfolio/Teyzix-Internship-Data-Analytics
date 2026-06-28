@@ -1,4 +1,4 @@
-joblib>=1.2.0
+shap
 altair==6.2.1
 anyio==4.13.0
 attrs==26.1.0
