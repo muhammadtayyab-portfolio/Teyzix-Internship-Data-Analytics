@@ -7,7 +7,7 @@
 ## 🌐 Live Demo
 
 🚀 **Try the Live App:**
-👉 https://teyzix-internship-data-analytics-muhammadtayyab.streamlit.app/
+👉 [https://teyzix-internship-data-analytics-muhammadtayyab.streamlit.app/](https://muhammadtayyab-portfolio-hc4dkprqerwgvjsbsvxsjq.streamlit.app/)
 
 ---
 
